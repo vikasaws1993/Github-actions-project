@@ -1,0 +1,135 @@
+/* Admin Management Page Styles - Styled Identical to ArogyaSevaks */
+
+.admin-mgmt-container {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  padding: 24px;
+  background-color: #f8fafc;
+  min-height: 100vh;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  color: #0f172a;
+}
+
+.spin-icon {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Pagination Bar */
+.admin-pagination-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 20px;
+  background: #ffffff;
+  border-top: 1px solid #e2e8f0;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.admin-pagination-info {
+  font-size: 0.825rem;
+  color: #64748b;
+  font-weight: 500;
+}
+
+.admin-pagination-info strong {
+  color: #0f172a;
+  font-weight: 700;
+}
+
+.admin-pagination-controls {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.btn-page-nav {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 6px 12px;
+  background: #ffffff;
+  border: 1px solid #cbd5e1;
+  border-radius: 7px;
+  color: #334155;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.btn-page-nav:hover:not(:disabled) {
+  background: #f1f5f9;
+  border-color: #94a3b8;
+  color: #0f172a;
+}
+
+.btn-page-nav:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+  background: #f8fafc;
+  border-color: #e2e8f0;
+}
+
+.page-numbers-list {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.btn-page-num {
+  min-width: 32px;
+  height: 32px;
+  padding: 0 6px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 7px;
+  color: #475569;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.btn-page-num:hover:not(.is-active):not(:disabled) {
+  background: #f8fafc;
+  border-color: #cbd5e1;
+  color: #0f172a;
+}
+
+.btn-page-num.is-active {
+  background: #166534;
+  border-color: #166534;
+  color: #ffffff;
+  font-weight: 700;
+  box-shadow: 0 1px 3px rgba(22, 101, 52, 0.3);
+}
+
+.page-ellipsis {
+  padding: 0 4px;
+  color: #94a3b8;
+  font-size: 0.85rem;
+  user-select: none;
+}
+
+@media (max-width: 640px) {
+  .admin-pagination-bar {
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+}

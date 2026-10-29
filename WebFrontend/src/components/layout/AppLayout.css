@@ -1,0 +1,89 @@
+.am-app-layout {
+  display: flex;
+  min-height: 100vh;
+  background-color: var(--bg-app, #f8fafc);
+  color: var(--text-main, #0f172a);
+  font-family: var(--font-family-body, system-ui);
+}
+
+.am-main-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.am-content-area {
+  flex: 1;
+  padding: 18px 24px 32px 24px;
+  max-width: 1380px;
+  width: 100%;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  .am-content-area {
+    padding: 12px 14px 24px 14px;
+  }
+}
+
+/* Universal KPI Stat Card Styles (Matching Admin Dashboard Specs) */
+.admin-kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  width: 100%;
+}
+
+@media (max-width: 1024px) {
+  .admin-kpi-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.kpi-card {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 20px 24px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+  border: 1px solid #eef2f6;
+  border-left: 5px solid transparent;
+  cursor: pointer;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.kpi-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.06);
+}
+
+.kpi-card.border-blue { border-left-color: #2563eb; }
+.kpi-card.border-amber { border-left-color: #f59e0b; }
+.kpi-card.border-green { border-left-color: #10b981; }
+.kpi-card.border-slate { border-left-color: #64748b; }
+
+.kpi-value {
+  font-size: 2.25rem;
+  font-weight: 800;
+  line-height: 1.1;
+  margin-bottom: 6px;
+  letter-spacing: -0.5px;
+}
+
+.text-blue { color: #2563eb; }
+.text-amber { color: #f59e0b; }
+.text-green { color: #10b981; }
+.text-slate { color: #64748b; }
+
+.kpi-label {
+  font-size: 0.85rem;
+  color: #64748b;
+  font-weight: 600;
+}
+

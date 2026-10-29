@@ -1,0 +1,2367 @@
+﻿Specialty,Specialty Code,Package Code,Package Name,Procedure Code
+Burns Management,BM,BM001,Thermal burns,BM001A
+Burns Management,BM,BM001,Thermal burns,BM001B
+Burns Management,BM,BM001,Thermal burns,BM001C
+Burns Management,BM,BM001,Thermal burns,BM001D
+Burns Management,BM,BM001,Thermal burns,BM001E
+Burns Management,BM,BM002,Scald burns,BM002A
+Burns Management,BM,BM002,Scald burns,BM002B
+Burns Management,BM,BM002,Scald burns,BM002C
+Burns Management,BM,BM002,Scald burns,BM002D
+Burns Management,BM,BM002,Scald burns,BM002E
+Burns Management,BM,BM003,Flame burns,BM003A
+Burns Management,BM,BM003,Flame burns,BM003B
+Burns Management,BM,BM003,Flame burns,BM003C
+Burns Management,BM,BM003,Flame burns,BM003D
+Burns Management,BM,BM004,Electrical contact burns,BM004A
+Burns Management,BM,BM004,Electrical contact burns,BM004B
+Burns Management,BM,BM004,Electrical contact burns,BM004C
+Burns Management,BM,BM004,Electrical contact burns,BM004D
+Burns Management,BM,BM005,Chemical burns,BM005A
+Burns Management,BM,BM005,Chemical burns,BM005B
+Burns Management,BM,BM006,Post Burn Contracture surgeries for Functional Improvement,BM006A
+Burns Management,BM,BM006,Post Burn Contracture surgeries for Functional Improvement,BM006B
+Emergency Room Packages,ER,ER001,Laceration - Suturing / Dressing,ER001A
+Emergency Room Packages,ER,ER002,Cardiopulmonary emergency,ER002A
+Emergency Room Packages,ER,ER002,Cardiopulmonary emergency,ER002B
+Emergency Room Packages,ER,ER003,Animal bites (Excluding Snake Bite),ER003A
+Emergency Room Packages,ER,SB001,Fracture - Conservative Management - Without plaster,SB001A
+Emergency Room Packages,ER,SU073,Emergency management of Hematuria,SU073A
+Infectious Diseases,ID,ID001,"Laboratory Tests for COVID-19 Infection (PCR) (Reimbursement level for this package will be as per the ICMR guidelines, issued from time to time)",ID001A
+Infectious Diseases,ID,ID001,"Laboratory Tests for COVID-19 Infection (PCR) (Reimbursement level for this package will be as per the ICMR guidelines, issued from time to time)",ID001B
+Infectious Diseases,ID,ID003,Treatment of COVID- 19 Infection,ID003A
+Infectious Diseases,ID,ID005,Treatment of systemic fungal infections,ID005A
+Interventional Neuroradiology,IN,MC002,Catheter directed Thrombolysis,MC002A
+Interventional Neuroradiology,IN,MC002,Catheter directed Thrombolysis,MC002B
+Interventional Neuroradiology,IN,MC002,Catheter directed Thrombolysis,MC002C
+Interventional Neuroradiology,IN,MG010,Chronic PD catheter Insertion,MG0100A
+Interventional Neuroradiology,IN,MG082,Bone marrow aspiration of biopsy,MG082A
+Interventional Neuroradiology,IN,MG083,Lumbar puncture,MG083A
+Interventional Neuroradiology,IN,MG084,Joint Aspiration,MG084A
+Interventional Neuroradiology,IN,MG085,DVT Pneumatic Compression Stockings (Add on package in ICU),MG085A
+Interventional Neuroradiology,IN,MG097,Endobronchial Ultrasound (EBUS),MG097A
+Interventional Neuroradiology,IN,SU008,Nephrostomy - Percutaneous ultrasound guided,SU008A
+Cardiology,MC,MC001,Right / Left Heart Catheterization,MC001A
+Cardiology,MC,MC001,Right / Left Heart Catheterization,MC001B
+Cardiology,MC,MC002,Catheter directed Thrombolysis,MC002A
+Cardiology,MC,MC002,Catheter directed Thrombolysis,MC002B
+Cardiology,MC,MC002,Catheter directed Thrombolysis,MC002C
+Cardiology,MC,MC003,Balloon Dilatation,MC003A
+Cardiology,MC,MC003,Balloon Dilatation,MC003B
+Cardiology,MC,MC004,Balloon Pulmonary / Aortic Valvotomy,MC004A
+Cardiology,MC,MC004,Balloon Pulmonary / Aortic Valvotomy,MC004B
+Cardiology,MC,MC005,Balloon Mitral Valvotomy,MC005A
+Cardiology,MC,MC006,Balloon Atrial Septostomy,MC006A
+Cardiology,MC,MC007,ASD Device Closure,MC007A
+Cardiology,MC,MC008,VSD Device Closure,MC008A
+Cardiology,MC,MC009,PDA Device Closure,MC009A
+Cardiology,MC,MC010,PDA stenting,MC010A
+Cardiology,MC,MC011,"PTCA, inclusive of diagnostic angiogram",MC011A
+Cardiology,MC,MC012,Electrophysiological Study,MC012A
+Cardiology,MC,MC012,Electrophysiological Study,MC012B
+Cardiology,MC,MC013,Percutaneous Transluminal Septal Myocardial Ablation,MC013A
+Cardiology,MC,MC014,Temporary Pacemaker implantation,MC014A
+Cardiology,MC,MC015,Single Chamber Permanent Pacemaker Implantation,MC015A
+Cardiology,MC,MC016,Double Chamber Permanent Pacemaker Implantation,MC016A
+Cardiology,MC,MC017,Peripheral Angioplasty,MC017A
+Cardiology,MC,MC018,Bronchial artery Embolisation (for Haemoptysis),MC018A
+Cardiology,MC,MC019,Pericardiocentesis,MC019A
+Cardiology,MC,MC020,Systemic Thrombolysis (for MI),MC020A
+Cardiology,MC,MC021,Embolization,MC021A
+Cardiology,MC,MC022,follow up -Cardiology,MC022A
+Cardiology,MC,MC022,follow up -Cardiology,MC022B
+Cardiology,MC,MC022,follow up -Cardiology,MC022C
+Cardiology,MC,MC022,follow up -Cardiology,MC022D
+Cardiology,MC,MC022,follow up -Cardiology,MC022E
+Cardiology,MC,MG037,Cardiac Tamponade,MG037A
+Cardiology,MC,MG031,Endocarditis,MG031A
+Cardiology,MC,MG031,Endocarditis,MG031B
+Cardiology,MC,MG036,Atrial Fibrillation,MG036A
+Cardiology,MC,MG038,Congestive heart failure,MG038A
+Cardiology,MC,MG075,"High end radiological diagnostic (CT, MRI, Imaging including nuclear imaging)",MG075A
+Cardiology,MC,MG076,High end histopathology (Biopsies) and advanced serology investigations,MG076A
+Cardiology,MC,MG098,PET scan,MG098A
+General Medicine,MG,MG001,Acute febrile illness,MG001A
+General Medicine,MG,MG002,Severe sepsis,MG002A
+General Medicine,MG,MG002,Severe sepsis,MG002B
+General Medicine,MG,MG003,Malaria,MG003A
+General Medicine,MG,MG003,Malaria,MG003B
+General Medicine,MG,MG004,Dengue fever,MG004A
+General Medicine,MG,MG004,Dengue fever,MG004B
+General Medicine,MG,MG004,Dengue fever,MG004C
+General Medicine,MG,MG005,Chikungunya fever,MG005A
+General Medicine,MG,MG006,Enteric fever,MG006A
+General Medicine,MG,MG007,HIV with complications,MG007A
+General Medicine,MG,MG008,Leptospirosis,MG008A
+General Medicine,MG,MG009,Acute gastroenteritis with dehydration,MG009A
+General Medicine,MG,MG009,Acute gastroenteritis with dehydration,MG009B
+General Medicine,MG,MG010,Chronic PD catheter Insertion,MG0100A
+General Medicine,MG,MG0101,Acute severe ulcerative colitis,MG0101A
+General Medicine,MG,MG0102,Mesenteric Ischemia,MG0102A
+General Medicine,MG,MG0103,Intestinal obstruction,MG0103A
+General Medicine,MG,MG0104,Acute necrotizing severe pancreatitis,MG0104A
+General Medicine,MG,MG0105,Pulmonary Thromboembolism ( Including thrombolytic Therapy),MG0105A
+General Medicine,MG,MG0106,Diffuse alveolar Hemorrhage Associated with SLE/Vasculitis/GP Syndrome,MG0106A
+General Medicine,MG,MG0107,Severe/Refractory Vasculitis,MG0107A
+General Medicine,MG,MG0108,Acute liver failure/Fulminant Hepatitis,MG0108A
+General Medicine,MG,MG0109,Pulmonary thromboembolism,MG0109A
+General Medicine,MG,MG010,Diarrohea,MG010A
+General Medicine,MG,MG010,Diarrohea,MG010B
+General Medicine,MG,MG0110,Acute liver failure,MG0110A
+General Medicine,MG,MG0111,Pleural Effusion,MG0111A
+General Medicine,MG,MG0112,Hyberbilirubinemia,MG0112A
+General Medicine,MG,MG0113,Polytrauma,MG0113A
+General Medicine,MG,MG0113,Trauma- FacioMaxillary,MG0113B
+General Medicine,MG,MG0113,Trauma Head injury,MG0113C
+General Medicine,MG,MG0113,Trauma Rib fracture conservative,MG0113D
+General Medicine,MG,MG0113,Trauma Blunt injury conservative,MG0113E
+General Medicine,MG,MG0113,Trauma Contusion chest injury,MG0113F
+General Medicine,MG,MG0114,Oesophageal Varices Banding,MG0114A
+General Medicine,MG,MG0115,Inflammatory Myopathy/ Myaesthenic Crisis,MG0115A
+General Medicine,MG,MG0116,Guillain Barre syndrome,MG0116A
+General Medicine,MG,MG0116,Myasthenic crisis (Plasmapheresis),MG0116B
+General Medicine,MG,MG0117,Moyamoya revascularization,MG0117A
+General Medicine,MG,MG0118,Evaluation of drug resistant epilepsy- Phase-1,MG0118A
+General Medicine,MG,MG0119,Drug resistant epilepsy,MG0119A
+General Medicine,MG,MG011,Dysentery,MG011A
+General Medicine,MG,MG0120,Medical/ neuro rehablitation,MG0120A
+General Medicine,MG,MG0120,Medical/ neuro rehablitation,MG0120B
+General Medicine,MG,MG0120,Medical/ neuro rehablitation,MG0120C
+General Medicine,MG,MG0120,Medical/ neuro rehablitation,MG0120D
+General Medicine,MG,MG0120,Medical/ neuro rehablitation,MG0120E
+General Medicine,MG,MG0120,Medical/ neuro rehablitation,MG0120F
+General Medicine,MG,MG0120,Medical/ neuro rehablitation,MG0120G
+General Medicine,MG,MG012,Acute viral hepatitis,MG012A
+General Medicine,MG,MG013,Chronic Hepatitis,MG013A
+General Medicine,MG,MG014,Liver abscess,MG014A
+General Medicine,MG,MG015,Visceral leishmaniasis,MG015A
+General Medicine,MG,MG016,Pneumonia,MG016A
+General Medicine,MG,MG017,Severe pneumonia,MG017A
+General Medicine,MG,MG018,Empyema,MG018A
+General Medicine,MG,MG019,Lung abscess,MG019A
+General Medicine,MG,MG020,Pericardial tuberculosis,MG020A
+General Medicine,MG,MG020,Pleural tuberculosis,MG020B
+General Medicine,MG,MG021,Urinary Tract Infection,MG021A
+General Medicine,MG,MG022,Viral Encephalitis,MG022A
+General Medicine,MG,MG023,Septic Arthritis,MG023A
+General Medicine,MG,MG024,Skin and soft tissue infections,MG024A
+General Medicine,MG,MG025,Recurrent vomiting with dehydration,MG025A
+General Medicine,MG,MG026,Pyrexia of unknown origin,MG026A
+General Medicine,MG,MG027,Bronchiectasis,MG027A
+General Medicine,MG,MG028,Acute bronchitis,MG028A
+General Medicine,MG,MG029,Acute excaberation of COPD,MG029A
+General Medicine,MG,MG030,Acute excaberation of Interstitial Lung Disease,MG030A
+General Medicine,MG,MG031,Endocarditis,MG031A
+General Medicine,MG,MG031,Endocarditis,MG031B
+General Medicine,MG,MG032,Vasculitis,MG032A
+General Medicine,MG,MG033,Pancreatitis,MG033A
+General Medicine,MG,MG033,Pancreatitis,MG033B
+General Medicine,MG,MG034,Ascites,MG034A
+General Medicine,MG,MG035,Acute transverse myelitis,MG035A
+General Medicine,MG,MG036,Atrial Fibrillation,MG036A
+General Medicine,MG,MG037,Cardiac Tamponade,MG037A
+General Medicine,MG,MG038,Congestive heart failure,MG038A
+General Medicine,MG,MG039,Asthma,MG039A
+General Medicine,MG,MG039,Asthma,MG039B
+General Medicine,MG,MG040,Respiratory failure,MG040A
+General Medicine,MG,MG040,Respiratory failure,MG040B
+General Medicine,MG,MG040,Respiratory failure,MG040C
+General Medicine,MG,MG041,Upper GI bleeding,MG041A
+General Medicine,MG,MG041,Upper GI bleeding,MG041B
+General Medicine,MG,MG042,Lower GI hemorrhage,MG042A
+General Medicine,MG,MG043,Addison’s disease,MG043A
+General Medicine,MG,MG044,Renal colic,MG044A
+General Medicine,MG,MG045,AKI / Renal failure,MG045A
+General Medicine,MG,MG047,Pediatric seizure disorders,MG047A
+General Medicine,MG,MG049,Acute ischemic stroke,MG049C
+General Medicine,MG,MG049,Acute hemorrhagic stroke,MG049D
+General Medicine,MG,MG050,Immune mediated CNS disorders,MG050A
+General Medicine,MG,MG051,Hydrocephalus,MG051A
+General Medicine,MG,MG052,Myxedema coma,MG052A
+General Medicine,MG,MG053,Thyrotoxic crisis,MG053A
+General Medicine,MG,MG054,Gout,MG054A
+General Medicine,MG,MG055,Pneumothorax,MG055A
+General Medicine,MG,MG056,Neuromuscular Disorders,MG056A
+General Medicine,MG,MG057,Hypoglycemia,MG057A
+General Medicine,MG,MG058,Diabetic Foot,MG058A
+General Medicine,MG,MG059,Diabetic ketoacidosis,MG059A
+General Medicine,MG,MG060,Electrolyte Imbalance,MG060A
+General Medicine,MG,MG060,Electrolyte Imbalance,MG060B
+General Medicine,MG,MG060,Electrolyte Imbalance,MG060C
+General Medicine,MG,MG060,Electrolyte Imbalance,MG060D
+General Medicine,MG,MG060,Electrolyte Imbalance,MG060E
+General Medicine,MG,MG060,Electrolyte Imbalance,MG060F
+General Medicine,MG,MG061,Hyperosmolar Non- Ketotic coma,MG061A
+General Medicine,MG,MG062,Accelerated hypertension,MG062A
+General Medicine,MG,MG063,Hypertensive emergencies,MG063A
+General Medicine,MG,MG064,Severe anemia,MG064A
+General Medicine,MG,MG065,Sickle cell Anemia,MG065A
+General Medicine,MG,MG066,Anaphylaxis,MG066A
+General Medicine,MG,MG067,Heat stroke,MG067A
+General Medicine,MG,MG068,Systematic lupus erythematosus,MG068A
+General Medicine,MG,MG069,Guillain Barre syndrome,MG069A
+General Medicine,MG,MG070,Snake bite,MG070A
+General Medicine,MG,MG071,Poisoning,MG071A
+General Medicine,MG,MG071,Poisoning,MG071B
+General Medicine,MG,MG072,Haemodialysis / Peritoneal Dialysis,MG072B
+General Medicine,MG,MG072,Haemodialysis / Peritoneal Dialysis,MG072C
+General Medicine,MG,MG072,Haemodialysis / Peritoneal Dialysis,MG072D
+General Medicine,MG,MG073,Plasmapheresis,MG073A
+General Medicine,MG,MG074,Blood transfusion,MG074A
+General Medicine,MG,MG074,Blood transfusion,MG074B
+General Medicine,MG,MG075,"High end radiological diagnostic (CT, MRI, Imaging including nuclear imaging)",MG075A
+General Medicine,MG,MG076,High end histopathology (Biopsies) and advanced serology investigations,MG076A
+General Medicine,MG,MG077,Continuous renal replacement therapy/Continuous veno-venous hemofiltration,MG077A
+General Medicine,MG,MG078,Alcoholic Liver Disease,MG078A
+General Medicine,MG,MG079,Peripheral Arterial Thrombosis,MG079A
+General Medicine,MG,MG081,IHD / CAD / Arrhythmia,MG081A
+General Medicine,MG,MG081,IHD / CAD / Arrhythmia,MG081B
+General Medicine,MG,MG082,Bone marrow aspiration of biopsy,MG082A
+General Medicine,MG,MG083,Lumbar puncture,MG083A
+General Medicine,MG,MG084,Joint Aspiration,MG084A
+General Medicine,MG,MG085,DVT Pneumatic Compression Stockings (Add on package in ICU),MG085A
+General Medicine,MG,MG086,Acute Ischemic Stoke,MG086A
+General Medicine,MG,MG086,Acute ischemic stroke- intravenous thrombolysis,MG086B
+General Medicine,MG,MG086,Acute ischemic stroke- Intravenous thrombolysis,MG086C
+General Medicine,MG,MG087,Venous sinus thrombosis,MG087A
+General Medicine,MG,MG088,Pyogenic Meningitis,MG088A
+General Medicine,MG,MG089,Fungal Meningitis,MG089A
+General Medicine,MG,MG090,Autoimmune encephalitis,MG090A
+General Medicine,MG,MG090,Autoimmune encephalitis (IVIG),MG090B
+General Medicine,MG,MG090,Acute transverse myelitis/ Acute demyelinating encephalitis,MG090C
+General Medicine,MG,MG091,Acute hemorrhagic stroke- Hematoma evacuation,MG091A
+General Medicine,MG,MG091,Acute hemorrhagic stroke- (Extra ventricular drainage),MG091B
+General Medicine,MG,MG092,Myasthenic crisis (IVIG),MG092B
+General Medicine,MG,MG093,Myasthenic crisis (Plasmapheresis),MG093A
+General Medicine,MG,MG094,Tuberculous meningitis (Hydrocephalus – VP SHUNT/ EVD/Omaya),MG094A
+General Medicine,MG,MG095,Cholangitis,MG095A
+General Medicine,MG,MG096,Intercostal drainage,MG096A
+General Medicine,MG,MG096,Fibreoptic bronchoscopy (FOB),MG096B
+General Medicine,MG,MG097,Endobronchial Ultrasound (EBUS),MG097A
+General Medicine,MG,MG098,PET scan,MG098A
+General Medicine,MG,MG099,Platelet pheresis,MG099A
+General Medicine,MG,MP001,Pediatric seizure disorders,MP001D
+General Medicine,MG,MP003,ACUTE ENCEPHALOPATHY,MP003A
+General Medicine,MG,MP003,ACUTE ENCEPHALOPATHY,MP003B
+General Medicine,MG,MP004,ACUTE ENCEPHALOPATHY,MP004A
+General Medicine,MG,MP005,ACUTE INFECTIOUS MENINGITIS AND MENINGOENCEPHA LITIS.,MP005A
+General Medicine,MG,MP005,ACUTE INFECTIOUS MENINGITIS AND MENINGOENCEPHA LITIS.,MP005B
+General Medicine,MG,MP005,ACUTE INFECTIOUS MENINGITIS AND MENINGOENCEPHA LITIS.,MP005D
+General Medicine,MG,MP005,ACUTE INFECTIOUS MENINGITIS AND MENINGOENCEPHA LITIS.,MP005G
+General Medicine,MG,MP006,Meningitis,MP006B
+General Medicine,MG,MP006,Meningitis,MP006C
+General Medicine,MG,MP006,Meningitis,MP006D
+General Medicine,MG,MP006,Meningitis,MP006E
+General Medicine,MG,MP008,Medical Management for Raised intracranial pressure,MP008A
+General Medicine,MG,MP011,INTRACRANIAL SPACE OCCUPYING LESIONS,MP011A
+General Medicine,MG,MP015,Juvenile myasthenia,MP015A
+General Medicine,MG,MP018,Acute childhood asthma,MP018A
+General Medicine,MG,MP020,Acute urticaria / Anaphylaxis,MP020B
+General Medicine,MG,MP021,Acute abdomen,MP021A
+General Medicine,MG,MP023,Unexplained hepatosplenomegaly,MP023A
+General Medicine,MG,MP024,Neonatal/ Infantile cholestasis,MP024A
+General Medicine,MG,MP026,NEPHROTIC SYNDROME,MP026A
+General Medicine,MG,MP026,NEPHROTIC SYNDROME,MP026B
+General Medicine,MG,MP027,Haemolytic uremic syndrome,MP027A
+General Medicine,MG,MP039,Rheumatic fever,MP039A
+General Medicine,MG,MP039,Rheumatic fever,MP039B
+General Medicine,MG,MP040,Cyanotic spells,MP040A
+General Medicine,MG,MP043,Kawasaki Disease,MP043A
+General Medicine,MG,MP047,Croup syndrome,MP047A
+General Medicine,MG,MP050,NEPHROTIC SYNDROME,MP050A
+General Medicine,MG,SE043,Glaucoma Screening,SE043A
+General Medicine,MG,SE043,Glaucoma Screening,SE043B
+General Medicine,MG,SE044,Diabetic Retinopathy Screening,SE044A
+General Medicine,MG,ID001,"Laboratory Tests for COVID-19 Infection (PCR) (Reimbursement level for this package will be as per the ICMR guidelines, issued from time to time)",ID001A
+General Medicine,MG,ID001,"Laboratory Tests for COVID-19 Infection (PCR) (Reimbursement level for this package will be as per the ICMR guidelines, issued from time to time)",ID001B
+General Medicine,MG,ID003,Treatment of COVID- 19 Infection,ID003A
+General Medicine,MG,ID005,Treatment of systemic fungal infections,ID005A
+Mental Disorders Packages,MM,MM001,Mental Retardation (intellectual disability),MM001A
+Mental Disorders Packages,MM,MM002,"Mental disorders - Organic, including symptomatic",MM002A
+Mental Disorders Packages,MM,MM003,"Schizophrenia, schizotypal and delusional disorders",MM003A
+Mental Disorders Packages,MM,MM004,"Neurotic, stress- related and somatoform disorders",MM004A
+Mental Disorders Packages,MM,MM005,Mood (affective) disorders,MM005A
+Mental Disorders Packages,MM,MM006,Behavioural syndromes associated with physiological disturbances and physical factors,MM006A
+Mental Disorders Packages,MM,MM007,Mental and Behavioural disorders due to psychoactive substance use,MM007A
+Mental Disorders Packages,MM,MM008,"Package (Cognitive Tests, Complete Haemogram, Liver Function Test, Renal Function Test, Serum Electrolytes, Electro Cardiogram (ECG), CT / MRI Brain, Electroencephalogram , Thyroid Function Test, VDRL, HIV Test, Vitamin B12 levels, Folate levels, Lipid Profile, Homocysteine levels), serum Lithium level",MM008A
+Mental Disorders Packages,MM,MM009,Electro Convulsive Therapy (ECT) - per session,MM009A
+Mental Disorders Packages,MM,MM010,NeuroDevelopmental Disorders (NDD) Other than Intellectual Disability,MM010A
+Mental Disorders Packages,MM,MM010,NeuroDevelopmental Disorders (NDD) Other than Intellectual Disability,MM010B
+Mental Disorders Packages,MM,MM010,NeuroDevelopmental Disorders (NDD) Other than Intellectual Disability,MM010C
+Mental Disorders Packages,MM,MM010,NeuroDevelopmental Disorders (NDD) Other than Intellectual Disability,MM010D
+Mental Disorders Packages,MM,MM010,NeuroDevelopmental Disorders (NDD) Other than Intellectual Disability,MM010E
+Mental Disorders Packages,MM,MM011,Behavioral and emotional Disorders of Childhood and Adolescence,MM011A
+Mental Disorders Packages,MM,MM011,Behavioral and emotional Disorders of Childhood and Adolescence,MM011B
+Mental Disorders Packages,MM,MM011,Behavioral and emotional Disorders of Childhood and Adolescence,MM011C
+Mental Disorders Packages,MM,MM011,Behavioral and emotional Disorders of Childhood and Adolescence,MM011D
+Mental Disorders Packages,MM,MM011,Behavioral and emotional Disorders of Childhood and Adolescence,MM011E
+Mental Disorders Packages,MM,MM012,Non-Pharmacological Interventions,MM012A
+Mental Disorders Packages,MM,MM013,Pharmacological Interventions,MM013A
+Mental Disorders Packages,MM,MM014,Psychological / Psychosocial Assessment Package for All Child And Adolescent Psychiatric Disorders,MM014A
+Neo-natal care Packages,MN,MN001,Basic neonatal care package: Babies that can be managed by side of mother in postnatal ward without requiring admission in SNCU/NICU: • Any newborn needing feeding support • Babies requiring closer monitoring or short-term care for conditions like: o Birth asphyxia (need for positive pressure ventilation; no HIE) o Moderate jaundice requiring phototherapy o Large for dates (>97 percentile) Babies,MN001A
+Neo-natal care Packages,MN,MN002,Special Neonatal Care Package: Babies that required admission to SNCU or NICU: Babies admitted for short term care for conditions like: • Mild Respiratory Distress/tachypnea • Mild encephalopathy • Severe jaundice requiring intensive phototherapy • Haemorrhagic disease of newborn • Unwell baby requiring monitoring • Some dehydration • Hypoglycaemia Mother's stay and food in the hospital for,MN002A
+Neo-natal care Packages,MN,MN003,"Intensive Neonatal Care Package Babies with birthweight 1500-1799 g or Babies of any birthweight and at least one of the following conditions: • Need for mechanical ventilation for less than 24 hours or non- invasive respiratory support (CPAP, HFFNC) • Sepsis / pneumonia without complications • Hyperbilirubinemia requiring exchange transfusion",MN003A
+Neo-natal care Packages,MN,MN004,Advanced Neonatal Care Package: Babies with birthweight of 1200- 1499 g or Babies of any birthweight with at least one of the following conditions: • Any condition requiring invasive ventilation longer than 24 hours • Hypoxic Ischemic encephalopathy requiring Therapeutic Hypothermia • Cardiac rhythm disorders needing,MN004A
+Neo-natal care Packages,MN,MN005,Critical Care Neonatal Package: Babies with birthweight of <1200 g or Babies of any birthweight with at least one of the following conditions: • Severe Respiratory Failure requiring High Frequency Ventilation or inhaled Nitric Oxide (iNO) • Multisystem failure requiring multiple organ support including mechanical ventilation and multiple inotropes • Critical congenital,MN005A
+Neo-natal care Packages,MN,MN006,"Chronic Care Package: If the baby requires stay beyond the upper limit of usual stay in Package no MN004A or MN005A for conditions like severe BPD requiring respiratory support, severe NEC requiring prolonged TPN support",MN006A
+Neo-natal care Packages,MN,MN007,High Risk Newborn Post Discharge Care Package (Protocol Driven),MN007A
+Neo-natal care Packages,MN,MN008,Laser Therapy for Retinopathy of Prematurity (Irrespective of no. of eyes affected) - per session,MN008A
+Neo-natal care Packages,MN,MN009,Advanced Surgery for Retinopathy of Prematurity,MN009A
+Neo-natal care Packages,MN,MN010,Ventriculoperitoneal Shunt Surgery (VP) or Omaya Reservoir or External Drainage for Hydrocephalus,MN010A
+Neo-natal care Packages,MN,MN011,Basic neonatal care (Level IA),MN011A
+Neo-natal care Packages,MN,MN012,ROP screening,MN012A
+Neo-natal care Packages,MN,MN013,BERA,MN013A
+Medical Oncology,MO,MO001,CT for CA Breast,MO001A
+Medical Oncology,MO,MO001,CT for CA Breast,MO001B
+Medical Oncology,MO,MO001,CT for CA Breast,MO001C
+Medical Oncology,MO,MO001,CT for CA Breast,MO001D
+Medical Oncology,MO,MO001,CT for CA Breast,MO001E
+Medical Oncology,MO,MO001,CT for CA Breast,MO001F
+Medical Oncology,MO,MO001,CT for CA Breast,MO001G
+Medical Oncology,MO,MO001,CT for CA Breast,MO001H
+Medical Oncology,MO,MO001,CT for CA Breast,MO001I
+Medical Oncology,MO,MO001,CT for CA Breast,MO001J
+Medical Oncology,MO,MO001,CT for CA Breast,MO001K
+Medical Oncology,MO,MO001,CT for CA Breast,MO001L
+Medical Oncology,MO,MO001,CT for CA Breast,MO001M
+Medical Oncology,MO,MO001,CT for CA Breast,MO001N
+Medical Oncology,MO,MO001,CT for CA Breast,MO001O
+Medical Oncology,MO,MO002,CT for Metastatic bone malignancy and multiple myeloma,MO002A
+Medical Oncology,MO,MO003,CT for CA Ovary,MO003A
+Medical Oncology,MO,MO003,CT for CA Ovary,MO003B
+Medical Oncology,MO,MO003,CT for CA Ovary,MO003C
+Medical Oncology,MO,MO003,CT for CA Ovary,MO003D
+Medical Oncology,MO,MO003,CT for CA Ovary,MO003E
+Medical Oncology,MO,MO003,CT for CA Ovary,MO003F
+Medical Oncology,MO,MO003,CT for CA Ovary,MO003G
+Medical Oncology,MO,MO003,CT for CA Ovary,MO003H
+Medical Oncology,MO,MO003,CT for CA Ovary,MO003I
+Medical Oncology,MO,MO003,CT for CA Ovary,MO003J
+Medical Oncology,MO,MO004,CT for Germ Cell Tumor,MO004A
+Medical Oncology,MO,MO004,CT for Germ Cell Tumor,MO004B
+Medical Oncology,MO,MO004,CT for Germ Cell Tumor,MO004C
+Medical Oncology,MO,MO004,CT for Germ Cell Tumor,MO004D
+Medical Oncology,MO,MO004,CT for Germ Cell Tumor,MO004E
+Medical Oncology,MO,MO004,CT for Germ Cell Tumor,MO004F
+Medical Oncology,MO,MO004,CT for Germ Cell Tumor,MO004G
+Medical Oncology,MO,MO005,CT for Gestational Trophoblastic Neoplasia,MO005A
+Medical Oncology,MO,MO005,CT for Gestational Trophoblastic Neoplasia,MO005B
+Medical Oncology,MO,MO005,CT for Gestational Trophoblastic Neoplasia,MO005C
+Medical Oncology,MO,MO005,CT for Gestational Trophoblastic Neoplasia,MO005D
+Medical Oncology,MO,MO006,CT for Cervical Cancer,MO006A
+Medical Oncology,MO,MO006,CT for Cervical Cancer,MO006B
+Medical Oncology,MO,MO007,CT for Endometrial Cancer,MO007A
+Medical Oncology,MO,MO007,CT for Endometrial Cancer,MO007B
+Medical Oncology,MO,MO007,CT for Endometrial Cancer,MO007C
+Medical Oncology,MO,MO007,CT for Endometrial Cancer,MO007D
+Medical Oncology,MO,MO007,CT for Endometrial Cancer,MO007E
+Medical Oncology,MO,MO008,CT for Vulvar Cancer,MO008A
+Medical Oncology,MO,MO008,CT for Vulvar Cancer,MO008B
+Medical Oncology,MO,MO008,CT for Vulvar Cancer,MO008C
+Medical Oncology,MO,MO009,CT for Ewing Sarcoma,MO009A
+Medical Oncology,MO,MO009,CT for Ewing Sarcoma,MO009B
+Medical Oncology,MO,MO009,CT for Ewing Sarcoma,MO009C
+Medical Oncology,MO,MO010,CT for Osteogenic Sarcoma,MO010A
+Medical Oncology,MO,MO010,CT for Osteogenic Sarcoma,MO010B
+Medical Oncology,MO,MO010,CT for Osteogenic Sarcoma,MO010C
+Medical Oncology,MO,MO010,CT for Osteogenic Sarcoma,MO010D
+Medical Oncology,MO,MO011,CT for Soft Tissue Sarcoma,MO011A
+Medical Oncology,MO,MO011,CT for Soft Tissue Sarcoma,MO011B
+Medical Oncology,MO,MO011,CT for Soft Tissue Sarcoma,MO011C
+Medical Oncology,MO,MO012,CT for Metastatic Melanoma,MO012A
+Medical Oncology,MO,MO012,CT for Metastatic Melanoma,MO012B
+Medical Oncology,MO,MO012,CT for Metastatic Melanoma,MO012C
+Medical Oncology,MO,MO013,CT for Anal Cancer,MO013A
+Medical Oncology,MO,MO013,CT for Anal Cancer,MO013B
+Medical Oncology,MO,MO013,CT for Anal Cancer,MO013C
+Medical Oncology,MO,MO013,CT for Anal Cancer,MO013D
+Medical Oncology,MO,MO013,CT for Anal Cancer,MO013E
+Medical Oncology,MO,MO014,CT for Colorectal Cancer,MO014A
+Medical Oncology,MO,MO014,CT for Colorectal Cancer,MO014B
+Medical Oncology,MO,MO014,CT for Colorectal Cancer,MO014C
+Medical Oncology,MO,MO014,CT for Colorectal Cancer,MO014D
+Medical Oncology,MO,MO014,CT for Colorectal Cancer,MO014E
+Medical Oncology,MO,MO014,CT for Colorectal Cancer,MO014F
+Medical Oncology,MO,MO014,CT for Colorectal Cancer,MO014G
+Medical Oncology,MO,MO014,CT for Colorectal Cancer,MO014H
+Medical Oncology,MO,MO015,CT for Esophageal Cancer,MO015A
+Medical Oncology,MO,MO015,CT for Esophageal Cancer,MO015B
+Medical Oncology,MO,MO015,CT for Esophageal Cancer,MO015C
+Medical Oncology,MO,MO015,CT for Esophageal Cancer,MO015D
+Medical Oncology,MO,MO015,CT for Esophageal Cancer,MO015E
+Medical Oncology,MO,MO016,CT for Esophageal / Stomach Cancer,MO016A
+Medical Oncology,MO,MO016,CT for Esophageal / Stomach Cancer,MO016B
+Medical Oncology,MO,MO016,CT for Esophageal / Stomach Cancer,MO016C
+Medical Oncology,MO,MO016,CT for Esophageal / Stomach Cancer,MO016D
+Medical Oncology,MO,MO016,CT for Esophageal / Stomach Cancer,MO016E
+Medical Oncology,MO,MO016,CT for Esophageal / Stomach Cancer,MO016F
+Medical Oncology,MO,MO016,CT for Esophageal / Stomach Cancer,MO016G
+Medical Oncology,MO,MO016,CT for Esophageal / Stomach Cancer,MO016H
+Medical Oncology,MO,MO016,CT for Esophageal / Stomach Cancer,MO016I
+Medical Oncology,MO,MO016,CT for Esophageal / Stomach Cancer,MO016J
+Medical Oncology,MO,MO016,CT for Esophageal / Stomach Cancer,MO016K
+Medical Oncology,MO,MO016,CT for Esophageal / Stomach Cancer,MO016L
+Medical Oncology,MO,MO017,CT for Hepatocellular Carcinoma,MO017A
+Medical Oncology,MO,MO017,CT for Hepatocellular Carcinoma,MO017B
+Medical Oncology,MO,MO017,CT for Hepatocellular Carcinoma,MO017C
+Medical Oncology,MO,MO018,CT for Panceratic Cancer,MO018A
+Medical Oncology,MO,MO018,CT for Panceratic Cancer,MO018B
+Medical Oncology,MO,MO018,CT for Panceratic Cancer,MO018C
+Medical Oncology,MO,MO018,CT for Panceratic Cancer,MO018D
+Medical Oncology,MO,MO018,CT for Panceratic Cancer,MO018E
+Medical Oncology,MO,MO018,CT for Panceratic Cancer,MO018F
+Medical Oncology,MO,MO019,CT for Gall Bladder Cancer / Cholangiocarcinoma,MO019A
+Medical Oncology,MO,MO019,CT for Gall Bladder Cancer / Cholangiocarcinoma,MO019B
+Medical Oncology,MO,MO019,CT for Gall Bladder Cancer / Cholangiocarcinoma,MO019C
+Medical Oncology,MO,MO019,CT for Gall Bladder Cancer / Cholangiocarcinoma,MO019D
+Medical Oncology,MO,MO019,CT for Gall Bladder Cancer / Cholangiocarcinoma,MO019E
+Medical Oncology,MO,MO019,CT for Gall Bladder Cancer / Cholangiocarcinoma,MO019F
+Medical Oncology,MO,MO019,CT for Gall Bladder Cancer / Cholangiocarcinoma,MO019G
+Medical Oncology,MO,MO019,CT for Gall Bladder Cancer / Cholangiocarcinoma,MO019H
+Medical Oncology,MO,MO020,CT for Gastointestinal stromal tumor,MO020A
+Medical Oncology,MO,MO020,CT for Gastointestinal stromal tumor,MO020B
+Medical Oncology,MO,MO021,CT for CA Brain,MO021A
+Medical Oncology,MO,MO021,CT for CA Brain,MO021B
+Medical Oncology,MO,MO022,CT for Mesothelioma,MO022A
+Medical Oncology,MO,MO022,CT for Mesothelioma,MO022B
+Medical Oncology,MO,MO022,CT for Mesothelioma,MO022C
+Medical Oncology,MO,MO023,CT for Thymic Carcinoma,MO023A
+Medical Oncology,MO,MO023,CT for Thymic Carcinoma,MO023B
+Medical Oncology,MO,MO024,CT for CA Head & Neck,MO024A
+Medical Oncology,MO,MO024,CT for CA Head & Neck,MO024B
+Medical Oncology,MO,MO024,CT for CA Head & Neck,MO024C
+Medical Oncology,MO,MO024,CT for CA Head & Neck,MO024D
+Medical Oncology,MO,MO024,CT for CA Head & Neck,MO024E
+Medical Oncology,MO,MO024,CT for CA Head & Neck,MO024F
+Medical Oncology,MO,MO024,CT for CA Head & Neck,MO024G
+Medical Oncology,MO,MO024,CT for CA Head & Neck,MO024H
+Medical Oncology,MO,MO024,CT for CA Head & Neck,MO024I
+Medical Oncology,MO,MO024,CT for CA Head & Neck,MO024J
+Medical Oncology,MO,MO024,CT for CA Head & Neck,MO024K
+Medical Oncology,MO,MO024,CT for CA Head & Neck,MO024L
+Medical Oncology,MO,MO024,CT for CA Head & Neck,MO024M
+Medical Oncology,MO,MO024,CT for CA Head & Neck,MO024N
+Medical Oncology,MO,MO024,CT for CA Head & Neck,MO024O
+Medical Oncology,MO,MO024,CT for CA Head & Neck,MO024P
+Medical Oncology,MO,MO025,CT for Renal Cell Cancer,MO025A
+Medical Oncology,MO,MO025,CT for Renal Cell Cancer,MO025B
+Medical Oncology,MO,MO026,CT for Ureter / Bladder / Urethra,MO026A
+Medical Oncology,MO,MO026,CT for Ureter / Bladder / Urethra,MO026B
+Medical Oncology,MO,MO026,CT for Ureter / Bladder / Urethra,MO026C
+Medical Oncology,MO,MO026,CT for Ureter / Bladder / Urethra,MO026D
+Medical Oncology,MO,MO026,CT for Ureter / Bladder / Urethra,MO026E
+Medical Oncology,MO,MO026,CT for Ureter / Bladder / Urethra,MO026F
+Medical Oncology,MO,MO026,CT for Ureter / Bladder / Urethra,MO026G
+Medical Oncology,MO,MO026,CT for Ureter / Bladder / Urethra,MO026H
+Medical Oncology,MO,MO026,CT for Ureter / Bladder / Urethra,MO026I
+Medical Oncology,MO,MO026,CT for Ureter / Bladder / Urethra,MO026J
+Medical Oncology,MO,MO026,CT for Ureter / Bladder / Urethra,MO026K
+Medical Oncology,MO,MO027,CT for CA Penis,MO027A
+Medical Oncology,MO,MO027,CT for CA Penis,MO027B
+Medical Oncology,MO,MO027,CT for CA Penis,MO027C
+Medical Oncology,MO,MO027,CT for CA Penis,MO027D
+Medical Oncology,MO,MO027,CT for CA Penis,MO027E
+Medical Oncology,MO,MO027,CT for CA Penis,MO027F
+Medical Oncology,MO,MO027,CT for CA Penis,MO027G
+Medical Oncology,MO,MO028,CT for CA Prostate,MO028A
+Medical Oncology,MO,MO028,CT for CA Prostate,MO028B
+Medical Oncology,MO,MO028,CT for CA Prostate,MO028C
+Medical Oncology,MO,MO028,CT for CA Prostate,MO028D
+Medical Oncology,MO,MO028,CT for CA Prostate,MO028E
+Medical Oncology,MO,MO028,CT for CA Prostate,MO028F
+Medical Oncology,MO,MO028,CT for CA Prostate,MO028G
+Medical Oncology,MO,MO028,CT for CA Prostate,MO028H
+Medical Oncology,MO,MO028,CT for CA Prostate,MO028I
+Medical Oncology,MO,MO029,CT for B - Cell NHL - High Grade (Except Burkitt's & PCNSL),MO029A
+Medical Oncology,MO,MO029,CT for B - Cell NHL - High Grade (Except Burkitt's & PCNSL),MO029B
+Medical Oncology,MO,MO030,CT for High - Grade NHL - B Cell,MO030A
+Medical Oncology,MO,MO031,CT for Relapsed B - Cell NHL - High Grade (Except Burkitt's & PCNSL),MO031A
+Medical Oncology,MO,MO031,CT for Relapsed B - Cell NHL - High Grade (Except Burkitt's & PCNSL),MO031B
+Medical Oncology,MO,MO032,CT for PMBCL / Burkitt's Lymphoma / Seropositive B - Cell NHLR,MO032A
+Medical Oncology,MO,MO033,CT for Burkitt's NHL,MO033A
+Medical Oncology,MO,MO034,CT for Low Grade B - Cell NHL,MO034A
+Medical Oncology,MO,MO034,CT for Low Grade B - Cell NHL,MO034B
+Medical Oncology,MO,MO035,CT for Low Grade NHL,MO035A
+Medical Oncology,MO,MO035,CT for Low Grade NHL,MO035B
+Medical Oncology,MO,MO036,CT for Chronic Lymphocytic Leukemia,MO036A
+Medical Oncology,MO,MO036,CT for Chronic Lymphocytic Leukemia,MO036B
+Medical Oncology,MO,MO036,CT for Chronic Lymphocytic Leukemia,MO036C
+Medical Oncology,MO,MO036,CT for Chronic Lymphocytic Leukemia,MO036D
+Medical Oncology,MO,MO037,CT for Peripheral T - Cell Lymphoma,MO037A
+Medical Oncology,MO,MO037,CT for Peripheral T - Cell Lymphoma,MO037B
+Medical Oncology,MO,MO037,CT for Peripheral T - Cell Lymphoma,MO037C
+Medical Oncology,MO,MO038,CT for NK - T Cell Lymphoma,MO038A
+Medical Oncology,MO,MO038,CT for NK - T Cell Lymphoma,MO038B
+Medical Oncology,MO,MO039,CT for Hodgkin's Lymphoma,MO039A
+Medical Oncology,MO,MO039,CT for Hodgkin's Lymphoma,MO039B
+Medical Oncology,MO,MO039,CT for Hodgkin's Lymphoma,MO039C
+Medical Oncology,MO,MO040,CT for Relapsed Hodgkin Lymphoma,MO040A
+Medical Oncology,MO,MO040,CT for Relapsed Hodgkin Lymphoma,MO040B
+Medical Oncology,MO,MO040,CT for Relapsed Hodgkin Lymphoma,MO040C
+Medical Oncology,MO,MO041,CT for Relapsed NHL & HL,MO041A
+Medical Oncology,MO,MO042,CT for MM / Amyloidosis / POEMS,MO042A
+Medical Oncology,MO,MO042,CT for MM / Amyloidosis / POEMS,MO042B
+Medical Oncology,MO,MO043,CT for MM / Amyloidosis,MO043A
+Medical Oncology,MO,MO043,CT for MM / Amyloidosis,MO043B
+Medical Oncology,MO,MO043,CT for MM / Amyloidosis,MO043C
+Medical Oncology,MO,MO043,CT for MM / Amyloidosis,MO043D
+Medical Oncology,MO,MO043,CT for MM / Amyloidosis,MO043E
+Medical Oncology,MO,MO043,CT for MM / Amyloidosis,MO043F
+Medical Oncology,MO,MO043,CT for MM / Amyloidosis,MO043G
+Medical Oncology,MO,MO044,CT for Chronic Myeloid Leukemia,MO044A
+Medical Oncology,MO,MO044,CT for Chronic Myeloid Leukemia,MO044B
+Medical Oncology,MO,MO045,CT for Myeloproliferative Neoplasm,MO045A
+Medical Oncology,MO,MO046,CT for Acute Myeloid Leukemia,MO046A
+Medical Oncology,MO,MO046,CT for Acute Myeloid Leukemia,MO046B
+Medical Oncology,MO,MO047,CT for Acute Lymphoblastic Leukemia,MO047A
+Medical Oncology,MO,MO047,CT for Acute Lymphoblastic Leukemia,MO047B
+Medical Oncology,MO,MO047,CT for Acute Lymphoblastic Leukemia,MO047C
+Medical Oncology,MO,MO048,CT for Lymphoblastic Lymphoma,MO048A
+Medical Oncology,MO,MO048,CT for Lymphoblastic Lymphoma,MO048B
+Medical Oncology,MO,MO048,CT for Lymphoblastic Lymphoma,MO048C
+Medical Oncology,MO,MO049,CT for Acute Promyelocytic Leukemia (High Risk),MO049A
+Medical Oncology,MO,MO049,CT for Acute Promyelocytic Leukemia (High Risk),MO049B
+Medical Oncology,MO,MO049,CT for Acute Promyelocytic Leukemia (High Risk),MO049C
+Medical Oncology,MO,MO050,CT for Acute Promyelocytic Leukemia (Low Risk),MO050A
+Medical Oncology,MO,MO050,CT for Acute Promyelocytic Leukemia (Low Risk),MO050B
+Medical Oncology,MO,MO051,Febrile Neutopenia,MO051A
+Medical Oncology,MO,MO051,Febrile Neutopenia,MO051B
+Medical Oncology,MO,MO052,Chemotherapy Complications - Tumor Lysis Syndrome,MO052A
+Medical Oncology,MO,MO053,Granulocyte Colony Stimulating Factor Use,MO053A
+Medical Oncology,MO,MO054,CT for Langerhans Cell Histiocytosis,MO054A
+Medical Oncology,MO,MO054,CT for Langerhans Cell Histiocytosis,MO054B
+Medical Oncology,MO,MO055,CT for Low Grade Glioma,MO055A
+Medical Oncology,MO,MO055,CT for Low Grade Glioma,MO055B
+Medical Oncology,MO,MO056,CT for Medulloblastoma / Brain PNET,MO056A
+Medical Oncology,MO,MO056,CT for Medulloblastoma / CNS PNET,MO056B
+Medical Oncology,MO,MO057,CT for Neuroblastoma,MO057A
+Medical Oncology,MO,MO057,CT for Neuroblastoma,MO057B
+Medical Oncology,MO,MO057,CT for Neuroblastoma,MO057C
+Medical Oncology,MO,MO058,CT for Retinoblastoma,MO058A
+Medical Oncology,MO,MO059,CT for Rhabdomyosarcoma,MO059A
+Medical Oncology,MO,MO059,CT for Rhabdomyosarcoma,MO059B
+Medical Oncology,MO,MO060,CT for Relapse Rhabdomyosarcoma,MO060A
+Medical Oncology,MO,MO061,CT for Wilms Tumor,MO061A
+Medical Oncology,MO,MO061,CT for Wilms Tumor,MO061B
+Medical Oncology,MO,MO061,CT for Wilms Tumor,MO061C
+Medical Oncology,MO,MO062,CT for Pediatric Acute Lymphoblastic Leukemia,MO062A
+Medical Oncology,MO,MO062,CT for Pediatric Acute Lymphoblastic Leukemia,MO062B
+Medical Oncology,MO,MO062,CT for Pediatric Acute Lymphoblastic Leukemia,MO062C
+Medical Oncology,MO,MO062,CT for Ph+ve Pediatric Acute Lymphoblastic Leukemia for adult and paediatric,MO062D
+Medical Oncology,MO,MO062,CT for Ph+ve Pediatric Acute Lymphoblastic Leukemia for adult and paediatric,MO062E
+Medical Oncology,MO,MO063,CT for Pediatric Lymphoblastic Lymphoma,MO063A
+Medical Oncology,MO,MO063,CT for Pediatric Lymphoblastic Lymphoma,MO063B
+Medical Oncology,MO,MO063,CT for Pediatric Lymphoblastic Lymphoma,MO063C
+Medical Oncology,MO,MO064,CT for Pediatric Acute Myeloid Leukemia,MO064A
+Medical Oncology,MO,MO064,CT for Pediatric Acute Myeloid Leukemia,MO064B
+Medical Oncology,MO,MO064,CT for Pediatric Acute Myeloid Leukemia,MO064C
+Medical Oncology,MO,MO065,CT for Pediatric Acute Promyelocytic Leukemia,MO065A
+Medical Oncology,MO,MO065,CT for Pediatric Acute Promyelocytic Leukemia,MO065B
+Medical Oncology,MO,MO065,CT for Pediatric Acute Promyelocytic Leukemia,MO065C
+Medical Oncology,MO,MO066,CT for Pediatric Hodgkins Lymphoma,MO066A
+Medical Oncology,MO,MO066,CT for Pediatric Hodgkins Lymphoma,MO066B
+Medical Oncology,MO,MO067,CT for Pediatric Hodgkins Lymphoma Relapse,MO067A
+Medical Oncology,MO,MO067,CT for Pediatric Hodgkins Lymphoma Relapse,MO067B
+Medical Oncology,MO,MO067,CT for Pediatric Hodgkins Lymphoma Relapse,MO067C
+Medical Oncology,MO,MO068,CT for Pediatric Non Hodgkins Lymphoma,MO068A
+Medical Oncology,MO,MO068,CT for Pediatric Non Hodgkins Lymphoma,MO068B
+Medical Oncology,MO,MO068,CT for Pediatric Non Hodgkins Lymphoma,MO068C
+Medical Oncology,MO,MO068,CT for Pediatric Non Hodgkins Lymphoma,MO068D
+Medical Oncology,MO,MO069,PEDIATRIC-GCT/JEB,MO069A
+Medical Oncology,MO,MO070,CT for Pediatric Hepatoblastoma,MO070A
+Medical Oncology,MO,MO070,CT for Pediatric Hepatoblastoma,MO070B
+Medical Oncology,MO,MO071,CT for CA Lung,MO071A
+Medical Oncology,MO,MO071,CT for CA Lung,MO071B
+Medical Oncology,MO,MO071,CT for CA Lung,MO071C
+Medical Oncology,MO,MO071,CT for CA Lung,MO071D
+Medical Oncology,MO,MO071,CT for CA Lung,MO071E
+Medical Oncology,MO,MO071,CT for CA Lung,MO071F
+Medical Oncology,MO,MO071,CT for CA Lung,MO071G
+Medical Oncology,MO,MO071,CT for CA Lung,MO071H
+Medical Oncology,MO,MO071,CT for CA Lung,MO071I
+Medical Oncology,MO,MO071,CT for CA Lung,MO071J
+Medical Oncology,MO,MO071,CT for CA Lung,MO071K
+Medical Oncology,MO,MO071,CT for CA Lung,MO071L
+Medical Oncology,MO,MO071,CT for CA Lung,MO071M
+Medical Oncology,MO,MO071,CT for CA Lung,MO071N
+Medical Oncology,MO,MO071,CT for CA Lung,MO071O
+Medical Oncology,MO,MO071,CT for CA Lung,MO071P
+Medical Oncology,MO,MO071,CT for CA Lung,MO071Q
+Medical Oncology,MO,MO071,CT for CA Lung,MO071R
+Medical Oncology,MO,MO071,CT for CA Lung,MO071S
+Medical Oncology,MO,MO071,CT for CA Lung,MO071T
+Medical Oncology,MO,MO072,CT for CA Cervix,MO072A
+Medical Oncology,MO,MO073,CT for primary CNS lymphoma,MO073A
+Medical Oncology,MO,MO074,GCT Testis,MO074A
+Medical Oncology,MO,MO075,CT for GCT of bone,MO075A
+Medical Oncology,MO,MO076,GEP NET Neuroendocrine carcinoma,MO076A
+Medical Oncology,MO,MO076,GEP NET high grade Neuroendocrine carcinoma,MO076B
+Medical Oncology,MO,SU060,Intravesical BCG / Mitomycin,SU060A
+Pediatric Medical management,MP,MP001,Pediatric seizure disorders,MP001A
+Pediatric Medical management,MP,MP001,Pediatric seizure disorders,MP001D
+Pediatric Medical management,MP,MP002,Epileptic encephalopathy,MP002A
+Pediatric Medical management,MP,MP003,ACUTE ENCEPHALOPATHY,MP003A
+Pediatric Medical management,MP,MP003,ACUTE ENCEPHALOPATHY,MP003B
+Pediatric Medical management,MP,MP004,ACUTE ENCEPHALOPATHY,MP004A
+Pediatric Medical management,MP,MP005,ACUTE INFECTIOUS MENINGITIS AND MENINGOENCEPHA LITIS.,MP005A
+Pediatric Medical management,MP,MP005,ACUTE INFECTIOUS MENINGITIS AND MENINGOENCEPHA LITIS.,MP005B
+Pediatric Medical management,MP,MP005,ACUTE INFECTIOUS MENINGITIS AND MENINGOENCEPHA LITIS.,MP005C
+Pediatric Medical management,MP,MP005,ACUTE INFECTIOUS MENINGITIS AND MENINGOENCEPHA LITIS.,MP005D
+Pediatric Medical management,MP,MP005,ACUTE INFECTIOUS MENINGITIS AND MENINGOENCEPHA LITIS.,MP005E
+Pediatric Medical management,MP,MP005,ACUTE INFECTIOUS MENINGITIS AND MENINGOENCEPHA LITIS.,MP005G
+Pediatric Medical management,MP,MP006,Meningitis,MP006A
+Pediatric Medical management,MP,MP006,Meningitis,MP006B
+Pediatric Medical management,MP,MP006,Meningitis,MP006C
+Pediatric Medical management,MP,MP006,Meningitis,MP006D
+Pediatric Medical management,MP,MP006,Meningitis,MP006E
+Pediatric Medical management,MP,MP008,Medical Management for Raised intracranial pressure,MP008A
+Pediatric Medical management,MP,MP009,INTRACRANIAL SPACE OCCUPYING LESIONS,MP009A
+Pediatric Medical management,MP,MP010,INTRACRANIAL SPACE OCCUPYING LESIONS,MP010A
+Pediatric Medical management,MP,MP011,INTRACRANIAL SPACE OCCUPYING LESIONS,MP011A
+Pediatric Medical management,MP,MP015,Juvenile myasthenia,MP015A
+Pediatric Medical management,MP,MP016,Acute ataxia,MP016A
+Pediatric Medical management,MP,MP018,Acute childhood asthma,MP018A
+Pediatric Medical management,MP,MP020,Acute urticaria / Anaphylaxis,MP020A
+Pediatric Medical management,MP,MP020,Acute urticaria / Anaphylaxis,MP020B
+Pediatric Medical management,MP,MP021,Acute abdomen,MP021A
+Pediatric Medical management,MP,MP022,Celiac disease,MP022A
+Pediatric Medical management,MP,MP023,Unexplained hepatosplenomegaly,MP023A
+Pediatric Medical management,MP,MP024,Neonatal/ Infantile cholestasis,MP024A
+Pediatric Medical management,MP,MP025,Acute glomerulonephritis,MP025A
+Pediatric Medical management,MP,MP026,NEPHROTIC SYNDROME,MP026A
+Pediatric Medical management,MP,MP026,NEPHROTIC SYNDROME,MP026B
+Pediatric Medical management,MP,MP027,Haemolytic uremic syndrome,MP027A
+Pediatric Medical management,MP,MP029,Global developmental delay / Intellectual disability of unknown etiology,MP029A
+Pediatric Medical management,MP,MP030,Rickets - requiring admission for Work Up,MP030A
+Pediatric Medical management,MP,MP031,Acute severe malnutrition,MP031A
+Pediatric Medical management,MP,MP032,Developmental and behavioral disorders,MP032A
+Pediatric Medical management,MP,MP033,Short stature,MP033A
+Pediatric Medical management,MP,MP034,Children with dysmorphic features,MP034A
+Pediatric Medical management,MP,MP035,Floppy infant syndrome,MP035A
+Pediatric Medical management,MP,MP036,Inborn errors of metabolism,MP036A
+Pediatric Medical management,MP,MP037,Wilson’s disease,MP037A
+Pediatric Medical management,MP,MP038,Juvenile Arthritis,MP038A
+Pediatric Medical management,MP,MP039,Rheumatic fever,MP039A
+Pediatric Medical management,MP,MP039,Rheumatic fever,MP039B
+Pediatric Medical management,MP,MP040,Cyanotic spells,MP040A
+Pediatric Medical management,MP,MP040,Cyanotic spells,MP040B
+Pediatric Medical management,MP,MP041,SEVERE ANEMIA IN CHILDREN,MP041A
+Pediatric Medical management,MP,MP041,SEVERE ANEMIA IN CHILDREN,MP041B
+Pediatric Medical management,MP,MP041,SEVERE ANEMIA IN CHILDREN,MP041D
+Pediatric Medical management,MP,MP042,Idiopathic Thrombocytopenic Purpura,MP042A
+Pediatric Medical management,MP,MP043,Kawasaki Disease,MP043A
+Pediatric Medical management,MP,MP044,Steve Johnson syndrome,MP044A
+Pediatric Medical management,MP,MP046,Ketogenic diet initiation in refractory epilepsy,MP046A
+Pediatric Medical management,MP,MP047,Croup syndrome,MP047A
+Pediatric Medical management,MP,MP048,Hemostatic Disorders,MP048A
+Pediatric Medical management,MP,MP048,Hemostatic Disorders,MP048B
+Pediatric Medical management,MP,MP050,NEPHROTIC SYNDROME,MP050A
+Pediatric Medical management,MP,MP051,Staphylococcal scalded skin syndrome,MP051A
+Pediatric Medical management,MP,MG0115,Inflammatory Myopathy/ Myaesthenic Crisis,MG0115A
+Pediatric Medical management,MP,MG0116,Guillain Barre syndrome,MG0116A
+Pediatric Medical management,MP,MG0116,Myasthenic crisis (Plasmapheresis),MG0116B
+Pediatric Medical management,MP,MG0117,Moyamoya revascularization,MG0117A
+Pediatric Medical management,MP,MG0118,Evaluation of drug resistant epilepsy- Phase-1,MG0118A
+Pediatric Medical management,MP,MG0119,Drug resistant epilepsy,MG0119A
+Pediatric Medical management,MP,MG0120,Medical/ neuro rehablitation,MG0120A
+Pediatric Medical management,MP,MG0120,Medical/ neuro rehablitation,MG0120B
+Pediatric Medical management,MP,MG0120,Medical/ neuro rehablitation,MG0120C
+Pediatric Medical management,MP,MG0120,Medical/ neuro rehablitation,MG0120D
+Pediatric Medical management,MP,MG0120,Medical/ neuro rehablitation,MG0120E
+Pediatric Medical management,MP,MG0120,Medical/ neuro rehablitation,MG0120F
+Pediatric Medical management,MP,MG0120,Medical/ neuro rehablitation,MG0120G
+Pediatric Medical management,MP,MG069,Guillain Barre syndrome,MG069A
+Pediatric Medical management,MP,MG001,Acute febrile illness,MG001A
+Pediatric Medical management,MP,MG002,Severe sepsis,MG002A
+Pediatric Medical management,MP,MG002,Severe sepsis,MG002B
+Pediatric Medical management,MP,MG003,Malaria,MG003A
+Pediatric Medical management,MP,MG003,Malaria,MG003B
+Pediatric Medical management,MP,MG004,Dengue fever,MG004A
+Pediatric Medical management,MP,MG004,Dengue fever,MG004B
+Pediatric Medical management,MP,MG004,Dengue fever,MG004C
+Pediatric Medical management,MP,MG005,Chikungunya fever,MG005A
+Pediatric Medical management,MP,MG006,Enteric fever,MG006A
+Pediatric Medical management,MP,MG007,HIV with complications,MG007A
+Pediatric Medical management,MP,MG008,Leptospirosis,MG008A
+Pediatric Medical management,MP,MG021,Urinary Tract Infection,MG021A
+Pediatric Medical management,MP,MG022,Viral Encephalitis,MG022A
+Pediatric Medical management,MP,MG023,Septic Arthritis,MG023A
+Pediatric Medical management,MP,MG024,Skin and soft tissue infections,MG024A
+Pediatric Medical management,MP,MG026,Pyrexia of unknown origin,MG026A
+Pediatric Medical management,MP,MG032,Vasculitis,MG032A
+Pediatric Medical management,MP,MG035,Acute transverse myelitis,MG035A
+Pediatric Medical management,MP,MG050,Immune mediated CNS disorders,MG050A
+Pediatric Medical management,MP,MG051,Hydrocephalus,MG051A
+Pediatric Medical management,MP,MG060,Electrolyte Imbalance,MG060A
+Pediatric Medical management,MP,MG060,Electrolyte Imbalance,MG060B
+Pediatric Medical management,MP,MG060,Electrolyte Imbalance,MG060C
+Pediatric Medical management,MP,MG060,Electrolyte Imbalance,MG060D
+Pediatric Medical management,MP,MG061,Hyperosmolar Non- Ketotic coma,MG061A
+Pediatric Medical management,MP,MG062,Accelerated hypertension,MG062A
+Pediatric Medical management,MP,MG063,Hypertensive emergencies,MG063A
+Pediatric Medical management,MP,MG064,Severe anemia,MG064A
+Pediatric Medical management,MP,MG065,Sickle cell Anemia,MG065A
+Pediatric Medical management,MP,MG066,Anaphylaxis,MG066A
+Pediatric Medical management,MP,MG067,Heat stroke,MG067A
+Pediatric Medical management,MP,MG068,Systematic lupus erythematosus,MG068A
+Pediatric Medical management,MP,MG070,Snake bite,MG070A
+Pediatric Medical management,MP,MG071,Poisoning,MG071A
+Pediatric Medical management,MP,MG071,Poisoning,MG071B
+Pediatric Medical management,MP,MG073,Plasmapheresis,MG073A
+Pediatric Medical management,MP,MG074,Blood transfusion,MG074A
+Pediatric Medical management,MP,MG074,Blood transfusion,MG074B
+Pediatric Medical management,MP,MG099,Platelet pheresis,MG099A
+Pediatric Medical management,MP,MG031,Endocarditis,MG031A
+Pediatric Medical management,MP,MG031,Endocarditis,MG031B
+Pediatric Medical management,MP,MG036,Atrial Fibrillation,MG036A
+Pediatric Medical management,MP,MG038,Congestive heart failure,MG038A
+Pediatric Medical management,MP,MG075,"High end radiological diagnostic (CT, MRI, Imaging including nuclear imaging)",MG075A
+Pediatric Medical management,MP,MG076,High end histopathology (Biopsies) and advanced serology investigations,MG076A
+Pediatric Medical management,MP,MG098,PET scan,MG098A
+Pediatric Medical management,MP,MG009,Acute gastroenteritis with dehydration,MG009A
+Pediatric Medical management,MP,MG009,Acute gastroenteritis with dehydration,MG009B
+Pediatric Medical management,MP,MG010,Diarrohea,MG010A
+Pediatric Medical management,MP,MG010,Diarrohea,MG010B
+Pediatric Medical management,MP,MG011,Dysentery,MG011A
+Pediatric Medical management,MP,MG012,Acute viral hepatitis,MG012A
+Pediatric Medical management,MP,MG013,Chronic Hepatitis,MG013A
+Pediatric Medical management,MP,MG014,Liver abscess,MG014A
+Pediatric Medical management,MP,MG015,Visceral leishmaniasis,MG015A
+Pediatric Medical management,MP,MG016,Pneumonia,MG016A
+Pediatric Medical management,MP,MG017,Severe pneumonia,MG017A
+Pediatric Medical management,MP,MG018,Empyema,MG018A
+Pediatric Medical management,MP,MG019,Lung abscess,MG019A
+Pediatric Medical management,MP,MG020,Pericardial tuberculosis,MG020A
+Pediatric Medical management,MP,MG020,Pleural tuberculosis,MG020B
+Pediatric Medical management,MP,MG025,Recurrent vomiting with dehydration,MG025A
+Pediatric Medical management,MP,MG027,Bronchiectasis,MG027A
+Pediatric Medical management,MP,MG028,Acute bronchitis,MG028A
+Pediatric Medical management,MP,MG030,Acute excaberation of Interstitial Lung Disease,MG030A
+Pediatric Medical management,MP,MG033,Pancreatitis,MG033A
+Pediatric Medical management,MP,MG033,Pancreatitis,MG033B
+Pediatric Medical management,MP,MG034,Ascites,MG034A
+Pediatric Medical management,MP,MG039,Asthma,MG039A
+Pediatric Medical management,MP,MG039,Asthma,MG039B
+Pediatric Medical management,MP,MG040,Respiratory failure,MG040A
+Pediatric Medical management,MP,MG040,Respiratory failure,MG040B
+Pediatric Medical management,MP,MG040,Respiratory failure,MG040C
+Pediatric Medical management,MP,MG041,Upper GI bleeding,MG041A
+Pediatric Medical management,MP,MG041,Upper GI bleeding,MG041B
+Pediatric Medical management,MP,MG042,Lower GI hemorrhage,MG042A
+Pediatric Medical management,MP,MG043,Addison’s disease,MG043A
+Pediatric Medical management,MP,MG052,Myxedema coma,MG052A
+Pediatric Medical management,MP,MG053,Thyrotoxic crisis,MG053A
+Pediatric Medical management,MP,MG055,Pneumothorax,MG055A
+Pediatric Medical management,MP,MG056,Neuromuscular Disorders,MG056A
+Pediatric Medical management,MP,MG057,Hypoglycemia,MG057A
+Pediatric Medical management,MP,MG059,Diabetic ketoacidosis,MG059A
+Pediatric Medical management,MP,SE042,Optic neuritis,SE042A
+Radiation Oncology,MR,MR001,2D External Beam Radiotherapy (Telecobalt / Strock LA) (6 Fractions) (Inclusive of Simulation & Planning Cost),MR001A
+Radiation Oncology,MR,MR001,2D External Beam Radiotherapy (Telecobalt / Strock LA) (6 Fractions) (Inclusive of Simulation & Planning Cost),MR001B
+Radiation Oncology,MR,MR001,2D External Beam Radiotherapy (Telecobalt / Strock LA) (6 Fractions) (Inclusive of Simulation & Planning Cost),MR001C
+Radiation Oncology,MR,MR001,2D External Beam Radiotherapy (Telecobalt / Strock LA) (6 Fractions) (Inclusive of Simulation & Planning Cost),MR001D
+Radiation Oncology,MR,MR002,2D External Beam Radiotherapy - Palliative (Telecobalt / Strock LA) (Upto 10 Fractions) (Inclusive of Simulation & Planning Cost),MR002A
+Radiation Oncology,MR,MR003,2D External Beam Radiotherapy (Telecobalt / Strock LA) (25 Fractions) (Inclusive of Simulation & Planning Cost),MR003A
+Radiation Oncology,MR,MR003,2D External Beam Radiotherapy (Telecobalt / Strock LA) (25 Fractions) (Inclusive of Simulation & Planning Cost),MR003B
+Radiation Oncology,MR,MR003,2D External Beam Radiotherapy (Telecobalt / Strock LA) (25 Fractions) (Inclusive of Simulation & Planning Cost),MR003C
+Radiation Oncology,MR,MR003,2D External Beam Radiotherapy (Telecobalt / Strock LA) (25 Fractions) (Inclusive of Simulation & Planning Cost),MR003D
+Radiation Oncology,MR,MR004,"Linear Accelerator, External Beam Radiotherapy 3D CRT (6 Fractions) (Inclusive of Simulation & Planning Cost)",MR004A
+Radiation Oncology,MR,MR004,"Linear Accelerator, External Beam Radiotherapy 3D CRT (6 Fractions) (Inclusive of Simulation & Planning Cost)",MR004B
+Radiation Oncology,MR,MR004,"Linear Accelerator, External Beam Radiotherapy 3D CRT (6 Fractions) (Inclusive of Simulation & Planning Cost)",MR004C
+Radiation Oncology,MR,MR004,"Linear Accelerator, External Beam Radiotherapy 3D CRT (6 Fractions) (Inclusive of Simulation & Planning Cost)",MR004D
+Radiation Oncology,MR,MR005,"Linear Accelerator, External Beam Radiotherapy 3D CRT (25 Fractions) (Inclusive of Simulation & Planning Cost)",MR005A
+Radiation Oncology,MR,MR005,"Linear Accelerator, External Beam Radiotherapy 3D CRT (25 Fractions) (Inclusive of Simulation & Planning Cost)",MR005B
+Radiation Oncology,MR,MR005,"Linear Accelerator, External Beam Radiotherapy 3D CRT (25 Fractions) (Inclusive of Simulation & Planning Cost)",MR005C
+Radiation Oncology,MR,MR005,"Linear Accelerator, External Beam Radiotherapy 3D CRT (25 Fractions) (Inclusive of Simulation & Planning Cost)",MR005D
+Radiation Oncology,MR,MR006,"Linear Accelerator, External Beam Radiotherapy IMRT (Intensity Modulated Radiotherapy) (20 Fractions) (Inclusive of Simulation & Planning Cost)",MR006A
+Radiation Oncology,MR,MR006,"Linear Accelerator, External Beam Radiotherapy IMRT (Intensity Modulated Radiotherapy) (20 Fractions) (Inclusive of Simulation & Planning Cost)",MR006B
+Radiation Oncology,MR,MR006,"Linear Accelerator, External Beam Radiotherapy IMRT (Intensity Modulated Radiotherapy) (20 Fractions) (Inclusive of Simulation & Planning Cost)",MR006C
+Radiation Oncology,MR,MR006,"Linear Accelerator, External Beam Radiotherapy IMRT (Intensity Modulated Radiotherapy) (20 Fractions) (Inclusive of Simulation & Planning Cost)",MR006D
+Radiation Oncology,MR,MR007,"Linear Accelerator, External Beam Radiotherapy IMRT (Intensity Modulated Radiotherapy) (6 Fractions) (Inclusive of Simulation & Planning Cost)",MR007A
+Radiation Oncology,MR,MR007,"Linear Accelerator, External Beam Radiotherapy IMRT (Intensity Modulated Radiotherapy) (6 Fractions) (Inclusive of Simulation & Planning Cost)",MR007B
+Radiation Oncology,MR,MR007,"Linear Accelerator, External Beam Radiotherapy IMRT (Intensity Modulated Radiotherapy) (6 Fractions) (Inclusive of Simulation & Planning Cost)",MR007C
+Radiation Oncology,MR,MR007,"Linear Accelerator, External Beam Radiotherapy IMRT (Intensity Modulated Radiotherapy) (6 Fractions) (Inclusive of Simulation & Planning Cost)",MR007D
+Radiation Oncology,MR,MR008,Linear Accelerator External Beam Radiotherapy IGRT (Image Guided radiotherapy) with 3D CRT or IMRT (20 Fractions) (Inclusive of Simulation & Planning Cost),MR008A
+Radiation Oncology,MR,MR008,Linear Accelerator External Beam Radiotherapy IGRT (Image Guided radiotherapy) with 3D CRT or IMRT (20 Fractions) (Inclusive of Simulation & Planning Cost),MR008B
+Radiation Oncology,MR,MR008,Linear Accelerator External Beam Radiotherapy IGRT (Image Guided radiotherapy) with 3D CRT or IMRT (20 Fractions) (Inclusive of Simulation & Planning Cost),MR008C
+Radiation Oncology,MR,MR008,Linear Accelerator External Beam Radiotherapy IGRT (Image Guided radiotherapy) with 3D CRT or IMRT (20 Fractions) (Inclusive of Simulation & Planning Cost),MR008D
+Radiation Oncology,MR,MR009,Linear Accelerator External Beam Radiotherapy IGRT (Image Guided radiotherapy) with 3D CRT or IMRT (6 Fractions) (Inclusive of Simulation & Planning Cost),MR009A
+Radiation Oncology,MR,MR009,Linear Accelerator External Beam Radiotherapy IGRT (Image Guided radiotherapy) with 3D CRT or IMRT (6 Fractions) (Inclusive of Simulation & Planning Cost),MR009B
+Radiation Oncology,MR,MR009,Linear Accelerator External Beam Radiotherapy IGRT (Image Guided radiotherapy) with 3D CRT or IMRT (6 Fractions) (Inclusive of Simulation & Planning Cost),MR009C
+Radiation Oncology,MR,MR009,Linear Accelerator External Beam Radiotherapy IGRT (Image Guided radiotherapy) with 3D CRT or IMRT (6 Fractions) (Inclusive of Simulation & Planning Cost),MR009D
+Radiation Oncology,MR,MR010,SRT / SBRT with IGRT (Stereotacatic radiotherapy) (4 Fractions) (Inclusive of Simulation & Planning Cost),MR010A
+Radiation Oncology,MR,MR010,SRT / SBRT with IGRT (Stereotacatic radiotherapy) (4 Fractions) (Inclusive of Simulation & Planning Cost),MR010B
+Radiation Oncology,MR,MR011,SRS with IGRT (Stereotacatic radiotherapy) (Inclusive of Simulation & Planning Cost),MR011A
+Radiation Oncology,MR,MR012,Respiratory Gating along with Linear Accelerator planning (5 Fractions) (Inclusive of Simulation & Planning Cost),MR012A
+Radiation Oncology,MR,MR012,Respiratory Gating along with Linear Accelerator planning (5 Fractions) (Inclusive of Simulation & Planning Cost),MR012B
+Radiation Oncology,MR,MR013,Brachytherapy High Dose Radiation (2D/X- ray) (Maximum of 4 session),MR013A
+Radiation Oncology,MR,MR013,Brachytherapy High Dose Radiation (2D/X- ray) (Maximum of 4 session),MR013B
+Radiation Oncology,MR,MR013,Brachytherapy High Dose Radiation (2D/X- ray) (Maximum of 4 session),MR013C
+Radiation Oncology,MR,MR013,Brachytherapy High Dose Radiation (2D/X- ray) (Maximum of 4 session),MR013D
+Radiation Oncology,MR,MR013,Brachytherapy High Dose Radiation (2D/X- ray) (Maximum of 4 session),MR013E
+Radiation Oncology,MR,MR014,"Brachytherapy High Dose Radiation (5 doses) (Inclusive of Simulation, Planning Cost, OT & other charges )",MR014A
+Radiation Oncology,MR,MR014,"Brachytherapy High Dose Radiation (5 doses) (Inclusive of Simulation, Planning Cost, OT & other charges )",MR014B
+Radiation Oncology,MR,MR014,"Brachytherapy High Dose Radiation (5 doses) (Inclusive of Simulation, Planning Cost, OT & other charges )",MR014C
+Radiation Oncology,MR,MR015,iodine treatment 3 mCi,MR015A
+Radiation Oncology,MR,MR015,iodine treatment 30 mCi,MR015B
+Radiation Oncology,MR,MR016,Iodine treatment 50 mCi,MR016A
+Radiation Oncology,MR,MR017,Iodine treatment 100 mCi,MR017A
+Radiation Oncology,MR,MR018,Iodine treatment 150 mCi,MR018A
+Radiation Oncology,MR,MR019,Iodine treatment 200 mCi,MR019A
+Radiation Oncology,MR,MR020,Iodine treatment 250 mCi,MR020A
+Radiation Oncology,MR,MG098,PET scan,MG098A
+Radiation Oncology,MR,SE040,GA / EUA separate add on package,SE040A
+Organ & Tissue Transplant,OT,OT001,Renal Transplant,OT001A
+Organ & Tissue Transplant,OT,OT001,Renal Transplant,OT001C
+Organ & Tissue Transplant,OT,OT001,Renal Transplant,OT001D
+Organ & Tissue Transplant,OT,OT001,Renal Transplant,OT001E
+Organ & Tissue Transplant,OT,OT001,Renal Transplant,OT001F
+Organ & Tissue Transplant,OT,OT002,Bone Marrow Transplant (Autologous),OT002A
+Organ & Tissue Transplant,OT,OT002,Bone Marrow Transplant (Autologous),OT002B
+Organ & Tissue Transplant,OT,OT002,Bone Marrow Transplant (Autologous),OT002C
+Organ & Tissue Transplant,OT,MG072,Haemodialysis / Peritoneal Dialysis,MG072C
+Organ & Tissue Transplant,OT,MG072,Haemodialysis / Peritoneal Dialysis,MG072D
+Orthopedics,SB,SB001,Fracture - Conservative Management - Without plaster,SB001A
+Orthopedics,SB,SB002,Application of Traction,SB002A
+Orthopedics,SB,SB002,Application of Traction,SB002B
+Orthopedics,SB,SB003,Application of P.O.P. casts,SB003A
+Orthopedics,SB,SB003,Application of P.O.P. casts,SB003B
+Orthopedics,SB,SB004,Application of P.O.P. Spikas & Jackets,SB004A
+Orthopedics,SB,SB004,Application of P.O.P. Spikas & Jackets,SB004B
+Orthopedics,SB,SB005,External fixation of Fracture,SB005A
+Orthopedics,SB,SB005,External fixation of Fracture,SB005B
+Orthopedics,SB,SB005,External fixation of Fracture,SB005C
+Orthopedics,SB,SB005,External fixation of Fracture,SB005D
+Orthopedics,SB,SB006,Percutaneous - Fixation of Fracture,SB006A
+Orthopedics,SB,SB007,Elastic nailing for fracture fixation,SB007A
+Orthopedics,SB,SB007,Elastic nailing for fracture fixation,SB007B
+Orthopedics,SB,SB007,Elastic nailing for fracture fixation,SB007C
+Orthopedics,SB,SB008,Internal Fixation of Small Bones,SB008A
+Orthopedics,SB,SB009,Fracture - Long Bones - Metaphyseal - ORIF,SB009A
+Orthopedics,SB,SB010,Fixation of Diaphyseal Fracture - Long Bone,SB010A
+Orthopedics,SB,SB010,Fixation of Diaphyseal Fracture - Long Bone,SB010B
+Orthopedics,SB,SB011,Surgery for Comminuted Fracture - Olecranon of Ulna,SB011A
+Orthopedics,SB,SB012,Fracture Head radius,SB012A
+Orthopedics,SB,SB012,Fracture Head radius,SB012B
+Orthopedics,SB,SB013,Fracture - Single Bone - Forearm - ORIF - Plating / Nailing,SB013A
+Orthopedics,SB,SB014,Fracture - Both Bones - Forearm - ORIF - Plating / Nailing,SB014A
+Orthopedics,SB,SB015,Fracture Condyle - Humerus - ORIF,SB015A
+Orthopedics,SB,SB015,Fracture Condyle - Humerus - ORIF,SB015B
+Orthopedics,SB,SB016,Fracture intercondylar Humerus + olecranon osteotomy,SB016A
+Orthopedics,SB,SB017,Displaced Clavicle Fracture,SB017A
+Orthopedics,SB,SB018,Fracture - Acetabulum,SB018A
+Orthopedics,SB,SB018,Fracture - Acetabulum,SB018B
+Orthopedics,SB,SB019,Fracture - Neck Femur,SB019A
+Orthopedics,SB,SB019,Fracture - Neck Femur,SB019B
+Orthopedics,SB,SB019,Fracture - Neck Femur,SB019C
+Orthopedics,SB,SB020,Ankle Fractures,SB020A
+Orthopedics,SB,SB021,Cervical spine fixation including odontoid,SB021A
+Orthopedics,SB,SB022,Dorsal and lumber spine fixation,SB022A
+Orthopedics,SB,SB022,Dorsal and lumber spine fixation,SB022B
+Orthopedics,SB,SB023,Bone grafting for Non union,SB023A
+Orthopedics,SB,SB024,Arthorotomy of any joint,SB024A
+Orthopedics,SB,SB025,Arthrolysis of joint,SB025A
+Orthopedics,SB,SB025,Arthrolysis of joint,SB025B
+Orthopedics,SB,SB025,Arthrolysis of joint,SB025C
+Orthopedics,SB,SB026,Arthrodesis,SB026A
+Orthopedics,SB,SB026,Arthrodesis,SB026B
+Orthopedics,SB,SB026,Arthrodesis,SB026C
+Orthopedics,SB,SB026,Arthrodesis,SB026D
+Orthopedics,SB,SB026,Arthrodesis,SB026E
+Orthopedics,SB,SB026,Arthrodesis,SB026F
+Orthopedics,SB,SB026,Arthrodesis,SB026G
+Orthopedics,SB,SB027,Disarticulation,SB027A
+Orthopedics,SB,SB027,Disarticulation,SB027B
+Orthopedics,SB,SB028,Closed reduction of joint dislocation,SB028A
+Orthopedics,SB,SB028,Closed reduction of joint dislocation,SB028B
+Orthopedics,SB,SB028,Closed reduction of joint dislocation,SB028C
+Orthopedics,SB,SB028,Closed reduction of joint dislocation,SB028D
+Orthopedics,SB,SB029,Open Reduction of Small Joint,SB029A
+Orthopedics,SB,SB030,Tension Band Wiring,SB030A
+Orthopedics,SB,SB031,Hemiarthroplasty,SB031A
+Orthopedics,SB,SB031,Hemiarthroplasty,SB031B
+Orthopedics,SB,SB031,Hemiarthroplasty,SB031C
+Orthopedics,SB,SB032,AC Joint reconstruction / Stabilization,SB032A
+Orthopedics,SB,SB032,AC Joint reconstruction / Stabilization,SB032B
+Orthopedics,SB,SB032,AC Joint reconstruction / Stabilization,SB032C
+Orthopedics,SB,SB032,AC Joint reconstruction / Stabilization,SB032D
+Orthopedics,SB,SB032,AC Joint reconstruction / Stabilization,SB032E
+Orthopedics,SB,SB032,AC Joint reconstruction / Stabilization,SB032F
+Orthopedics,SB,SB033,Excision Arthoplasty of Femur head,SB033A
+Orthopedics,SB,SB034,Open Reduction of CDH,SB034A
+Orthopedics,SB,SB035,Patellectomy,SB035A
+Orthopedics,SB,SB036,Arthroscopic Meniscus Repair / Meniscectomy,SB036A
+Orthopedics,SB,SB037,Elbow replacement,SB037A
+Orthopedics,SB,SB038,Total Hip Replacement,SB038A
+Orthopedics,SB,SB038,Total Hip Replacement,SB038B
+Orthopedics,SB,SB038,Total Hip Replacement,SB038C
+Orthopedics,SB,SB038,Total Hip Replacement,SB038D
+Orthopedics,SB,SB039,Total Knee Replacement,SB039A
+Orthopedics,SB,SB039,Total Knee Replacement,SB039B
+Orthopedics,SB,SB040,Bone Tumour Excision (malignant) including GCT + Joint replacement (depending upon type of joint and implant),SB040A
+Orthopedics,SB,SB041,Bone Tumour Excision + reconstruction,SB041A
+Orthopedics,SB,SB042,Bone Tumour (benign) curettage / Excision and bone grafting,SB042A
+Orthopedics,SB,SB043,Single Stage Amputation,SB043A
+Orthopedics,SB,SB043,Single Stage Amputation,SB043B
+Orthopedics,SB,SB043,Single Stage Amputation,SB043C
+Orthopedics,SB,SB043,Single Stage Amputation,SB043D
+Orthopedics,SB,SB043,Single Stage Amputation,SB043E
+Orthopedics,SB,SB043,Single Stage Amputation,SB043F
+Orthopedics,SB,SB043,Single Stage Amputation,SB043G
+Orthopedics,SB,SB044,Two Stage Amputation,SB044A
+Orthopedics,SB,SB044,Two Stage Amputation,SB044B
+Orthopedics,SB,SB044,Two Stage Amputation,SB044C
+Orthopedics,SB,SB044,Two Stage Amputation,SB044D
+Orthopedics,SB,SB044,Two Stage Amputation,SB044E
+Orthopedics,SB,SB044,Two Stage Amputation,SB044F
+Orthopedics,SB,SB044,Two Stage Amputation,SB044G
+Orthopedics,SB,SB045,Amputation - Fingers / Toes,SB045A
+Orthopedics,SB,SB045,Amputation - Fingers / Toes,SB045B
+Orthopedics,SB,SB046,Tendon Grafting / Repair,SB046A
+Orthopedics,SB,SB046,Tendon Grafting / Repair,SB046B
+Orthopedics,SB,SB047,Tendon Release / Tenotomy,SB047A
+Orthopedics,SB,SB048,Tenolysis,SB048A
+Orthopedics,SB,SB049,Reconstruction of Cruciate Ligament with implant and brace,SB049A
+Orthopedics,SB,SB049,Reconstruction of Cruciate Ligament with implant and brace,SB049B
+Orthopedics,SB,SB050,Fasciotomy,SB050A
+Orthopedics,SB,SB051,Duputryen’s Contracture release + rehabilitation,SB051A
+Orthopedics,SB,SB052,Debridement & Closure of injuries - contused lacerated wounds,SB052A
+Orthopedics,SB,SB052,Debridement & Closure of injuries - contused lacerated wounds,SB052B
+Orthopedics,SB,SB053,Sequestectomy / Curettage,SB053A
+Orthopedics,SB,SB054,Spine deformity correction,SB054A
+Orthopedics,SB,SB055,Osteotomy,SB055A
+Orthopedics,SB,SB055,Osteotomy,SB055B
+Orthopedics,SB,SB056,Pelvic Osteotomy and fixation,SB056A
+Orthopedics,SB,SB057,High Tibial Osteotomy,SB057A
+Orthopedics,SB,SB058,Ilizarov Fixation,SB058A
+Orthopedics,SB,SB059,Limb Lengthening / Bone Transport by Ilizarov,SB059A
+Orthopedics,SB,SB060,Growth Modulation and fixation,SB060A
+Orthopedics,SB,SB061,Corrective Surgery for foot deformities,SB061A
+Orthopedics,SB,SB061,Corrective Surgery for foot deformities,SB061B
+Orthopedics,SB,SB062,Correction of club foot per cast,SB062A
+Orthopedics,SB,SB063,Corrective Surgery in Club Foot / JESS Fixator,SB063A
+Orthopedics,SB,SB064,Excision of Osteochondroma / Exostosis,SB064A
+Orthopedics,SB,SB064,Excision of Osteochondroma / Exostosis,SB064B
+Orthopedics,SB,SB065,Excision of Bursa,SB065A
+Orthopedics,SB,SB066,Nerve Transposition / Release / Neurolysis,SB066A
+Orthopedics,SB,SB066,Nerve Transposition / Release / Neurolysis,SB066B
+Orthopedics,SB,SB066,Nerve Transposition / Release / Neurolysis,SB066C
+Orthopedics,SB,SB067,Nerve Repair Surgery,SB067A
+Orthopedics,SB,SB068,Nerve root block,SB068A
+Orthopedics,SB,SB069,Exploration and Ulnar nerve Repair,SB069A
+Orthopedics,SB,SB070,Implant Removal under LA,SB070A
+Orthopedics,SB,SB070,Implant Removal under LA,SB070B
+Orthopedics,SB,SB071,Implant Removal under RA / GA,SB071A
+Orthopedics,SB,SB071,Implant Removal under RA / GA,SB071B
+Orthopedics,SB,SB072,Core Decompression,SB072A
+Orthopedics,SB,SB074,Arthroscopy / open - synovectomy,SB074A
+Orthopedics,SB,SB002,Application of Traction,SB002C
+Orthopedics,SB,SB002,Application of Traction,SB002D
+Orthopedics,SB,SB003,Application of P.O.P. casts,SB003C
+Orthopedics,SB,SB012,Fracture Head radius,SB012C
+Orthopedics,SB,SB015,Fracture Condyle - Humerus - ORIF,SB015C
+Orthopedics,SB,SB038,Total Hip Replacement,SB038E
+Orthopedics,SB,SB054,Spine deformity correction,SB054B
+Orthopedics,SB,SC070,Bone tumors / soft tissue sarcomas: surgery,SC070A
+Orthopedics,SB,SG092,Tendon Transfer,SG092A
+Orthopedics,SB,SN032,Thoracic / Lumbar Corpectomy with fusion,SN032A
+Orthopedics,SB,SN034,Laminectomy,SN034A
+Orthopedics,SB,SN034,Laminectomy,SN034B
+Orthopedics,SB,SN046,Carpal Tunnel Release,SN046A
+Orthopedics,SB,ST001,Conservative Management of Head Injury,ST001A
+Orthopedics,SB,ST001,Conservative Management of Head Injury,ST001B
+Orthopedics,SB,ST002,Head injury with repair of Facio-Maxillary Injury & fixations (including implants),ST002A
+Orthopedics,SB,ST003,Craniotomy and evacuation of Haematoma with fixation of fracture of long bone,ST003A
+Orthopedics,SB,ST003,Craniotomy and evacuation of Haematoma with fixation of fracture of long bone,ST003B
+Orthopedics,SB,ST003,Craniotomy and evacuation of Haematoma with fixation of fracture of long bone,ST003C
+Orthopedics,SB,ST003,Craniotomy and evacuation of Haematoma with fixation of fracture of long bone,ST003D
+Orthopedics,SB,ST004,Management of Chest injury with fracture of Long bone,ST004A
+Orthopedics,SB,ST004,Management of Chest injury with fracture of Long bone,ST004B
+Orthopedics,SB,ST005,Management of Visceral injury and fracture long bone,ST005A
+Orthopedics,SB,ST005,Management of Visceral injury and fracture long bone,ST005B
+Orthopedics,SB,ST006,Internal fixation of Pelviacetabular fracture,ST006A
+Orthopedics,SB,ST007,Internal fixation with Flap cover Surgery for wound in compound fracture,ST007A
+Orthopedics,SB,ST008,Emergency tendons repair ± Peripheral Nerve repair/ reconstructive surgery,ST008A
+Orthopedics,SB,ST009,Management of Nerve Plexus / Tendon injuries,ST009A
+Orthopedics,SB,ST009,Management of Nerve Plexus / Tendon injuries,ST009B
+Orthopedics,SB,ST009,Management of Nerve Plexus / Tendon injuries,ST009C
+Orthopedics,SB,ST009,Management of Nerve Plexus / Tendon injuries,ST009D
+Orthopedics,SB,ST009,Management of Nerve Plexus / Tendon injuries,ST009E
+Orthopedics,SB,ST010,Plexus injury along with Vascular injury repair / graft,ST010A
+Orthopedics,SB,ST010,Plexus injury along with Vascular injury repair / graft,ST010B
+Surgical Oncology,SC,SC001,Glossectomy,SC001A
+Surgical Oncology,SC,SC001,Glossectomy,SC001B
+Surgical Oncology,SC,SC002,Palatectomy,SC002A
+Surgical Oncology,SC,SC002,Palatectomy,SC002B
+Surgical Oncology,SC,SC003,Maxillectomy,SC003A
+Surgical Oncology,SC,SC003,Maxillectomy,SC003B
+Surgical Oncology,SC,SC003,Maxillectomy,SC003C
+Surgical Oncology,SC,SC004,Composite resection (Oral Cavity),SC004A
+Surgical Oncology,SC,SC005,Oesophageal / Tracheal stenting,SC005A
+Surgical Oncology,SC,SC005,Oesophageal / Tracheal stenting,SC005B
+Surgical Oncology,SC,SC006,Transthoracic esophagectomy: 2F / 3F,SC006A
+Surgical Oncology,SC,SC006,Transthoracic esophagectomy: 2F / 3F,SC006B
+Surgical Oncology,SC,SC007,Gastric pull-up / Jejunal Graft,SC007A
+Surgical Oncology,SC,SC008,Radical Small Bowel Resection,SC008A
+Surgical Oncology,SC,SC008,Radical Small Bowel Resection,SC008B
+Surgical Oncology,SC,SC009,Intersphincteric resection,SC009A
+Surgical Oncology,SC,SC009,Intersphincteric resection,SC009B
+Surgical Oncology,SC,SC010,Surgery for Abdominal wall tumour,SC010A
+Surgical Oncology,SC,SC010,Surgery for Abdominal wall tumour,SC010B
+Surgical Oncology,SC,SC011,Exploratory laparotomy f / b diversion stoma / bypass,SC011A
+Surgical Oncology,SC,SC011,Exploratory laparotomy f / b diversion stoma / bypass,SC011B
+Surgical Oncology,SC,SC012,Abdominoperineal resection,SC012A
+Surgical Oncology,SC,SC012,Abdominoperineal resection,SC012B
+Surgical Oncology,SC,SC013,Omentectomy,SC013A
+Surgical Oncology,SC,SC014,Procedures Requiring Bypass Techniques,SC014A
+Surgical Oncology,SC,SC015,Segmentectomy - hepatobiliary system,SC015A
+Surgical Oncology,SC,SC016,Radical / Revision Cholecystectomy,SC016A
+Surgical Oncology,SC,SC016,Radical / Revision Cholecystectomy,SC016B
+Surgical Oncology,SC,SC017,Enucleation of pancreatic neoplasm,SC017A
+Surgical Oncology,SC,SC018,Hepatoblastoma Excision,SC018A
+Surgical Oncology,SC,SC019,Hemipelvectomy - Internal,SC019A
+Surgical Oncology,SC,SC020,Pelvic Exenteration,SC020A
+Surgical Oncology,SC,SC020,Pelvic Exenteration,SC020B
+Surgical Oncology,SC,SC020,Pelvic Exenteration,SC020C
+Surgical Oncology,SC,SC020,Pelvic Exenteration,SC020D
+Surgical Oncology,SC,SC021,Wilms tumors: surgery,SC021A
+Surgical Oncology,SC,SC022,Ureteric end to end anastomosis,SC022A
+Surgical Oncology,SC,SC023,Distal ureterectomy with reimplantation,SC023A
+Surgical Oncology,SC,SC024,Radical cystectomy,SC024A
+Surgical Oncology,SC,SC024,Radical cystectomy,SC024B
+Surgical Oncology,SC,SC024,Radical cystectomy,SC024C
+Surgical Oncology,SC,SC024,Radical cystectomy,SC024D
+Surgical Oncology,SC,SC024,Radical cystectomy,SC024E
+Surgical Oncology,SC,SC024,Radical cystectomy,SC024F
+Surgical Oncology,SC,SC024,Radical cystectomy,SC024G
+Surgical Oncology,SC,SC024,Radical cystectomy,SC024H
+Surgical Oncology,SC,SC024,Radical cystectomy,SC024I
+Surgical Oncology,SC,SC025,Channel TURP,SC025A
+Surgical Oncology,SC,SC026,Radical Urethrectomy,SC026A
+Surgical Oncology,SC,SC027,"Penile preserving surgery (WLE, Glansectomy, Laser)",SC027A
+Surgical Oncology,SC,SC028,Excision of undescended testicular mass,SC028A
+Surgical Oncology,SC,SC029,Germ Cell Tumour Excision,SC029A
+Surgical Oncology,SC,MG098,PET scan,MG098A
+Surgical Oncology,SC,SG081,Lobectomy,SG081A
+Surgical Oncology,SC,SG081,Lobectomy,SG081B
+Surgical Oncology,SC,SC031,Leiomyoma excision,SC031A
+Surgical Oncology,SC,SC031,Leiomyoma excision,SC031B
+Surgical Oncology,SC,SC032,Radical Hysterectomy,SC032A
+Surgical Oncology,SC,SC032,Radical Hysterectomy,SC032B
+Surgical Oncology,SC,SC032,Radical Hysterectomy,SC032C
+Surgical Oncology,SC,SC032,Radical Hysterectomy,SC032D
+Surgical Oncology,SC,SC032,Radical Hysterectomy,SC032E
+Surgical Oncology,SC,SC032,Radical Hysterectomy,SC032F
+Surgical Oncology,SC,SC032,Radical Hysterectomy,SC032G
+Surgical Oncology,SC,SC033,Radical vaginectomy,SC033A
+Surgical Oncology,SC,SC034,Vulvectomy + reconstruction procedures,SC034A
+Surgical Oncology,SC,SC035,Radical Trachelectomy,SC035A
+Surgical Oncology,SC,SC036,Sacral Tumour Excision,SC036A
+Surgical Oncology,SC,SC036,Sacral Tumour Excision,SC036B
+Surgical Oncology,SC,SC037,Resection of nasopharyngeal tumour,SC037A
+Surgical Oncology,SC,SC038,Total Pharyngectomy,SC038A
+Surgical Oncology,SC,SC039,Parapharyngeal Tumour Excision,SC039A
+Surgical Oncology,SC,SC040,Laryngectomy,SC040A
+Surgical Oncology,SC,SC040,Laryngectomy,SC040B
+Surgical Oncology,SC,SC041,Tracheal resection,SC041A
+Surgical Oncology,SC,SC042,Tracheal / Carinal resection,SC042A
+Surgical Oncology,SC,SC043,Tracheal Stenosis (End to end Anastamosis) (Throat),SC043A
+Surgical Oncology,SC,SC044,Central airway tumour debulking,SC044A
+Surgical Oncology,SC,SC045,Diagnostic thoracoscopy,SC045A
+Surgical Oncology,SC,SC046,Sleeve resection of lung cancer,SC046A
+Surgical Oncology,SC,SC047,Mediastinoscopy,SC047A
+Surgical Oncology,SC,SC047,Mediastinoscopy,SC047B
+Surgical Oncology,SC,SC048,Removal of Chest Wall Tumour,SC048A
+Surgical Oncology,SC,SC048,Removal of Chest Wall Tumour,SC048B
+Surgical Oncology,SC,SC049,Pleurectomy Decortication,SC049A
+Surgical Oncology,SC,SC050,Chamberlain procedure,SC050A
+Surgical Oncology,SC,SC051,Extrapleural pneumonectomy,SC051A
+Surgical Oncology,SC,SC052,Pneumonectomy,SC052A
+Surgical Oncology,SC,SC053,Lung metastectomy,SC053A
+Surgical Oncology,SC,SC053,Lung metastectomy,SC053B
+Surgical Oncology,SC,SC054,Thoracostomy,SC054A
+Surgical Oncology,SC,SC055,Mediastinal lymphadenectomy,SC055A
+Surgical Oncology,SC,SC055,Mediastinal lymphadenectomy,SC055B
+Surgical Oncology,SC,SC056,Mediastinal mass excision with lung resection,SC056A
+Surgical Oncology,SC,SC057,Segmental resection of lung,SC057A
+Surgical Oncology,SC,SC057,Segmental resection of lung,SC057B
+Surgical Oncology,SC,SC058,Wedge resection lung,SC058A
+Surgical Oncology,SC,SC058,Wedge resection lung,SC058B
+Surgical Oncology,SC,SC059,Breast conserving surgery,SC059A
+Surgical Oncology,SC,SC059,Breast conserving surgery,SC059B
+Surgical Oncology,SC,SC060,Axillary Sampling / Sentinel Node Biopsy,SC060A
+Surgical Oncology,SC,SC061,Axillary dissection,SC061A
+Surgical Oncology,SC,SC062,Scalp tumour excision with skull bone excision,SC062A
+Surgical Oncology,SC,SC063,Neuroblastoma Excision,SC063A
+Surgical Oncology,SC,SC064,Excision of Pinna for Growths / Injuries - Total Amputation & Excision of External Auditory Meatus,SC064A
+Surgical Oncology,SC,SC064,Excision of Pinna for Growths / Injuries - Total Amputation & Excision of External Auditory Meatus,SC064B
+Surgical Oncology,SC,SC064,Excision of Pinna for Growths / Injuries - Total Amputation & Excision of External Auditory Meatus,SC064C
+Surgical Oncology,SC,SC065,Neck dissection - comprehensive,SC065A
+Surgical Oncology,SC,SC066,Benign Soft Tissue Tumour - Excision,SC066A
+Surgical Oncology,SC,SC067,Malignant Soft Tissue Tumour -Excision,SC067A
+Surgical Oncology,SC,SC068,Regional flap,SC068A
+Surgical Oncology,SC,SC068,Regional flap,SC068B
+Surgical Oncology,SC,SC069,Rotationplasty,SC069A
+Surgical Oncology,SC,SC070,Bone tumors / soft tissue sarcomas: surgery,SC070A
+Surgical Oncology,SC,SC071,Endoprosthesis Revision,SC071A
+Surgical Oncology,SC,SC071,Endoprosthesis Revision,SC071B
+Surgical Oncology,SC,SC072,Vertebral Tumour Excision and Reconstruction,SC072A
+Surgical Oncology,SC,SC073,Microvascular reconstruction (free flaps),SC073A
+Surgical Oncology,SC,SC074,Vascular reconstruction,SC074A
+Surgical Oncology,SC,SC075,Curopsy / Sclerotherapy,SC075A
+Surgical Oncology,SC,SC076,Chemo Port Insertion,SC076A
+Surgical Oncology,SC,SC077,Posterior Exenteration (Gynaec),SC077A
+Surgical Oncology,SC,SC078,Bilateral pelvic lymph Node Dissection (BPLND)18,SC078A
+Surgical Oncology,SC,SC079,Plastic surgery flap division,SC079A
+Surgical Oncology,SC,SC081,Cytoreductive surgery for ovarian cancer,SC081A
+Surgical Oncology,SC,SC082,Wide Excision- Oral Cavity Malignancy,SC082A
+Surgical Oncology,SC,SE037,Exenteration,SE037A
+Surgical Oncology,SC,SB026,Arthrodesis,SB026E
+Surgical Oncology,SC,SB026,Arthrodesis,SB026F
+Surgical Oncology,SC,SB041,Bone Tumour Excision + reconstruction,SB041A
+Surgical Oncology,SC,SG001,Oesophagectomy,SG001A
+Surgical Oncology,SC,SG003,Gastrectomy,SG003C
+Surgical Oncology,SC,SG003,Gastrectomy,SG003D
+Surgical Oncology,SC,SG003,Gastrectomy,SG003E
+Surgical Oncology,SC,SG003,Gastrectomy,SG003F
+Surgical Oncology,SC,SG0106,Subtotal Colectomy,SG0106A
+Surgical Oncology,SC,SG0106,Subtotal Colectomy,SG0106B
+Surgical Oncology,SC,SG010,Gastrojejunostomy,SG010A
+Surgical Oncology,SC,SG012,Feeding Jejunostomy,SG012A
+Surgical Oncology,SC,SG020,Total Colectomy,SG020A
+Surgical Oncology,SC,SG020,Total Colectomy,SG020B
+Surgical Oncology,SC,SG021,Hemi colectomy,SG021A
+Surgical Oncology,SC,SG021,Hemi colectomy,SG021B
+Surgical Oncology,SC,SG021,Hemi colectomy,SG021C
+Surgical Oncology,SC,SG021,Hemi colectomy,SG021D
+Surgical Oncology,SC,SG023,Colostomy,SG023A
+Surgical Oncology,SC,SG024,Closure of stoma,SG024A
+Surgical Oncology,SC,SG028,Rectal Polyp Excision,SG028A
+Surgical Oncology,SC,SG029,Anterior Resection of rectum,SG029A
+Surgical Oncology,SC,SG029,Anterior Resection of rectum,SG029B
+Surgical Oncology,SC,SG037,Hepatic Resection,SG037A
+Surgical Oncology,SC,SG037,Hepatic Resection,SG037B
+Surgical Oncology,SC,SG043,Bypass - Inoperable Pancreas,SG043A
+Surgical Oncology,SC,SG044,Distal Pancreatectomy with Pancreatico Jejunostomy,SG044A
+Surgical Oncology,SC,SG045,PancreaticoDuodenect omy (Whipple's),SG045A
+Surgical Oncology,SC,SG049,Retroperitoneal Tumor – Excision,SG049A
+Surgical Oncology,SC,SG059,Orchidectomy,SG059A
+Surgical Oncology,SC,SG061,Estlander Operation (lip),SG061A
+Surgical Oncology,SC,SG062,Operation for Carcinoma Lip,SG062A
+Surgical Oncology,SC,SG062,Operation for Carcinoma Lip,SG062B
+Surgical Oncology,SC,SG062,Operation for Carcinoma Lip,SG062C
+Surgical Oncology,SC,SG063,Complete Excision of Growth from Tongue only (inclusive of Histopathology),SG063A
+Surgical Oncology,SC,SG064,Excision of Growth from Tongue with neck node dissection,SG064A
+Surgical Oncology,SC,SG066,Submandibular Mass Excision,SG066A
+Surgical Oncology,SC,SG067,Radical Neck Dissection,SG067A
+Surgical Oncology,SC,SG069,Carotid Body tumour - Excision,SG069A
+Surgical Oncology,SC,SG070,Thyroidectomy,SG070A
+Surgical Oncology,SC,SG070,Thyroidectomy,SG070B
+Surgical Oncology,SC,SG070,Thyroidectomy,SG070C
+Surgical Oncology,SC,SG071,Excision of Parathyroid Adenoma / Carcinoma,SG071A
+Surgical Oncology,SC,SG074,Breast Lump Excision (Benign),SG074A
+Surgical Oncology,SC,SG075,Mastectomy,SG075A
+Surgical Oncology,SC,SG075,Mastectomy,SG075B
+Surgical Oncology,SC,SG087,Flap Reconstructive Surgery,SG087A
+Surgical Oncology,SC,SG091,Skin Flaps - Rotation Flaps,SG091A
+Surgical Oncology,SC,SL004,Mastoidectomy,SL004A
+Surgical Oncology,SC,SL004,Mastoidectomy,SL004B
+Surgical Oncology,SC,SL005,Myringotomy with or without Grommet,SL005A
+Surgical Oncology,SC,SL005,Myringotomy with or without Grommet,SL005B
+Surgical Oncology,SC,SL021,Parotidectomy,SL021A
+Surgical Oncology,SC,SL021,Parotidectomy,SL021B
+Surgical Oncology,SC,SL027,Neck dissection,SL027A
+Surgical Oncology,SC,SL027,Neck dissection,SL027B
+Surgical Oncology,SC,SL027,Neck dissection,SL027C
+Surgical Oncology,SC,SL027,Neck dissection,SL027D
+Surgical Oncology,SC,SL020,Excision of tumour of oral cavity / paranasal sinus / laryngopharynx with or without reconstruction,SL020A
+Surgical Oncology,SC,SL020,Excision of tumour of oral cavity / paranasal sinus / laryngopharynx with or without reconstruction,SL020B
+Surgical Oncology,SC,SL020,Excision of tumour of oral cavity / paranasal sinus / laryngopharynx with or without reconstruction,SL020C
+Surgical Oncology,SC,SL025,Open laryngeal framework surgery / Thyroplasty,SL025A
+Surgical Oncology,SC,SL029,Anterior skull base surgery,SL029A
+Surgical Oncology,SC,SL029,Anterior skull base surgery,SL029B
+Surgical Oncology,SC,SL029,Anterior skull base surgery,SL029C
+Surgical Oncology,SC,SL029,Anterior skull base surgery,SL029D
+Surgical Oncology,SC,SL029,Anterior skull base surgery,SL029E
+Surgical Oncology,SC,SL030,Advanced anterior skull base surgery,SL030A
+Surgical Oncology,SC,SL030,Advanced anterior skull base surgery,SL030B
+Surgical Oncology,SC,SL031,Lateral skull base procedures,SL031A
+Surgical Oncology,SC,SL031,Lateral skull base procedures,SL031B
+Surgical Oncology,SC,SL031,Lateral skull base procedures,SL031C
+Surgical Oncology,SC,SL032,Advanced lateral skull base surgery,SL032A
+Surgical Oncology,SC,SL032,Advanced lateral skull base surgery,SL032B
+Surgical Oncology,SC,SL032,Advanced lateral skull base surgery,SL032C
+Surgical Oncology,SC,SL032,Advanced lateral skull base surgery,SL032D
+Surgical Oncology,SC,SO002,Laparotomy and proceed for Ovarian Cancers. Omentomy with Bilateral Salpingo- oophorectomy,SO002A
+Surgical Oncology,SC,SO003,Laparoscopic tubal surgeries (for any indication including ectopic pregnancy),SO003A
+Surgical Oncology,SC,SO004,Procedure on Fallopian Tube for establishing Tubal Patency,SO004A
+Surgical Oncology,SC,SU075,Urethrovaginal fistula repair,SU075A
+Surgical Oncology,SC,SU090,Radical Retroperitoneal lymph node dissection,SU090A
+Surgical Oncology,SC,SU090,Radical Retroperitoneal lymph node dissection,SU090B
+Surgical Oncology,SC,SU003,Nephrectomy,SU003A
+Surgical Oncology,SC,SU003,Nephrectomy,SU003B
+Surgical Oncology,SC,SU003,Nephrectomy,SU003C
+Surgical Oncology,SC,SU003,Nephrectomy,SU003D
+Surgical Oncology,SC,SU004,Nephrectomy - Partial or Hemi,SU004A
+Surgical Oncology,SC,SU004,Nephrectomy - Partial or Hemi,SU004B
+Surgical Oncology,SC,SU010,Nephro ureterectomy (Benign),SU010A
+Surgical Oncology,SC,SU010,Nephro ureterectomy (Benign),SU010B
+Surgical Oncology,SC,SU011,Nephro ureterectomy with cuff of bladder,SU011A
+Surgical Oncology,SC,SU011,Nephro ureterectomy with cuff of bladder,SU011B
+Ophthalmology,SE,SE042,Optic neuritis,SE042A
+Ophthalmology,SE,SE001,Ptosis Surgery,SE001A
+Ophthalmology,SE,SE002,Entropion correction,SE002A
+Ophthalmology,SE,SE003,Ectropion correction,SE003A
+Ophthalmology,SE,SE004,Lid Tear Repair,SE004A
+Ophthalmology,SE,SE005,Lid Abscess Drainage,SE005A
+Ophthalmology,SE,SE006,Lid Tumor excision + Lid Reconstruction,SE006A
+Ophthalmology,SE,SE007,Chalazion Removal,SE007A
+Ophthalmology,SE,SE008,Squint correction,SE008A
+Ophthalmology,SE,SE008,Squint correction,SE008B
+Ophthalmology,SE,SE009,Conjunctival tumour excision including Amniotic Membrane Graft,SE009A
+Ophthalmology,SE,SE010,Dacryocystorhinostom y,SE010A
+Ophthalmology,SE,SE010,Dacryocystorhinostom y,SE010B
+Ophthalmology,SE,SE010,Dacryocystorhinostom y,SE010C
+Ophthalmology,SE,SE010,Dacryocystorhinostom y,SE010D
+Ophthalmology,SE,SE011,Corneal Ulcer Management,SE011A
+Ophthalmology,SE,SE012,Corneal Grafting,SE012A
+Ophthalmology,SE,SE012,Corneal Grafting,SE012C
+Ophthalmology,SE,SE013,Corneal Collagen Crosslinking,SE013A
+Ophthalmology,SE,SE014,Pterygium + Conjunctival Autograft,SE014A
+Ophthalmology,SE,SE015,Corneo / Scleral / Corneo scleral tear repair,SE015A
+Ophthalmology,SE,SE016,Corneal / Scleral Patch Graft,SE016A
+Ophthalmology,SE,SE017,Scleral buckling surgery,SE017A
+Ophthalmology,SE,SE018,Scleral Buckle Removal,SE018A
+Ophthalmology,SE,SE019,Limbal Dermoid Removal,SE019A
+Ophthalmology,SE,SE020,Cataract surgery,SE020A
+Ophthalmology,SE,SE020,Cataract surgery,SE020B
+Ophthalmology,SE,SE021,Surgery for Pediatric Cataract,SE021A
+Ophthalmology,SE,SE021,Surgery for Pediatric Cataract,SE021B
+Ophthalmology,SE,SE021,Surgery for Pediatric Cataract,SE021C
+Ophthalmology,SE,SE022,Capsulotomy (YAG),SE022A
+Ophthalmology,SE,SE023,SFIOL (inclusive of Vitrectomy),SE023A
+Ophthalmology,SE,SE024,Secondary IOL / IOL Exchange / Explant,SE024A
+Ophthalmology,SE,SE025,IRIS Prolapse – Repair,SE025A
+Ophthalmology,SE,SE026,Iridectomy,SE026A
+Ophthalmology,SE,SE027,Glaucoma Surgery,SE027A
+Ophthalmology,SE,SE027,Glaucoma Surgery,SE027B
+Ophthalmology,SE,SE027,Glaucoma Surgery,SE027C
+Ophthalmology,SE,SE027,Glaucoma Surgery,SE027D
+Ophthalmology,SE,SE028,EUA for Confirmation of Pediatric Glaucoma,SE028A
+Ophthalmology,SE,SE029,Retinal Laser Photocoagulation,SE029A
+Ophthalmology,SE,SE029,Retinal Laser Photocoagulation,SE029B
+Ophthalmology,SE,SE030,ROP Laser - Per Eye,SE030A
+Ophthalmology,SE,SE031,Retinal Cryopexy,SE031A
+Ophthalmology,SE,SE032,Vitreoretinal Surgery (with Silicon Oil Insertion),SE032A
+Ophthalmology,SE,SE033,SOR (Silicon Oil Removal),SE033A
+Ophthalmology,SE,SE034,Endophthalmitis (excluding Vitrectomy),SE034A
+Ophthalmology,SE,SE035,Enucleation,SE035A
+Ophthalmology,SE,SE035,Enucleation,SE035B
+Ophthalmology,SE,SE036,Evisceration,SE036A
+Ophthalmology,SE,SE037,Exenteration,SE037A
+Ophthalmology,SE,SE038,Socket Reconstruction including Amniotic Membrane Graft,SE038A
+Ophthalmology,SE,SE039,Orbitotomy,SE039A
+Ophthalmology,SE,SE040,GA / EUA separate add on package,SE040A
+Ophthalmology,SE,SE041,Orbital fracture repair,SE041A
+Ophthalmology,SE,SE043,Glaucoma Screening,SE043A
+Ophthalmology,SE,SE043,Glaucoma Screening,SE043B
+Ophthalmology,SE,SE044,Diabetic Retinopathy Screening,SE044A
+Ophthalmology,SE,MN008,Laser Therapy for Retinopathy of Prematurity (Irrespective of no. of eyes affected) - per session,MN008A
+General Surgery,SG,SG001,Oesophagectomy,SG001A
+General Surgery,SG,SG002,Operations for Replacement of Oesophagus by Colon,SG002A
+General Surgery,SG,SG003,Gastrectomy,SG003A
+General Surgery,SG,SG003,Gastrectomy,SG003B
+General Surgery,SG,SG003,Gastrectomy,SG003C
+General Surgery,SG,SG003,Gastrectomy,SG003D
+General Surgery,SG,SG003,Gastrectomy,SG003E
+General Surgery,SG,SG003,Gastrectomy,SG003F
+General Surgery,SG,SG004,Operative Gastrostomy,SG004A
+General Surgery,SG,SG005,Vagotomy,SG005A
+General Surgery,SG,SG005,Vagotomy,SG005B
+General Surgery,SG,SG006,Operation for Bleeding Peptic Ulcer,SG006A
+General Surgery,SG,SG007,Operation for Gastric / Duodenal Perforation,SG007A
+General Surgery,SG,SG007,Operation for Gastric / Duodenal Perforation,SG007B
+General Surgery,SG,SG008,Pyloroplasty,SG008A
+General Surgery,SG,SG009,Pyloromyotomy,SG009A
+General Surgery,SG,SG0106,Subtotal Colectomy,SG0106A
+General Surgery,SG,SG0106,Subtotal Colectomy,SG0106B
+General Surgery,SG,SG056,Operation for Hydrocele,SG056B
+General Surgery,SG,SG073,Sympathectomy,SG073B
+General Surgery,SG,SG0109,ERCP,SG0109A
+General Surgery,SG,SG010,Gastrojejunostomy,SG010A
+General Surgery,SG,SG0110,Brachial sinus excision,SG0110A
+General Surgery,SG,SG0111,Epididymal Excision under GA,SG0111A
+General Surgery,SG,SG0112,Mesentric cyst excision,SG0112A
+General Surgery,SG,SG0113,Mole Excision,SG0113A
+General Surgery,SG,SG0114,Neurofibroma Excision under LA,SG0114A
+General Surgery,SG,SG0115,Ingrowing Toe Nail,SG0115A
+General Surgery,SG,SG0116,Splenorenal Anastomosis,SG0116A
+General Surgery,SG,SG0117,Replacement Surgery For Corrosive Injury Stomach,SG0117A
+General Surgery,SG,SG0118,Choledochoduodenost omy Or Choledocho Jejunostomy,SG0118A
+General Surgery,SG,SG0119,Hepatico Jejunostomy for biliary stricture,SG0119A
+General Surgery,SG,SG011,Surgical Management of PseudoCyst,SG011A
+General Surgery,SG,SG011,Surgical Management of PseudoCyst,SG011B
+General Surgery,SG,SG011,Surgical Management of PseudoCyst,SG011C
+General Surgery,SG,SG011,Surgical Management of PseudoCyst,SG011D
+General Surgery,SG,SG0120,I Stage- Sub Total Colectomy + Ileostomy + J - Pouch,SG0120A
+General Surgery,SG,SG0121,Pancreatic Necrosectomy,SG0121A
+General Surgery,SG,SG0122,Distal Pancreatectomy + Splenectomy,SG0122A
+General Surgery,SG,SG0123,Heller Myotomy (Lap./Open),SG0123A
+General Surgery,SG,SG0124,I Stage-Sub Total Colectomy + Ileostomy,SG0124A
+General Surgery,SG,SG012,Feeding Jejunostomy,SG012A
+General Surgery,SG,SG013,Ileostomy,SG013A
+General Surgery,SG,SG014,Congenital Atresia & Stenosis of Small Intestine,SG014A
+General Surgery,SG,SG015,Operation for Duplication of Intestine,SG015A
+General Surgery,SG,SG016,Diverticulectomy,SG016A
+General Surgery,SG,SG016,Diverticulectomy,SG016B
+General Surgery,SG,SG017,Appendicectomy,SG017A
+General Surgery,SG,SG017,Appendicectomy,SG017B
+General Surgery,SG,SG018,Appendicular Perforation,SG018A
+General Surgery,SG,SG019,Operative drainage of Appendicular Abscess,SG019A
+General Surgery,SG,SG020,Total Colectomy,SG020A
+General Surgery,SG,SG020,Total Colectomy,SG020B
+General Surgery,SG,SG021,Hemi colectomy,SG021A
+General Surgery,SG,SG021,Hemi colectomy,SG021B
+General Surgery,SG,SG021,Hemi colectomy,SG021C
+General Surgery,SG,SG021,Hemi colectomy,SG021D
+General Surgery,SG,SG022,Operative Management of Volvulus of Large Bowel,SG022A
+General Surgery,SG,SG023,Colostomy,SG023A
+General Surgery,SG,SG024,Closure of stoma,SG024A
+General Surgery,SG,SG025,Sigmoid Resection,SG025A
+General Surgery,SG,SG026,Perineal Procedure for Rectal Prolapse,SG026A
+General Surgery,SG,SG027,Abdominal Procedure for Rectal Prolapse,SG027A
+General Surgery,SG,SG027,Abdominal Procedure for Rectal Prolapse,SG027B
+General Surgery,SG,SG028,Rectal Polyp Excision,SG028A
+General Surgery,SG,SG029,Anterior Resection of rectum,SG029A
+General Surgery,SG,SG029,Anterior Resection of rectum,SG029B
+General Surgery,SG,SG030,Resection Anastomosis,SG030A
+General Surgery,SG,SG030,Resection Anastomosis,SG030B
+General Surgery,SG,SG031,Procedure for Fissure in Ano,SG031A
+General Surgery,SG,SG032,Haemorroidectomy,SG032A
+General Surgery,SG,SG032,Haemorroidectomy,SG032B
+General Surgery,SG,SG033,Management of Pilonidal Sinus,SG033A
+General Surgery,SG,SG034,Exicision of Sinus and Curettage,SG034A
+General Surgery,SG,SG035,Exploratory Laparotomy,SG035A
+General Surgery,SG,SG036,Closure of Burst Abdomen,SG036A
+General Surgery,SG,SG037,Hepatic Resection,SG037A
+General Surgery,SG,SG037,Hepatic Resection,SG037B
+General Surgery,SG,SG038,Operation forAbdominal Hydatid Cyst (Single Organ) - Change in Name,SG038A
+General Surgery,SG,SG039,Cholecystectomy,SG039A
+General Surgery,SG,SG039,Cholecystectomy,SG039B
+General Surgery,SG,SG039,Cholecystectomy,SG039C
+General Surgery,SG,SG039,Cholecystectomy,SG039D
+General Surgery,SG,SG040,Operative Cholecystostomy,SG040A
+General Surgery,SG,SG040,Operative Cholecystostomy,SG040B
+General Surgery,SG,SG041,Operation of Choledochal Cyst,SG041A
+General Surgery,SG,SG042,Splenectomy,SG042A
+General Surgery,SG,SG042,Splenectomy,SG042B
+General Surgery,SG,SG043,Bypass - Inoperable Pancreas,SG043A
+General Surgery,SG,SG044,Distal Pancreatectomy with Pancreatico Jejunostomy,SG044A
+General Surgery,SG,SG045,PancreaticoDuodenect omy (Whipple's),SG045A
+General Surgery,SG,SG046,Porto Caval Anastomosis,SG046A
+General Surgery,SG,SG047,Mesenteric Caval Anastomosis,SG047A
+General Surgery,SG,SG048,Mesenteric Cyst – Excision,SG048A
+General Surgery,SG,SG049,Retroperitoneal Tumor – Excision,SG049A
+General Surgery,SG,SG050,Groin Hernia Repair,SG050A
+General Surgery,SG,SG050,Groin Hernia Repair,SG050B
+General Surgery,SG,SG050,Groin Hernia Repair,SG050C
+General Surgery,SG,SG050,Groin Hernia Repair,SG050D
+General Surgery,SG,SG050,Groin Hernia Repair,SG050E
+General Surgery,SG,SG051,Hernia - Ventral,SG051A
+General Surgery,SG,SG051,Hernia - Ventral,SG051B
+General Surgery,SG,SG051,Hernia - Ventral,SG051C
+General Surgery,SG,SG051,Hernia - Ventral,SG051D
+General Surgery,SG,SG052,Repair of Incisional Hernia,SG052A
+General Surgery,SG,SG053,Hiatus Hernia Repair / Fundoplication,SG053A
+General Surgery,SG,SG053,Hiatus Hernia Repair / Fundoplication,SG053B
+General Surgery,SG,SG053,Hiatus Hernia Repair / Fundoplication,SG053C
+General Surgery,SG,SG054,Excision of cyst / Sebaceous Cysts over scrotum,SG054A
+General Surgery,SG,SG054,Excision of cyst / Sebaceous Cysts over scrotum,SG054B
+General Surgery,SG,SG055,Excision Filarial Scrotum,SG055A
+General Surgery,SG,SG056,Operation for Hydrocele,SG056A
+General Surgery,SG,SG057,Epididymal Cyst / Nodule Excision,SG057A
+General Surgery,SG,SG057,Epididymal Cyst / Nodule Excision,SG057B
+General Surgery,SG,SG058,Vasovasostomy,SG058A
+General Surgery,SG,SG059,Orchidectomy,SG059A
+General Surgery,SG,SG060,Inguinal Node (dissection) - U/L,SG060A
+General Surgery,SG,SG061,Estlander Operation (lip),SG061A
+General Surgery,SG,SG062,Operation for Carcinoma Lip,SG062A
+General Surgery,SG,SG062,Operation for Carcinoma Lip,SG062B
+General Surgery,SG,SG062,Operation for Carcinoma Lip,SG062C
+General Surgery,SG,SG063,Complete Excision of Growth from Tongue only (inclusive of Histopathology),SG063A
+General Surgery,SG,SG064,Excision of Growth from Tongue with neck node dissection,SG064A
+General Surgery,SG,SG065,Microlaryngoscopic Surgery,SG065A
+General Surgery,SG,SG066,Submandibular Mass Excision,SG066A
+General Surgery,SG,SG067,Radical Neck Dissection,SG067A
+General Surgery,SG,SG068,Surgical removal of Branchial Cyst/Sinus,SG068A
+General Surgery,SG,SG069,Carotid Body tumour - Excision,SG069A
+General Surgery,SG,SG070,Thyroidectomy,SG070A
+General Surgery,SG,SG070,Thyroidectomy,SG070B
+General Surgery,SG,SG070,Thyroidectomy,SG070C
+General Surgery,SG,SG071,Excision of Parathyroid Adenoma / Carcinoma,SG071A
+General Surgery,SG,SG072,Thymectomy,SG072A
+General Surgery,SG,SG073,Sympathectomy,SG073A
+General Surgery,SG,SG074,Breast Lump Excision (Benign),SG074A
+General Surgery,SG,SG075,Mastectomy,SG075A
+General Surgery,SG,SG075,Mastectomy,SG075B
+General Surgery,SG,SG076,Excision Mammary Fistula,SG076A
+General Surgery,SG,SG077,Intercostal drainage Only,SG077A
+General Surgery,SG,SG078,Rib Resection & Drainage,SG078A
+General Surgery,SG,SG079,Thoracoplasty,SG079A
+General Surgery,SG,SG080,Decortication (Pleurectomy),SG080A
+General Surgery,SG,SG081,Lobectomy,SG081A
+General Surgery,SG,SG081,Lobectomy,SG081B
+General Surgery,SG,SG082,Thoracoscopic Segmental Resection,SG082A
+General Surgery,SG,SG083,Lung Hydatid Cyst removal,SG083A
+General Surgery,SG,SG084,Incision & Drainage of Abscess,SG084A
+General Surgery,SG,SG085,Lipoma / Cyst / other cutaneous swellings Excision,SG085A
+General Surgery,SG,SG085,Lipoma / Cyst / other cutaneous swellings Excision,SG085B
+General Surgery,SG,SG085,Lipoma / Cyst / other cutaneous swellings Excision,SG085C
+General Surgery,SG,SG086,Debridement of Ulcer,SG086A
+General Surgery,SG,SG087,Flap Reconstructive Surgery,SG087A
+General Surgery,SG,SG088,Free Grafts - Wolfe Grafts,SG088A
+General Surgery,SG,SG089,Tissue Reconstruction Flap,SG089A
+General Surgery,SG,SG090,Split thickness skin grafts,SG090A
+General Surgery,SG,SG090,Split thickness skin grafts,SG090B
+General Surgery,SG,SG090,Split thickness skin grafts,SG090C
+General Surgery,SG,SG091,Skin Flaps - Rotation Flaps,SG091A
+General Surgery,SG,SG092,Tendon Transfer,SG092A
+General Surgery,SG,SG093,Lymphatics Excision of Subcutaneous Tissues In Lymphoedema,SG093A
+General Surgery,SG,SG094,AV Fistula without prosthesis,SG094A
+General Surgery,SG,SG095,Management of Varicose Veins,SG095A
+General Surgery,SG,SG095,Management of Varicose Veins,SG095B
+General Surgery,SG,SG096,Biopsy,SG096A
+General Surgery,SG,SG096,Biopsy,SG096B
+General Surgery,SG,SG096,Biopsy,SG096C
+General Surgery,SG,SG096,Biopsy,SG096E
+General Surgery,SG,SG097,Stoma Management,SG097A
+General Surgery,SG,SG097,Stoma Management,SG097B
+General Surgery,SG,SG098,Foreign Body Removal,SG098A
+General Surgery,SG,SG099,Necrotising fasciitis / Fournier Gangrene,SG099A
+General Surgery,SG,SG100,Surgical management of Lower GI bleed (inclusive of sigmoidoscopy / colonoscopy) - Colonoscopic management only excluding local perineal conditions,SG100A
+General Surgery,SG,SG101,Caecopexy,SG101A
+General Surgery,SG,MG058,Diabetic Foot,MG058A
+General Surgery,SG,SG102,Repair of Renal Artery Stenosis,SG102A
+General Surgery,SG,SG103,ERCP,SG103A
+General Surgery,SG,SG104,Circumcision,SG104A
+General Surgery,SG,MC019,Pericardiocentesis,MC019A
+General Surgery,SG,SG105,Percutaneous transhepatic external biliary drainage (PTBD),SG105A
+General Surgery,SG,MG044,Renal colic,MG044A
+General Surgery,SG,MG045,AKI / Renal failure,MG045A
+General Surgery,SG,SB065,Excision of Bursa,SB065A
+General Surgery,SG,MG096,Intercostal drainage,MG096A
+General Surgery,SG,SE040,GA / EUA separate add on package,SE040A
+General Surgery,SG,SL021,Parotidectomy,SL021A
+General Surgery,SG,SL021,Parotidectomy,SL021B
+General Surgery,SG,SL026,Tracheostomy / Tracheotomy,SL026A
+General Surgery,SG,SL026,Tracheostomy / Tracheotomy,SL026B
+General Surgery,SG,SL027,Neck dissection,SL027A
+General Surgery,SG,SL027,Neck dissection,SL027B
+General Surgery,SG,SL027,Neck dissection,SL027C
+General Surgery,SG,SL027,Neck dissection,SL027D
+General Surgery,SG,SL028,Deep neck abscess drainage/ Post trauma neck exploration,SL028A
+General Surgery,SG,SL028,Deep neck abscess drainage/ Post trauma neck exploration,SL028B
+General Surgery,SG,ST001,Conservative Management of Head Injury,ST001A
+General Surgery,SG,ST001,Conservative Management of Head Injury,ST001B
+General Surgery,SG,ST002,Head injury with repair of Facio-Maxillary Injury & fixations (including implants),ST002A
+General Surgery,SG,ST003,Craniotomy and evacuation of Haematoma with fixation of fracture of long bone,ST003A
+General Surgery,SG,ST003,Craniotomy and evacuation of Haematoma with fixation of fracture of long bone,ST003B
+General Surgery,SG,ST003,Craniotomy and evacuation of Haematoma with fixation of fracture of long bone,ST003C
+General Surgery,SG,ST003,Craniotomy and evacuation of Haematoma with fixation of fracture of long bone,ST003D
+General Surgery,SG,ST004,Management of Chest injury with fracture of Long bone,ST004A
+General Surgery,SG,ST004,Management of Chest injury with fracture of Long bone,ST004B
+General Surgery,SG,ST005,Management of Visceral injury and fracture long bone,ST005A
+General Surgery,SG,ST005,Management of Visceral injury and fracture long bone,ST005B
+General Surgery,SG,ST006,Internal fixation of Pelviacetabular fracture,ST006A
+General Surgery,SG,ST007,Internal fixation with Flap cover Surgery for wound in compound fracture,ST007A
+General Surgery,SG,ST008,Emergency tendons repair ± Peripheral Nerve repair/ reconstructive surgery,ST008A
+General Surgery,SG,ST009,Management of Nerve Plexus / Tendon injuries,ST009A
+General Surgery,SG,ST009,Management of Nerve Plexus / Tendon injuries,ST009B
+General Surgery,SG,ST009,Management of Nerve Plexus / Tendon injuries,ST009C
+General Surgery,SG,ST009,Management of Nerve Plexus / Tendon injuries,ST009D
+General Surgery,SG,ST009,Management of Nerve Plexus / Tendon injuries,ST009E
+General Surgery,SG,ST010,Plexus injury along with Vascular injury repair / graft,ST010A
+General Surgery,SG,ST010,Plexus injury along with Vascular injury repair / graft,ST010B
+Otorhinolaryngology,SL,SL001,Pinna surgery for tumour / trauma,SL001A
+Otorhinolaryngology,SL,SL001,Pinna surgery for tumour / trauma,SL001B
+Otorhinolaryngology,SL,SL002,Tympanoplasty,SL002A
+Otorhinolaryngology,SL,SL003,Stapedectomy / tympanotomy,SL003A
+Otorhinolaryngology,SL,SL003,Stapedectomy / tympanotomy,SL003B
+Otorhinolaryngology,SL,SL004,Mastoidectomy,SL004A
+Otorhinolaryngology,SL,SL004,Mastoidectomy,SL004B
+Otorhinolaryngology,SL,SL005,Myringotomy with or without Grommet,SL005A
+Otorhinolaryngology,SL,SL005,Myringotomy with or without Grommet,SL005B
+Otorhinolaryngology,SL,SL006,Endoscopic DCR,SL006A
+Otorhinolaryngology,SL,SL007,Epistaxis treatment - packing,SL007A
+Otorhinolaryngology,SL,SL008,Functional septo rhinoplasty,SL008A
+Otorhinolaryngology,SL,SL009,Septoplasty,SL009A
+Otorhinolaryngology,SL,SL010,Fracture - setting nasal bone,SL010A
+Otorhinolaryngology,SL,SL011,Inferior turbinate reduction under GA,SL011A
+Otorhinolaryngology,SL,SL012,Open sinus surgery,SL012A
+Otorhinolaryngology,SL,SL013,Functional Endoscopic Sinus (FESS),SL013A
+Otorhinolaryngology,SL,SL014,Ant. Ethmoidal / sphenopalatine artery ligation,SL014A
+Otorhinolaryngology,SL,SL014,Ant. Ethmoidal / sphenopalatine artery ligation,SL014B
+Otorhinolaryngology,SL,SL014,Ant. Ethmoidal / sphenopalatine artery ligation,SL014C
+Otorhinolaryngology,SL,SL014,Ant. Ethmoidal / sphenopalatine artery ligation,SL014D
+Otorhinolaryngology,SL,SL015,Adenoidectomy,SL015A
+Otorhinolaryngology,SL,SL016,Tonsillectomy,SL016A
+Otorhinolaryngology,SL,SL016,Tonsillectomy,SL016B
+Otorhinolaryngology,SL,SL017,Peritonsillar abscess drainage / intraoral calculus removal,SL017A
+Otorhinolaryngology,SL,SL017,Peritonsillar abscess drainage / intraoral calculus removal,SL017B
+Otorhinolaryngology,SL,SL018,Thyroglossal / Branchial cyst / sinus / fistula excision,SL018A
+Otorhinolaryngology,SL,SL018,Thyroglossal / Branchial cyst / sinus / fistula excision,SL018B
+Otorhinolaryngology,SL,SL018,Thyroglossal / Branchial cyst / sinus / fistula excision,SL018C
+Otorhinolaryngology,SL,SL018,Thyroglossal / Branchial cyst / sinus / fistula excision,SL018D
+Otorhinolaryngology,SL,SL018,Thyroglossal / Branchial cyst / sinus / fistula excision,SL018E
+Otorhinolaryngology,SL,SL019,Uvulopalatopharyngop lasty (UPPP),SL019A
+Otorhinolaryngology,SL,SL020,Excision of tumour of oral cavity / paranasal sinus / laryngopharynx with or without reconstruction,SL020A
+Otorhinolaryngology,SL,SL020,Excision of tumour of oral cavity / paranasal sinus / laryngopharynx with or without reconstruction,SL020B
+Otorhinolaryngology,SL,SL020,Excision of tumour of oral cavity / paranasal sinus / laryngopharynx with or without reconstruction,SL020C
+Otorhinolaryngology,SL,SL021,Parotidectomy,SL021A
+Otorhinolaryngology,SL,SL021,Parotidectomy,SL021B
+Otorhinolaryngology,SL,SL022,Removal of Submandibular Salivary gland,SL022A
+Otorhinolaryngology,SL,SL022,Removal of Submandibular Salivary gland,SL022B
+Otorhinolaryngology,SL,SL023,Rigid laryngoscopy / bronchoscopy / oesophagoscopy - Diagnostic + / - biopsy,SL023A
+Otorhinolaryngology,SL,SL023,Rigid laryngoscopy / bronchoscopy / oesophagoscopy - Diagnostic + / - biopsy,SL023B
+Otorhinolaryngology,SL,SL023,Rigid laryngoscopy / bronchoscopy / oesophagoscopy - Diagnostic + / - biopsy,SL023C
+Otorhinolaryngology,SL,SL024,Microlaryngeal surgery with or without laser,SL024A
+Otorhinolaryngology,SL,SL025,Open laryngeal framework surgery / Thyroplasty,SL025A
+Otorhinolaryngology,SL,SL026,Tracheostomy / Tracheotomy,SL026A
+Otorhinolaryngology,SL,SL026,Tracheostomy / Tracheotomy,SL026B
+Otorhinolaryngology,SL,SL027,Neck dissection,SL027A
+Otorhinolaryngology,SL,SL027,Neck dissection,SL027B
+Otorhinolaryngology,SL,SL027,Neck dissection,SL027C
+Otorhinolaryngology,SL,SL027,Neck dissection,SL027D
+Otorhinolaryngology,SL,SL028,Deep neck abscess drainage/ Post trauma neck exploration,SL028A
+Otorhinolaryngology,SL,SL028,Deep neck abscess drainage/ Post trauma neck exploration,SL028B
+Otorhinolaryngology,SL,SL029,Anterior skull base surgery,SL029A
+Otorhinolaryngology,SL,SL029,Anterior skull base surgery,SL029B
+Otorhinolaryngology,SL,SL029,Anterior skull base surgery,SL029C
+Otorhinolaryngology,SL,SL029,Anterior skull base surgery,SL029D
+Otorhinolaryngology,SL,SL029,Anterior skull base surgery,SL029E
+Otorhinolaryngology,SL,SL030,Advanced anterior skull base surgery,SL030A
+Otorhinolaryngology,SL,SL030,Advanced anterior skull base surgery,SL030B
+Otorhinolaryngology,SL,SL031,Lateral skull base procedures,SL031A
+Otorhinolaryngology,SL,SL031,Lateral skull base procedures,SL031B
+Otorhinolaryngology,SL,SL031,Lateral skull base procedures,SL031C
+Otorhinolaryngology,SL,SL032,Advanced lateral skull base surgery,SL032A
+Otorhinolaryngology,SL,SL032,Advanced lateral skull base surgery,SL032B
+Otorhinolaryngology,SL,SL032,Advanced lateral skull base surgery,SL032C
+Otorhinolaryngology,SL,SL032,Advanced lateral skull base surgery,SL032D
+Otorhinolaryngology,SL,SL033,Closed reduction / intermaxillary fixation for fracture of maxilla / mandible / zygoma,SL033A
+Otorhinolaryngology,SL,SL033,Closed reduction / intermaxillary fixation for fracture of maxilla / mandible / zygoma,SL033B
+Otorhinolaryngology,SL,SL033,Closed reduction / intermaxillary fixation for fracture of maxilla / mandible / zygoma,SL033C
+Otorhinolaryngology,SL,SL033,Closed reduction / intermaxillary fixation for fracture of maxilla / mandible / zygoma,SL033D
+Otorhinolaryngology,SL,SL034,Open reduction and internal fixation of maxilla / mandible / zygoma,SL034A
+Otorhinolaryngology,SL,SL034,Open reduction and internal fixation of maxilla / mandible / zygoma,SL034B
+Otorhinolaryngology,SL,SL034,Open reduction and internal fixation of maxilla / mandible / zygoma,SL034C
+Otorhinolaryngology,SL,SL035,Clinic based therapeutic interventions of ENT,SL035A
+Otorhinolaryngology,SL,SL035,Clinic based therapeutic interventions of ENT,SL035B
+Otorhinolaryngology,SL,SL035,Clinic based therapeutic interventions of ENT,SL035C
+Otorhinolaryngology,SL,SL035,Clinic based therapeutic interventions of ENT,SL035D
+Otorhinolaryngology,SL,SL036,Cochlear Implant Surgery* Surgery(53000) *pre - op evaluation(including vaccine for meningitis)- 10000/- *Initial mapping and swithch on - 5000/- Rehabilitation Therapy (part- 1 for first 6 months) -21700 Rehabilitation Therapy (part- 2 for second 6 months)-40300,SL036A
+Otorhinolaryngology,SL,SC002,Palatectomy,SC002A
+Otorhinolaryngology,SL,SC002,Palatectomy,SC002B
+Otorhinolaryngology,SL,SC064,Excision of Pinna for Growths / Injuries - Total Amputation & Excision of External Auditory Meatus,SC064A
+Otorhinolaryngology,SL,SC064,Excision of Pinna for Growths / Injuries - Total Amputation & Excision of External Auditory Meatus,SC064B
+Otorhinolaryngology,SL,SC064,Excision of Pinna for Growths / Injuries - Total Amputation & Excision of External Auditory Meatus,SC064C
+Otorhinolaryngology,SL,SE040,GA / EUA separate add on package,SE040A
+Otorhinolaryngology,SL,SG068,Surgical removal of Branchial Cyst/Sinus,SG068A
+Otorhinolaryngology,SL,SG098,Foreign Body Removal,SG098A
+Otorhinolaryngology,SL,SN035,Neurectomy,SN035B
+Oral and Maxillofacial Surgery,SM,SM001,Extraction of impacted tooth under LA,SM001A
+Oral and Maxillofacial Surgery,SM,SM002,Sequestrectomy Debridement,SM002A
+Oral and Maxillofacial Surgery,SM,SM002,Sequestrectomy Debridement,SM002B
+Oral and Maxillofacial Surgery,SM,SM003,TM joint ankylosis of both jaws - under GA,SM003A
+Oral and Maxillofacial Surgery,SM,SM003,TM joint ankylosis of both jaws - under GA,SM003B
+Oral and Maxillofacial Surgery,SM,SM004,Fixation of fracture of jaw,SM004A
+Oral and Maxillofacial Surgery,SM,SM004,Fixation of fracture of jaw,SM004B
+Oral and Maxillofacial Surgery,SM,SM005,Surgery for Cyst & tumour of Maxilla / Mandible,SM005A
+Oral and Maxillofacial Surgery,SM,SM005,Surgery for Cyst & tumour of Maxilla / Mandible,SM005B
+Oral and Maxillofacial Surgery,SM,SM006,Mandible Tumour Resection and reconstruction / Cancer surgery,SM006A
+Oral and Maxillofacial Surgery,SM,SM007,Release of fibrous bands & grafting - in (OSMF) treatment under GA,SM007A
+Oral and Maxillofacial Surgery,SM,SM007,Release of fibrous bands & grafting - in (OSMF) treatment under GA,SM007B
+Oral and Maxillofacial Surgery,SM,SM008,Apicoectomy (A) Tooth,SM008A
+Oral and Maxillofacial Surgery,SM,SM009,Correction of oro- antral communication,SM009A
+Oral and Maxillofacial Surgery,SM,SM010,Submandibular sialolithotomy,SM010A
+Oral and Maxillofacial Surgery,SM,SM010,Submandibular sialolithotomy,SM010C
+Oral and Maxillofacial Surgery,SM,SM011,Dentoalveolar trauma - wiring,SM011A
+Oral and Maxillofacial Surgery,SM,SM012,Parotid sialolithotomy,SM012A
+Oral and Maxillofacial Surgery,SM,SM012,Parotid sialolithotomy,SM012B
+Oral and Maxillofacial Surgery,SM,SM013,Re-implantation of Avulsed tooth with wiring,SM013A
+Oral and Maxillofacial Surgery,SM,SM014,Osteoradionecrosis management by excision,SM014A
+Oral and Maxillofacial Surgery,SM,SM014,Osteoradionecrosis management by excision,SM014B
+Oral and Maxillofacial Surgery,SM,SN035,Neurectomy,SN035B
+Oral and Maxillofacial Surgery,SM,SL034,Open reduction and internal fixation of maxilla / mandible / zygoma,SL034A
+Oral and Maxillofacial Surgery,SM,SL034,Open reduction and internal fixation of maxilla / mandible / zygoma,SL034B
+Oral and Maxillofacial Surgery,SM,SL034,Open reduction and internal fixation of maxilla / mandible / zygoma,SL034C
+Oral and Maxillofacial Surgery,SM,SS001,Cleft Lip and Palate Surgery (per stage),SS001A
+Oral and Maxillofacial Surgery,SM,ST002,Head injury with repair of Facio-Maxillary Injury & fixations (including implants),ST002A
+Neurosurgery,SN,SN001,Depressed Skull Fracture,SN001A
+Neurosurgery,SN,SN002,CranioPlasty,SN002A
+Neurosurgery,SN,SN002,CranioPlasty,SN002B
+Neurosurgery,SN,SN003,Twist Drill Craniostomy,SN003A
+Neurosurgery,SN,SN004,Craniostenosis,SN004A
+Neurosurgery,SN,SN005,Meningocele,SN005A
+Neurosurgery,SN,SN005,Meningocele,SN005B
+Neurosurgery,SN,SN005,Meningocele,SN005C
+Neurosurgery,SN,SN006,Surgery for tumour meninges,SN006A
+Neurosurgery,SN,SN006,Surgery for tumour meninges,SN006B
+Neurosurgery,SN,SN007,Duroplasty,SN007A
+Neurosurgery,SN,SN007,Duroplasty,SN007B
+Neurosurgery,SN,SN008,Burr hole surgery,SN008A
+Neurosurgery,SN,SN008,Burr hole surgery,SN008B
+Neurosurgery,SN,SN009,Surgery for Haematoma - Intracranial,SN009A
+Neurosurgery,SN,SN009,Surgery for Haematoma - Intracranial,SN009B
+Neurosurgery,SN,SN009,Surgery for Haematoma - Intracranial,SN009C
+Neurosurgery,SN,SN010,Excision of Brain Abscess,SN010A
+Neurosurgery,SN,SN011,Abscess Tapping,SN011A
+Neurosurgery,SN,SN012,Epilepsy Surgery,SN012A
+Neurosurgery,SN,SN013,Brain Biopsy,SN013A
+Neurosurgery,SN,SN014,Excision of Orbital Tumour,SN014A
+Neurosurgery,SN,SN015,Excision of Brain Tumor Supratentorial,SN015A
+Neurosurgery,SN,SN015,Excision of Brain Tumor Supratentorial,SN015B
+Neurosurgery,SN,SN015,Excision of Brain Tumor Supratentorial,SN015C
+Neurosurgery,SN,SN015,Excision of Brain Tumor Supratentorial,SN015D
+Neurosurgery,SN,SN015,Excision of Brain Tumor Supratentorial,SN015E
+Neurosurgery,SN,SN016,Stereotactic Lesioning,SN016A
+Neurosurgery,SN,SN017,Trans Sphenoidal Surgery,SN017A
+Neurosurgery,SN,SN018,Trans oral Surgery,SN018A
+Neurosurgery,SN,SN019,Transoral surgery (Anterior) and CV Junction (Posterior Sterilisation),SN019A
+Neurosurgery,SN,SN020,External Ventricular Drainage (EVD) including antibiotics,SN020A
+Neurosurgery,SN,SN021,Ventricular Puncture,SN021A
+Neurosurgery,SN,SN022,Shunt Surgery,SN022A
+Neurosurgery,SN,SN022,Shunt Surgery,SN022B
+Neurosurgery,SN,SN022,Shunt Surgery,SN022C
+Neurosurgery,SN,SN022,Shunt Surgery,SN022D
+Neurosurgery,SN,SN023,Aneurysm Clipping including angiogram,SN023A
+Neurosurgery,SN,SN024,Superficial Temporal Artery (STA): middle cerebral artery (MCA) or (other EC - IC) Bypass procedure,SN024A
+Neurosurgery,SN,SN025,Arterio venous malformation (AVM) excision,SN025A
+Neurosurgery,SN,SN025,Arterio venous malformation (AVM) excision,SN025B
+Neurosurgery,SN,SN025,Arterio venous malformation (AVM) excision,SN025C
+Neurosurgery,SN,SN026,Foramen Magnum Decompression,SN026A
+Neurosurgery,SN,SN027,Skull Traction,SN027A
+Neurosurgery,SN,SN028,Posterior Cervical Discetomy without implant,SN028A
+Neurosurgery,SN,SN029,Posterior Cervical Fusion with implant (Lateral mass fixation),SN029A
+Neurosurgery,SN,SN030,Cervical Disc Multiple level without Fusion,SN030A
+Neurosurgery,SN,SN031,Excision of Cervical Ribs,SN031A
+Neurosurgery,SN,SN032,Thoracic / Lumbar Corpectomy with fusion,SN032A
+Neurosurgery,SN,SN033,Lumbar Discectomy,SN033A
+Neurosurgery,SN,SN034,Laminectomy,SN034A
+Neurosurgery,SN,SN034,Laminectomy,SN034B
+Neurosurgery,SN,SN035,Neurectomy,SN035A
+Neurosurgery,SN,SN035,Neurectomy,SN035B
+Neurosurgery,SN,SN036,Micro discectomy,SN036A
+Neurosurgery,SN,SN039,Spine - Extradural Haematoma,SN039A
+Neurosurgery,SN,SN041,Spine - Extradural Tumour,SN041A
+Neurosurgery,SN,SN041,Spine - Extradural Tumour,SN041B
+Neurosurgery,SN,SN042,Spine - Intradural Tumour,SN042A
+Neurosurgery,SN,SN042,Spine - Intradural Tumour,SN042B
+Neurosurgery,SN,SN043,Spine - Intramedullar Tumour,SN043A
+Neurosurgery,SN,SN043,Spine - Intramedullar Tumour,SN043B
+Neurosurgery,SN,SN044,R. F. Lesioning for Trigeminal Neuralgia,SN044A
+Neurosurgery,SN,SN045,Brachial Plexus – Repair,SN045A
+Neurosurgery,SN,SN046,Carpal Tunnel Release,SN046A
+Neurosurgery,SN,SN047,Nerve Decompression,SN047A
+Neurosurgery,SN,SN048,Cranial Nerve Anastomosis,SN048A
+Neurosurgery,SN,SN049,Peripheral Nerve Surgery,SN049B
+Neurosurgery,SN,SN050,Nerve Biopsy excluding Hensens,SN050A
+Neurosurgery,SN,SN051,Muscle Biopsy with report,SN051A
+Neurosurgery,SN,SN054,Gamma Knife radiosurgery (GKRS) / SRS for tumours / Arteriovenous malformation (AVM),SN054A
+Neurosurgery,SN,SN057,Endoscopic Third Ventriculostomy,SN057A
+Neurosurgery,SN,SN059,R. F. Lesioning,SN059A
+Neurosurgery,SN,SN059,R. F. Lesioning,SN059B
+Neurosurgery,SN,SN060,Discectomy - Dorsal,SN060A
+Neurosurgery,SN,SN061,Diagnostic Cerebral / Spinal Angiography (DSA - Digital Substraction Angiography),SN061A
+Neurosurgery,SN,SN062,Reexploration for Cranial / Spinal surgeries,SN062A
+Neurosurgery,SN,SN063,Conservative management of high cervical injury,SN063A
+Neurosurgery,SN,SN063,Conservative management of high cervical injury,SN063C
+Neurosurgery,SN,SN064,AVM EMBOLISATION,SN064A
+Neurosurgery,SN,SN065,Ventricular tap,SN065A
+Neurosurgery,SN,SN066,Decompressive Caniectomy,SN066A
+Neurosurgery,SN,SB068,Nerve root block,SB068A
+Neurosurgery,SN,SL029,Anterior skull base surgery,SL029A
+Neurosurgery,SN,SL029,Anterior skull base surgery,SL029B
+Neurosurgery,SN,SL029,Anterior skull base surgery,SL029C
+Neurosurgery,SN,SL029,Anterior skull base surgery,SL029D
+Neurosurgery,SN,SL029,Anterior skull base surgery,SL029E
+Neurosurgery,SN,ST001,Conservative Management of Head Injury,ST001A
+Neurosurgery,SN,ST001,Conservative Management of Head Injury,ST001B
+Neurosurgery,SN,ST002,Head injury with repair of Facio-Maxillary Injury & fixations (including implants),ST002A
+Neurosurgery,SN,ST003,Craniotomy and evacuation of Haematoma with fixation of fracture of long bone,ST003A
+Neurosurgery,SN,ST003,Craniotomy and evacuation of Haematoma with fixation of fracture of long bone,ST003B
+Neurosurgery,SN,ST003,Craniotomy and evacuation of Haematoma with fixation of fracture of long bone,ST003C
+Neurosurgery,SN,ST003,Craniotomy and evacuation of Haematoma with fixation of fracture of long bone,ST003D
+Neurosurgery,SN,ST004,Management of Chest injury with fracture of Long bone,ST004A
+Neurosurgery,SN,ST004,Management of Chest injury with fracture of Long bone,ST004B
+Neurosurgery,SN,ST005,Management of Visceral injury and fracture long bone,ST005A
+Neurosurgery,SN,ST005,Management of Visceral injury and fracture long bone,ST005B
+Neurosurgery,SN,ST006,Internal fixation of Pelviacetabular fracture,ST006A
+Neurosurgery,SN,ST007,Internal fixation with Flap cover Surgery for wound in compound fracture,ST007A
+Neurosurgery,SN,ST008,Emergency tendons repair ± Peripheral Nerve repair/ reconstructive surgery,ST008A
+Neurosurgery,SN,ST009,Management of Nerve Plexus / Tendon injuries,ST009A
+Neurosurgery,SN,ST009,Management of Nerve Plexus / Tendon injuries,ST009B
+Neurosurgery,SN,ST009,Management of Nerve Plexus / Tendon injuries,ST009C
+Neurosurgery,SN,ST009,Management of Nerve Plexus / Tendon injuries,ST009D
+Neurosurgery,SN,ST009,Management of Nerve Plexus / Tendon injuries,ST009E
+Neurosurgery,SN,ST010,Plexus injury along with Vascular injury repair / graft,ST010A
+Neurosurgery,SN,ST010,Plexus injury along with Vascular injury repair / graft,ST010B
+Obstetrics & Gynecology,SO,SO002,Laparotomy and proceed for Ovarian Cancers. Omentomy with Bilateral Salpingo- oophorectomy,SO002A
+Obstetrics & Gynecology,SO,SO003,Laparoscopic tubal surgeries (for any indication including ectopic pregnancy),SO003A
+Obstetrics & Gynecology,SO,SO004,Procedure on Fallopian Tube for establishing Tubal Patency,SO004A
+Obstetrics & Gynecology,SO,SO006,Abdominal Myomectomy,SO006A
+Obstetrics & Gynecology,SO,SO007,Hysteroscopic Myomectomy,SO007A
+Obstetrics & Gynecology,SO,SO009,Hysteroscopic polypectomy,SO009A
+Obstetrics & Gynecology,SO,SO010,Hysterectomy,SO010A
+Obstetrics & Gynecology,SO,SO010,Hysterectomy,SO010B
+Obstetrics & Gynecology,SO,SO010,Hysterectomy,SO010C
+Obstetrics & Gynecology,SO,SO010,Hysterectomy,SO010D
+Obstetrics & Gynecology,SO,SO010,Hysterectomy,SO010E
+Obstetrics & Gynecology,SO,SO010,Hysterectomy,SO010F
+Obstetrics & Gynecology,SO,SO011,Caesarean hysterectomy,SO011A
+Obstetrics & Gynecology,SO,SO012,Manchester Repair,SO012A
+Obstetrics & Gynecology,SO,SO013,Sling Surgeries for Prolapse,SO013A
+Obstetrics & Gynecology,SO,SO014,Hysterotomy,SO014A
+Obstetrics & Gynecology,SO,SO015,Lap. Surgery for Endometriosis (Other than Hysterectomy),SO015A
+Obstetrics & Gynecology,SO,SO016,Diagnostic hysteroscopy,SO016A
+Obstetrics & Gynecology,SO,SO016,Diagnostic hysteroscopy,SO016B
+Obstetrics & Gynecology,SO,SO017,Hysteroscopic IUCD removal,SO017A
+Obstetrics & Gynecology,SO,SO018,D&C (Dilatation&curretage),SO018A
+Obstetrics & Gynecology,SO,SO019,Dilation and Evacuation (D&E),SO019A
+Obstetrics & Gynecology,SO,SO020,Pyometra drainage,SO020A
+Obstetrics & Gynecology,SO,SO021,Intrauterine transfusions,SO021A
+Obstetrics & Gynecology,SO,SO022,Hysteroscopic adhesiolysis,SO022A
+Obstetrics & Gynecology,SO,SO023,Laparoscopic adhesiolysis,SO023A
+Obstetrics & Gynecology,SO,SO024,Trans - vaginal tape / Trans-obturator tape,SO024A
+Obstetrics & Gynecology,SO,SO024,Trans - vaginal tape / Trans-obturator tape,SO024B
+Obstetrics & Gynecology,SO,SO025,Sacrocolpopexy (Abdominal),SO025A
+Obstetrics & Gynecology,SO,SO025,Sacrocolpopexy (Abdominal),SO025B
+Obstetrics & Gynecology,SO,SO026,LLETZ (including PAP smear and colposcopy),SO026A
+Obstetrics & Gynecology,SO,SO027,Vaginal Sacrospinus fixation with repair,SO027A
+Obstetrics & Gynecology,SO,SO028,Excision of Vaginal Septum (vaginal route),SO028A
+Obstetrics & Gynecology,SO,SO029,Hymenectomy for imperforate hymen,SO029A
+Obstetrics & Gynecology,SO,SO030,Anterior & Posterior Colpoperineorrhapy,SO030A
+Obstetrics & Gynecology,SO,SO031,Vaginoplasty (McIndoe procedure),SO031A
+Obstetrics & Gynecology,SO,SO032,Vaginal repair for vesico-vaginal fistula (Repair for VVF),SO032A
+Obstetrics & Gynecology,SO,SO033,Rectovaginal fistula repair,SO033A
+Obstetrics & Gynecology,SO,SO034,Vulval Hematoma drainage,SO034A
+Obstetrics & Gynecology,SO,SO035,Vulvectomy simple,SO035A
+Obstetrics & Gynecology,SO,SO036,Radical Vulvectomy with Inguinal and Pelvic lymph node disection,SO036A
+Obstetrics & Gynecology,SO,SO037,Abdomino Perineal repair for Mullerian Anomaly,SO037A
+Obstetrics & Gynecology,SO,SO038,Colpotomy,SO038A
+Obstetrics & Gynecology,SO,SO039,Diagnostic laparoscopy,SO039A
+Obstetrics & Gynecology,SO,SO040,Laparotomy for ectopic/ benign disorders,SO040A
+Obstetrics & Gynecology,SO,SO040,Laparotomy for ectopic/ benign disorders,SO040B
+Obstetrics & Gynecology,SO,SO041,Cystectomy,SO041A
+Obstetrics & Gynecology,SO,SO042,Cystocele - Anterior repair,SO042A
+Obstetrics & Gynecology,SO,SO043,Burch,SO043A
+Obstetrics & Gynecology,SO,SO043,Burch,SO043B
+Obstetrics & Gynecology,SO,SO044,Electro Cauterisation / Cryo Surgery,SO044A
+Obstetrics & Gynecology,SO,SO045,EUA for (minor girls / unmarried sexually inactive / victims of sexual abuse),SO045A
+Obstetrics & Gynecology,SO,SO046,Hospitalisation for Antenatal Complications,SO046A
+Obstetrics & Gynecology,SO,SO047,Amniocentesis,SO047A
+Obstetrics & Gynecology,SO,SO048,Chorionic villus sampling,SO048A
+Obstetrics & Gynecology,SO,SO049,Cordocentesis,SO049A
+Obstetrics & Gynecology,SO,SO050,McDonald's stitch,SO050A
+Obstetrics & Gynecology,SO,SO051,Shirodkar's stitch,SO051A
+Obstetrics & Gynecology,SO,SO052,Medical management of ectopic pregnancy,SO052A
+Obstetrics & Gynecology,SO,SO053,Medical Termination of Pregnancy,SO053A
+Obstetrics & Gynecology,SO,SO053,Medical Termination of Pregnancy,SO053B
+Obstetrics & Gynecology,SO,SO053,Medical Termination of Pregnancy,SO053C
+Obstetrics & Gynecology,SO,SO054,High risk delivery,SO054B
+Obstetrics & Gynecology,SO,SO054,High risk delivery,SO054C
+Obstetrics & Gynecology,SO,SO054,High risk delivery,SO054D
+Obstetrics & Gynecology,SO,SO054,High risk delivery,SO054E
+Obstetrics & Gynecology,SO,SO055,Manual removal of placenta,SO055A
+Obstetrics & Gynecology,SO,SO056,Secondary suturing of episiotomy,SO056A
+Obstetrics & Gynecology,SO,SO057,Caesarean Delivery,SO057A
+Obstetrics & Gynecology,SO,SO059,Vulvo vaginal / bartholin cyst/ abscess enucleation / drainage,SO059A
+Obstetrics & Gynecology,SO,SO059,Vulvo vaginal / bartholin cyst/ abscess enucleation / drainage,SO059B
+Obstetrics & Gynecology,SO,SO060,Staging laparotomy for ovarian cancer (simple),SO060A
+Obstetrics & Gynecology,SO,SO061,Vaginal Myomectomy,SO061A
+Obstetrics & Gynecology,SO,SO062,Cystectomy,SO062A
+Obstetrics & Gynecology,SO,SO063,Laparoscopy for Ectopic/ other benign disorders,SO063A
+Obstetrics & Gynecology,SO,SO064,Sterilisation,SO064A
+Obstetrics & Gynecology,SO,SO064,Sterilisation,SO064B
+Obstetrics & Gynecology,SO,SO065,Reversal of Sterilisation/ Tuboplasty (lap/ open),SO065A
+Obstetrics & Gynecology,SO,SO066,Diagnostic Hystero - Laparoscopy with/ without Chromopertubation,SO066A
+Obstetrics & Gynecology,SO,SO067,Laparotomy for Broad Ligament Hematoma,SO067A
+Obstetrics & Gynecology,SO,SO068,Complete Perineal Tear,SO068A
+Obstetrics & Gynecology,SO,SO069,Molar follow up for chemotherapy,SO069A
+Obstetrics & Gynecology,SO,SO070,Resuturing of wounds,SO070A
+Obstetrics & Gynecology,SO,SO071,Post coital / Injury Repair,SO071A
+Obstetrics & Gynecology,SO,SO072,Cone biopsy,SO072A
+Obstetrics & Gynecology,SO,SO073,"Biopsy- Cervical, Endometrial EA/ ECC; Vulvar; Polypectomy",SO073A
+Obstetrics & Gynecology,SO,SO075,Operative vaginal delivery (Vacuum/ forceps),SO075A
+Obstetrics & Gynecology,SO,SO076,Surgical management of PPH after vaginal delivery,SO076A
+Obstetrics & Gynecology,SO,SC030,Salpingoophorectomy,SC030A
+Obstetrics & Gynecology,SO,SC030,Salpingoophorectomy,SC030B
+Obstetrics & Gynecology,SO,SC032,Radical Hysterectomy,SC032A
+Obstetrics & Gynecology,SO,SC032,Radical Hysterectomy,SC032B
+Obstetrics & Gynecology,SO,SC032,Radical Hysterectomy,SC032C
+Obstetrics & Gynecology,SO,SC032,Radical Hysterectomy,SC032D
+Obstetrics & Gynecology,SO,SC032,Radical Hysterectomy,SC032E
+Obstetrics & Gynecology,SO,SC032,Radical Hysterectomy,SC032F
+Obstetrics & Gynecology,SO,SC032,Radical Hysterectomy,SC032G
+Obstetrics & Gynecology,SO,SC034,Vulvectomy + reconstruction procedures,SC034A
+Obstetrics & Gynecology,SO,SG036,Closure of Burst Abdomen,SG036A
+Obstetrics & Gynecology,SO,SG096,Biopsy,SG096A
+Obstetrics & Gynecology,SO,SG096,Biopsy,SG096B
+Obstetrics & Gynecology,SO,SG096,Biopsy,SG096C
+Obstetrics & Gynecology,SO,SG096,Biopsy,SG096E
+Obstetrics & Gynecology,SO,SU029,Uretero-vaginal / Uterine fistula repair,SU029A
+Obstetrics & Gynecology,SO,SU029,Uretero-vaginal / Uterine fistula repair,SU029B
+Obstetrics & Gynecology,SO,SU029,Uretero-vaginal / Uterine fistula repair,SU029C
+Obstetrics & Gynecology,SO,SU029,Uretero-vaginal / Uterine fistula repair,SU029D
+Obstetrics & Gynecology,SO,SU075,Urethrovaginal fistula repair,SU075A
+Obstetrics & Gynecology,SO,SU090,Radical Retroperitoneal lymph node dissection,SU090A
+Obstetrics & Gynecology,SO,SU090,Radical Retroperitoneal lymph node dissection,SU090B
+Plastic & reconstructive Surgery,SP,SP001,Pressure Sore – Surgery,SP001A
+Plastic & reconstructive Surgery,SP,SP002,Diabetic Foot – Surgery,SP002A
+Plastic & reconstructive Surgery,SP,SP003,Revascularization of limb / digit,SP003A
+Plastic & reconstructive Surgery,SP,SP003,Revascularization of limb / digit,SP03B
+Plastic & reconstructive Surgery,SP,SP004,Ear Pinna Reconstruction with costal cartilage / Prosthesis (including the cost of prosthesis / implants),SP004A
+Plastic & reconstructive Surgery,SP,SP004,Ear Pinna Reconstruction with costal cartilage / Prosthesis (including the cost of prosthesis / implants),SP004B
+Plastic & reconstructive Surgery,SP,SP005,Scalp avulsion reconstruction,SP005A
+Plastic & reconstructive Surgery,SP,SP006,Tissue Expander for disfigurement following burns / trauma / congenital deformity (including cost of expander / implant),SP006A
+Plastic & reconstructive Surgery,SP,SP006,Tissue Expander for disfigurement following burns / trauma / congenital deformity (including cost of expander / implant),SP006B
+Plastic & reconstructive Surgery,SP,SP006,Tissue Expander for disfigurement following burns / trauma / congenital deformity (including cost of expander / implant),SP006C
+Plastic & reconstructive Surgery,SP,SP007,Hemangioma,SP007A
+Plastic & reconstructive Surgery,SP,SP007,Hemangioma,SP007B
+Plastic & reconstructive Surgery,SP,SP007,Hemangioma,SP007C
+Plastic & reconstructive Surgery,SP,SP008,NPWT,SP008A
+Plastic & reconstructive Surgery,SP,SP009,Resuturing of Any Wound gap Surgeries,SP009A
+Plastic & reconstructive Surgery,SP,SP009,Diabetic Foot – Surgery,SP009B
+Plastic & reconstructive Surgery,SP,SG088,Free Grafts - Wolfe Grafts,SG088A
+Plastic & reconstructive Surgery,SP,SC074,Vascular reconstruction,SC074A
+Plastic & reconstructive Surgery,SP,SC068,Regional flap,SC068A
+Plastic & reconstructive Surgery,SP,SC068,Regional flap,SC068B
+Plastic & reconstructive Surgery,SP,SC073,Microvascular reconstruction (free flaps),SC073A
+Plastic & reconstructive Surgery,SP,SL034,Open reduction and internal fixation of maxilla / mandible / zygoma,SL034A
+Plastic & reconstructive Surgery,SP,SL034,Open reduction and internal fixation of maxilla / mandible / zygoma,SL034B
+Plastic & reconstructive Surgery,SP,SL034,Open reduction and internal fixation of maxilla / mandible / zygoma,SL034C
+Plastic & reconstructive Surgery,SP,SS001,Cleft Lip and Palate Surgery (per stage),SS001A
+Pediatric surgery,SS,SS001,Cleft Lip and Palate Surgery (per stage),SS001A
+Pediatric surgery,SS,SS002,Ankyloglossia,SS002A
+Pediatric surgery,SS,SS002,Ankyloglossia,SS002B
+Pediatric surgery,SS,SS003,Anti GERD Surgery,SS003A
+Pediatric surgery,SS,SS004,Gastrostomy + Esophagoscopy + Threading,SS004A
+Pediatric surgery,SS,SS005,Ladds Procedure,SS005A
+Pediatric surgery,SS,SS006,Duplication Cyst Excision,SS006A
+Pediatric surgery,SS,SS007,Intussusception,SS007A
+Pediatric surgery,SS,SS007,Intussusception,SS007B
+Pediatric surgery,SS,SS008,Surgery for Hirschsprung’s Disease,SS008A
+Pediatric surgery,SS,SS008,Surgery for Hirschsprung’s Disease,SS008B
+Pediatric surgery,SS,SS008,Surgery for Hirschsprung’s Disease,SS008C
+Pediatric surgery,SS,SS008,Surgery for Hirschsprung’s Disease,SS008D
+Pediatric surgery,SS,SS008,Surgery for Hirschsprung’s Disease,SS008E
+Pediatric surgery,SS,SS009,Rectal Polypectomy - Sigmoiescopic Under GA,SS009A
+Pediatric surgery,SS,SS010,Ano Rectal Malformation,SS010A
+Pediatric surgery,SS,SS010,Ano Rectal Malformation,SS010B
+Pediatric surgery,SS,SS010,Ano Rectal Malformation,SS010C
+Pediatric surgery,SS,SS010,Ano Rectal Malformation,SS010D
+Pediatric surgery,SS,SS010,Ano Rectal Malformation,SS010E
+Pediatric surgery,SS,SS010,Ano Rectal Malformation,SS010F
+Pediatric surgery,SS,SS011,Fecal Fistula Closure,SS011A
+Pediatric surgery,SS,SS012,GI Tumor Excision,SS012A
+Pediatric surgery,SS,SS013,Congenital Diaphragmatic Hernia,SS013A
+Pediatric surgery,SS,SS014,Exomphalos / Gastroschisis,SS014A
+Pediatric surgery,SS,SS014,Exomphalos / Gastroschisis,SS014B
+Pediatric surgery,SS,SS015,Hernia & Hydrocele,SS015A
+Pediatric surgery,SS,SS016,Retro - Peritoneal Lymphangioma Excision,SS016A
+Pediatric surgery,SS,SS017,Surgery for Sacrococcygeal Teratoma,SS017A
+Pediatric surgery,SS,SS018,Surgery for Congenital Lobar Emphysema,SS018A
+Pediatric surgery,SS,SS019,Undescended Testis,SS019A
+Pediatric surgery,SS,SS019,Undescended Testis,SS019B
+Pediatric surgery,SS,SS019,Undescended Testis,SS019C
+Pediatric surgery,SS,SS019,Undescended Testis,SS019D
+Pediatric surgery,SS,SS019,Undescended Testis,SS019E
+Pediatric surgery,SS,SS020,Excision of accessory auricle,SS020A
+Pediatric surgery,SS,SS021,MACROSTOMIA REPAIR,SS021A
+Pediatric surgery,SS,SS022,PARATHYROIDECTO MY,SS022A
+Pediatric surgery,SS,SS023,STENSON'S DUCT DILATATION,SS023A
+Pediatric surgery,SS,SS024,SUPERNUMMERY DIGIT EXISION,SS024A
+Pediatric surgery,SS,SS025,SYNDACTYLY,SS025A
+Pediatric surgery,SS,SS026,TONGUE LACERATION,SS026A
+Pediatric surgery,SS,SS027,TORTICOLLIS,SS027A
+Pediatric surgery,SS,SS028,LIVER TRAUMA NON- OP,SS028A
+Pediatric surgery,SS,SS029,PORTAL HYPERTENSION,SS029A
+Pediatric surgery,SS,SS030,CONJOINED TWINS,SS030A
+Pediatric surgery,SS,SS031,ESOPHAGEAL ATRESIA/TEF,SS031A
+Pediatric surgery,SS,SS032,MALROTATION,SS032A
+Pediatric surgery,SS,SS033,POSTERIOR URETHERAL VALVES,SS033A
+Pediatric surgery,SS,SS034,SPLENORRHAPHY,SS034A
+Pediatric surgery,SS,SS035,ESOPHAGEAL DILATATION,SS035A
+Pediatric surgery,SS,SS036,OPEN KIDNEY BIOPSY,SS036A
+Pediatric surgery,SS,SS037,APPENDICO- VESICOSTOMY/Mitraf fanof,SS037A
+Pediatric surgery,SS,SS038,VESICOSTOMY,SS038A
+Pediatric surgery,SS,SS039,SUPRAGLOTTOPLAS TY,SS039A
+Pediatric surgery,SS,SS040,SINGLE STAGE AIRWAY RECONSTRUCTION,SS040A
+Pediatric surgery,SS,SS041,STAGED AIRWAY RECONSTRUCTION,SS041A
+Pediatric surgery,SS,SS042,SLIDE TRACHEOPLASTY,SS042A
+Pediatric surgery,SS,SC018,Hepatoblastoma Excision,SC018A
+Pediatric surgery,SS,SC021,Wilms tumors: surgery,SC021A
+Pediatric surgery,SS,SG002,Operations for Replacement of Oesophagus by Colon,SG002A
+Pediatric surgery,SS,SG004,Operative Gastrostomy,SG004A
+Pediatric surgery,SS,SG008,Pyloroplasty,SG008A
+Pediatric surgery,SS,SG009,Pyloromyotomy,SG009A
+Pediatric surgery,SS,SG056,Operation for Hydrocele (U/L),SG56B
+Pediatric surgery,SS,SG073,Sympathectomy,SG073B
+Pediatric surgery,SS,SG011,Surgical Management of PseudoCyst,SG011A
+Pediatric surgery,SS,SG011,Surgical Management of PseudoCyst,SG011B
+Pediatric surgery,SS,SG011,Surgical Management of PseudoCyst,SG011C
+Pediatric surgery,SS,SG011,Surgical Management of PseudoCyst,SG011D
+Pediatric surgery,SS,SG013,Ileostomy,SG013A
+Pediatric surgery,SS,SG014,Congenital Atresia & Stenosis of Small Intestine,SG014A
+Pediatric surgery,SS,SG015,Operation for Duplication of Intestine,SG015A
+Pediatric surgery,SS,SG016,Diverticulectomy,SG016B
+Pediatric surgery,SS,SG017,Appendicectomy,SG017A
+Pediatric surgery,SS,SG017,Appendicectomy,SG017B
+Pediatric surgery,SS,SG018,Appendicular Perforation,SG018A
+Pediatric surgery,SS,SG019,Operative drainage of Appendicular Abscess,SG019A
+Pediatric surgery,SS,SG022,Operative Management of Volvulus of Large Bowel,SG022A
+Pediatric surgery,SS,SG030,Resection Anastomosis,SG030A
+Pediatric surgery,SS,SG030,Resection Anastomosis,SG030B
+Pediatric surgery,SS,SG035,Exploratory Laparotomy,SG035A
+Pediatric surgery,SS,SG038,Operation forAbdominal Hydatid Cyst (Single Organ) - Change in Name,SG038A
+Pediatric surgery,SS,SG039,Cholecystectomy,SG039A
+Pediatric surgery,SS,SG039,Cholecystectomy,SG039B
+Pediatric surgery,SS,SG039,Cholecystectomy,SG039C
+Pediatric surgery,SS,SG039,Cholecystectomy,SG039D
+Pediatric surgery,SS,SG040,Operative Cholecystostomy,SG040A
+Pediatric surgery,SS,SG040,Operative Cholecystostomy,SG040B
+Pediatric surgery,SS,SG041,Operation of Choledochal Cyst,SG041A
+Pediatric surgery,SS,SG042,Splenectomy,SG042A
+Pediatric surgery,SS,SG042,Splenectomy,SG042B
+Pediatric surgery,SS,SG048,Mesenteric Cyst – Excision,SG048A
+Pediatric surgery,SS,SG050,Groin Hernia Repair,SG050E
+Pediatric surgery,SS,SG051,Hernia - Ventral,SG051A
+Pediatric surgery,SS,SG051,Hernia - Ventral,SG051B
+Pediatric surgery,SS,SG051,Hernia - Ventral,SG051C
+Pediatric surgery,SS,SG051,Hernia - Ventral,SG051D
+Pediatric surgery,SS,SG052,Repair of Incisional Hernia,SG052A
+Pediatric surgery,SS,SG053,Hiatus Hernia Repair / Fundoplication,SG053A
+Pediatric surgery,SS,SG053,Hiatus Hernia Repair / Fundoplication,SG053B
+Pediatric surgery,SS,SG053,Hiatus Hernia Repair / Fundoplication,SG053C
+Pediatric surgery,SS,SG056,Operation for Hydrocele (U/L),SG056A
+Pediatric surgery,SS,SG057,Epididymal Cyst / Nodule Excision,SG057A
+Pediatric surgery,SS,SG057,Epididymal Cyst / Nodule Excision,SG057B
+Pediatric surgery,SS,SG060,Inguinal Node (dissection) - U/L,SG060A
+Pediatric surgery,SS,SG072,Thymectomy,SG072A
+Pediatric surgery,SS,SG073,Sympathectomy,SG073A
+Pediatric surgery,SS,SG078,Rib Resection & Drainage,SG078A
+Pediatric surgery,SS,SG079,Thoracoplasty,SG079A
+Pediatric surgery,SS,SG080,Decortication (Pleurectomy),SG080A
+Pediatric surgery,SS,SG082,Thoracoscopic Segmental Resection,SG082A
+Pediatric surgery,SS,SG083,Lung Hydatid Cyst removal,SG083A
+Pediatric surgery,SS,SG084,Incision & Drainage of Abscess,SG084A
+Pediatric surgery,SS,SG077,Intercostal drainage Only,SG077A
+Pediatric surgery,SS,SG098,Foreign Body Removal,SG098A
+Pediatric surgery,SS,SG036,Closure of Burst Abdomen,SG036A
+Pediatric surgery,SS,SG096,Biopsy,SG096A
+Pediatric surgery,SS,SG096,Biopsy,SG096B
+Pediatric surgery,SS,SG096,Biopsy,SG096C
+Pediatric surgery,SS,SG096,Biopsy,SG096E
+Pediatric surgery,SS,SG081,Lobectomy,SG081A
+Pediatric surgery,SS,SG081,Lobectomy,SG081B
+Pediatric surgery,SS,SG090,Split thickness skin grafts,SG090A
+Pediatric surgery,SS,SG090,Split thickness skin grafts,SG090B
+Pediatric surgery,SS,SG090,Split thickness skin grafts,SG090C
+Pediatric surgery,SS,SL017,Peritonsillar abscess drainage / intraoral calculus removal,SL017A
+Pediatric surgery,SS,SL017,Peritonsillar abscess drainage / intraoral calculus removal,SL017B
+Pediatric surgery,SS,SL023,Rigid laryngoscopy / bronchoscopy / oesophagoscopy - Diagnostic + / - biopsy,SL023A
+Pediatric surgery,SS,SL023,Rigid laryngoscopy / bronchoscopy / oesophagoscopy - Diagnostic + / - biopsy,SL023B
+Pediatric surgery,SS,SL023,Rigid laryngoscopy / bronchoscopy / oesophagoscopy - Diagnostic + / - biopsy,SL023C
+Pediatric surgery,SS,SL026,Tracheostomy / Tracheotomy,SL026A
+Pediatric surgery,SS,SL026,Tracheostomy / Tracheotomy,SL026B
+Pediatric surgery,SS,SL028,Deep neck abscess drainage/ Post trauma neck exploration,SL028A
+Pediatric surgery,SS,SL028,Deep neck abscess drainage/ Post trauma neck exploration,SL028B
+Pediatric surgery,SS,SO002,Laparotomy and proceed for Ovarian Cancers. Omentomy with Bilateral Salpingo- oophorectomy,SO002A
+Pediatric surgery,SS,SU001,Adrenalectomy,SU001A
+Pediatric surgery,SS,SU001,Adrenalectomy,SU001B
+Pediatric surgery,SS,SU003,Nephrectomy,SU003A
+Pediatric surgery,SS,SU003,Nephrectomy,SU003B
+Pediatric surgery,SS,SU003,Nephrectomy,SU003C
+Pediatric surgery,SS,SU003,Nephrectomy,SU003D
+Pediatric surgery,SS,SU004,Nephrectomy - Partial or Hemi,SU004A
+Pediatric surgery,SS,SU004,Nephrectomy - Partial or Hemi,SU004B
+Pediatric surgery,SS,SU008,Nephrostomy - Percutaneous ultrasound guided,SU008A
+Pediatric surgery,SS,SU010,Nephro ureterectomy (Benign),SU010A
+Pediatric surgery,SS,SU010,Nephro ureterectomy (Benign),SU010B
+Pediatric surgery,SS,SU011,Nephro ureterectomy with cuff of bladder,SU011A
+Pediatric surgery,SS,SU011,Nephro ureterectomy with cuff of bladder,SU011B
+Pediatric surgery,SS,SU018,Ureterolithotomy,SU018A
+Pediatric surgery,SS,SU018,Ureterolithotomy,SU018B
+Pediatric surgery,SS,SU021,Pyeloplasty / Pyeloureterostomy / Pyelopyelostomy,SU021A
+Pediatric surgery,SS,SU021,Pyeloplasty / Pyeloureterostomy / Pyelopyelostomy,SU021B
+Pediatric surgery,SS,SU021,Pyeloplasty / Pyeloureterostomy / Pyelopyelostomy,SU021C
+Pediatric surgery,SS,SU021,Pyeloplasty / Pyeloureterostomy / Pyelopyelostomy,SU021D
+Pediatric surgery,SS,SU021,Pyeloplasty / Pyeloureterostomy / Pyelopyelostomy,SU021E
+Pediatric surgery,SS,SU021,Pyeloplasty / Pyeloureterostomy / Pyelopyelostomy,SU021F
+Pediatric surgery,SS,SU023,Ureterocalycostomy,SU023A
+Pediatric surgery,SS,SU023,Ureterocalycostomy,SU023B
+Pediatric surgery,SS,SU024,Pyelolithotomy,SU024A
+Pediatric surgery,SS,SU024,Pyelolithotomy,SU024B
+Pediatric surgery,SS,SU027,Ureterostomy,SU027A
+Pediatric surgery,SS,SU028,Uretero-ureterostomy,SU028A
+Pediatric surgery,SS,SU028,Uretero-ureterostomy,SU028B
+Pediatric surgery,SS,SU030,Ureteric reimplantation,SU030A
+Pediatric surgery,SS,SU030,Ureteric reimplantation,SU030B
+Pediatric surgery,SS,SU033,"DJ stenting including cystoscopy, ureteric catheterization, retrograde pyelogram",SU033A
+Pediatric surgery,SS,SU037,Acute management of upper urinary tract trauma – conservative,SU037A
+Pediatric surgery,SS,SU040,"Cystolithotomy - Open, including cystoscopy",SU040A
+Pediatric surgery,SS,SU041,"Cystolithotripsy / Urethral Stone endoscopic, including cystoscopy",SU041A
+Pediatric surgery,SS,SU041,"Cystolithotripsy / Urethral Stone endoscopic, including cystoscopy",SU041B
+Pediatric surgery,SS,SU043,Partial Cystectomy,SU043A
+Pediatric surgery,SS,SU043,Partial Cystectomy,SU043B
+Pediatric surgery,SS,SU045,Augmentation cystoplasty,SU045A
+Pediatric surgery,SS,SU045,Augmentation cystoplasty,SU045B
+Pediatric surgery,SS,SU048,Open bladder diverticulectomy with / without ureteric re- implantation,SU048A
+Pediatric surgery,SS,SU049,Bladder injury repair (with or without urethral injury),SU049A
+Pediatric surgery,SS,SU050,Bladder injury repair with colostomy (with or without urethral injury),SU050A
+Pediatric surgery,SS,SU051,Extrophy Bladder repair including osteotomy if needed + epispadias repair + ureteric reimplant,SU051A
+Pediatric surgery,SS,SU052,Neurogenic bladder - Package for evaluation / investigation (catheter + ultrasound + culture + RGU/ MCU) for 1 month (medicines - antibiotics),SU052A
+Pediatric surgery,SS,SU061,Suprapubic Drainage - Closed / Trocar,SU061A
+Pediatric surgery,SS,SU064,Emergency management of Acute retention of Urine,SU064A
+Pediatric surgery,SS,SU065,Meatotomy / Meatoplasty,SU065A
+Pediatric surgery,SS,SU065,Meatotomy / Meatoplasty,SU065B
+Pediatric surgery,SS,SU066,Urethroplasty,SU066A
+Pediatric surgery,SS,SU066,Urethroplasty,SU066B
+Pediatric surgery,SS,SU066,Urethroplasty,SU066C
+Pediatric surgery,SS,SU066,Urethroplasty,SU066D
+Pediatric surgery,SS,SU068,Urethral Dilatation,SU068A
+Pediatric surgery,SS,SU068,Urethral Dilatation,SU068B
+Pediatric surgery,SS,SU069,Perineal Urethrostomy without closure,SU069A
+Pediatric surgery,SS,SU070,Post. Urethral Valve fulguration,SU070A
+Pediatric surgery,SS,SU071,Hypospadias repair,SU071A
+Pediatric surgery,SS,SU071,Hypospadias repair,SU071B
+Pediatric surgery,SS,SU071,Hypospadias repair,SU071D
+Pediatric surgery,SS,SU073,Emergency management of Hematuria,SU073A
+Pediatric surgery,SS,SU075,Urethrovaginal fistula repair,SU075A
+Pediatric surgery,SS,SU076,Urethrorectal fistula repair,SU076A
+Pediatric surgery,SS,SU086,Orchiectomy,SU086A
+Pediatric surgery,SS,SU088,Orchiopexy,SU088A
+Pediatric surgery,SS,SU088,Orchiopexy,SU088B
+Pediatric surgery,SS,SU088,Orchiopexy,SU088C
+Pediatric surgery,SS,SU094,Emergency management of Ureteric stone - Package for evaluation / investigation (ultrasound + culture) for 3 weeks (medicines).,SU094A
+Polytrauma,ST,SN063,Conservative management of high cervical injury,SN063B
+Polytrauma,ST,SN063,Conservative management of high cervical injury,SN063D
+Polytrauma,ST,ST001,Conservative Management of Head Injury,ST001A
+Polytrauma,ST,ST001,Conservative Management of Head Injury,ST001B
+Polytrauma,ST,ST002,Head injury with repair of Facio-Maxillary Injury & fixations (including implants),ST002A
+Polytrauma,ST,ST003,Craniotomy and evacuation of Haematoma with fixation of fracture of long bone,ST003A
+Polytrauma,ST,ST003,Craniotomy and evacuation of Haematoma with fixation of fracture of long bone,ST003B
+Polytrauma,ST,ST003,Craniotomy and evacuation of Haematoma with fixation of fracture of long bone,ST003C
+Polytrauma,ST,ST003,Craniotomy and evacuation of Haematoma with fixation of fracture of long bone,ST003D
+Polytrauma,ST,ST004,Management of Chest injury with fracture of Long bone,ST004A
+Polytrauma,ST,ST004,Management of Chest injury with fracture of Long bone,ST004B
+Polytrauma,ST,ST005,Management of Visceral injury and fracture long bone,ST005A
+Polytrauma,ST,ST005,Management of Visceral injury and fracture long bone,ST005B
+Polytrauma,ST,ST006,Internal fixation of Pelviacetabular fracture,ST006A
+Polytrauma,ST,ST007,Internal fixation with Flap cover Surgery for wound in compound fracture,ST007A
+Polytrauma,ST,ST008,Emergency tendons repair ± Peripheral Nerve repair/ reconstructive surgery,ST008A
+Polytrauma,ST,ST009,Management of Nerve Plexus / Tendon injuries,ST009A
+Polytrauma,ST,ST009,Management of Nerve Plexus / Tendon injuries,ST009B
+Polytrauma,ST,ST009,Management of Nerve Plexus / Tendon injuries,ST009C
+Polytrauma,ST,ST009,Management of Nerve Plexus / Tendon injuries,ST009D
+Polytrauma,ST,ST009,Management of Nerve Plexus / Tendon injuries,ST009E
+Polytrauma,ST,ST010,Plexus injury along with Vascular injury repair / graft,ST010A
+Polytrauma,ST,ST010,Plexus injury along with Vascular injury repair / graft,ST010B
+Urology,SU,SU071,Hypospadias repair,SU071A
+Urology,SU,SU071,Hypospadias repair,SU071B
+Urology,SU,SU071,Hypospadias repair,SU071D
+Urology,SU,SU001,Adrenalectomy,SU001A
+Urology,SU,SU001,Adrenalectomy,SU001B
+Urology,SU,SU003,Nephrectomy,SU003A
+Urology,SU,SU003,Nephrectomy,SU003B
+Urology,SU,SU003,Nephrectomy,SU003C
+Urology,SU,SU003,Nephrectomy,SU003D
+Urology,SU,SU004,Nephrectomy - Partial or Hemi,SU004A
+Urology,SU,SU004,Nephrectomy - Partial or Hemi,SU004B
+Urology,SU,SU005,Nephrolithotomy,SU005A
+Urology,SU,SU005,Nephrolithotomy,SU005B
+Urology,SU,SU007,PCNL (Percutaneous Nephrolithotomy),SU007A
+Urology,SU,SU008,Nephrostomy - Percutaneous ultrasound guided,SU008A
+Urology,SU,SU0100,Torsion of testis,SU0100A
+Urology,SU,SU0101,Follow up for urological procedures,SU0101A
+Urology,SU,SU010,Nephro ureterectomy (Benign),SU010A
+Urology,SU,SU010,Nephro ureterectomy (Benign),SU010B
+Urology,SU,SU011,Nephro ureterectomy with cuff of bladder,SU011A
+Urology,SU,SU011,Nephro ureterectomy with cuff of bladder,SU011B
+Urology,SU,SU013,Perinephric Abscess drainage,SU013A
+Urology,SU,SU013,Perinephric Abscess drainage,SU013B
+Urology,SU,SU014,Ureteroscopy + Stone removal with lithotripsy,SU014A
+Urology,SU,SU014,Ureteroscopy + Stone removal with lithotripsy,SU014B
+Urology,SU,SU016,Extracoporeal shock - wave Lithotripsy (ESWL),SU016A
+Urology,SU,SU018,Ureterolithotomy,SU018A
+Urology,SU,SU018,Ureterolithotomy,SU018B
+Urology,SU,SU021,Pyeloplasty / Pyeloureterostomy / Pyelopyelostomy,SU021A
+Urology,SU,SU021,Pyeloplasty / Pyeloureterostomy / Pyelopyelostomy,SU021B
+Urology,SU,SU021,Pyeloplasty / Pyeloureterostomy / Pyelopyelostomy,SU021C
+Urology,SU,SU021,Pyeloplasty / Pyeloureterostomy / Pyelopyelostomy,SU021D
+Urology,SU,SU021,Pyeloplasty / Pyeloureterostomy / Pyelopyelostomy,SU021E
+Urology,SU,SU021,Pyeloplasty / Pyeloureterostomy / Pyelopyelostomy,SU021F
+Urology,SU,SU023,Ureterocalycostomy,SU023A
+Urology,SU,SU023,Ureterocalycostomy,SU023B
+Urology,SU,SU024,Pyelolithotomy,SU024A
+Urology,SU,SU024,Pyelolithotomy,SU024B
+Urology,SU,SU025,Internal Ureterotomy including cystoscopy as an independent procedure,SU025A
+Urology,SU,SU026,Ureterolysis for retroperitoneal fibrosis (with or without omental wrapping),SU026A
+Urology,SU,SU026,Ureterolysis for retroperitoneal fibrosis (with or without omental wrapping),SU026B
+Urology,SU,SU027,Ureterostomy,SU027A
+Urology,SU,SU028,Uretero-ureterostomy,SU028A
+Urology,SU,SU028,Uretero-ureterostomy,SU028B
+Urology,SU,SU029,Uretero-vaginal / Uterine fistula repair,SU029A
+Urology,SU,SU029,Uretero-vaginal / Uterine fistula repair,SU029B
+Urology,SU,SU029,Uretero-vaginal / Uterine fistula repair,SU029C
+Urology,SU,SU029,Uretero-vaginal / Uterine fistula repair,SU029D
+Urology,SU,SU030,Ureteric reimplantation,SU030A
+Urology,SU,SU030,Ureteric reimplantation,SU030B
+Urology,SU,SU031,Boari flap for ureteric stricture,SU031A
+Urology,SU,SU031,Boari flap for ureteric stricture,SU031B
+Urology,SU,SU032,Ileal replacement for ureteric stricture,SU032A
+Urology,SU,SU033,"DJ stenting including cystoscopy, ureteric catheterization, retrograde pyelogram",SU033A
+Urology,SU,SU034,DJ Stent Removal,SU034A
+Urology,SU,SU035,"Ureterocele incision including cystoscopy, ureteric catheterization, retrograde pyelogram",SU035A
+Urology,SU,SU036,"Ureteric sampling including cystoscopy, ureteric catheterization, retrograde pyelogram",SU036A
+Urology,SU,SU037,Acute management of upper urinary tract trauma – conservative,SU037A
+Urology,SU,SU038,Endopyelotomy,SU038A
+Urology,SU,SU038,Endopyelotomy,SU038B
+Urology,SU,SU040,"Cystolithotomy - Open, including cystoscopy",SU040A
+Urology,SU,SU041,"Cystolithotripsy / Urethral Stone endoscopic, including cystoscopy",SU041A
+Urology,SU,SU041,"Cystolithotripsy / Urethral Stone endoscopic, including cystoscopy",SU041B
+Urology,SU,SU043,Partial Cystectomy,SU043A
+Urology,SU,SU043,Partial Cystectomy,SU043B
+Urology,SU,SU045,Augmentation cystoplasty,SU045A
+Urology,SU,SU045,Augmentation cystoplasty,SU045B
+Urology,SU,SU046,Deflux for VUR,SU046A
+Urology,SU,SU048,Open bladder diverticulectomy with / without ureteric re- implantation,SU048A
+Urology,SU,SU049,Bladder injury repair (with or without urethral injury),SU049A
+Urology,SU,SU050,Bladder injury repair with colostomy (with or without urethral injury),SU050A
+Urology,SU,SU051,Extrophy Bladder repair including osteotomy if needed + epispadias repair + ureteric reimplant,SU051A
+Urology,SU,SU052,Neurogenic bladder - Package for evaluation / investigation (catheter + ultrasound + culture + RGU/ MCU) for 1 month (medicines - antibiotics),SU052A
+Urology,SU,SU054,Bladder Neck incision - Endoscopic,SU054A
+Urology,SU,SU055,TURBT (Transurethral Resection of the Bladder Tumor),SU055A
+Urology,SU,SU056,TURBT - Restage,SU056A
+Urology,SU,SU057,Post TURBT - Check Cystoscopy (Per sitting) with cold-cup biopsy,SU057A
+Urology,SU,SU058,Urachal Cyst excision,SU058A
+Urology,SU,SU058,Urachal Cyst excision,SU058B
+Urology,SU,SU060,Intravesical BCG / Mitomycin,SU060A
+Urology,SU,SU061,Suprapubic Drainage - Closed / Trocar,SU061A
+Urology,SU,SU062,Stress incontinence surgery,SU062A
+Urology,SU,SU064,Emergency management of Acute retention of Urine,SU064A
+Urology,SU,SU065,Meatotomy / Meatoplasty,SU065A
+Urology,SU,SU065,Meatotomy / Meatoplasty,SU065B
+Urology,SU,SU066,Urethroplasty,SU066A
+Urology,SU,SU066,Urethroplasty,SU066B
+Urology,SU,SU066,Urethroplasty,SU066C
+Urology,SU,SU066,Urethroplasty,SU066D
+Urology,SU,SU068,Urethral Dilatation,SU068A
+Urology,SU,SU068,Urethral Dilatation,SU068B
+Urology,SU,SU069,Perineal Urethrostomy without closure,SU069A
+Urology,SU,SU070,Post. Urethral Valve fulguration,SU070A
+Urology,SU,SU073,Emergency management of Hematuria,SU073A
+Urology,SU,SU074,Excision of Urethral Caruncle,SU074A
+Urology,SU,SU075,Urethrovaginal fistula repair,SU075A
+Urology,SU,SU076,Urethrorectal fistula repair,SU076A
+Urology,SU,SU077,Open simple prostatetctomy for BPH,SU077A
+Urology,SU,SU078,Radical prostatectomy,SU078A
+Urology,SU,SU078,Radical prostatectomy,SU078B
+Urology,SU,SU080,"TURP-Transurethral Resection of the Prostate, BPH",SU080A
+Urology,SU,SU080,"TURP-Transurethral Resection of the Prostate, BPH",SU080B
+Urology,SU,SU081,Transrectal Ultrasound guided prostate biopsy (minimum 12 core),SU081A
+Urology,SU,SU082,Penectomy,SU082A
+Urology,SU,SU082,Penectomy,SU082B
+Urology,SU,SU083,Surgery for Priapism,SU083A
+Urology,SU,SU083,Surgery for Priapism,SU083B
+Urology,SU,SU085,Penile prosthesis insertion,SU085A
+Urology,SU,SU086,Orchiectomy,SU086A
+Urology,SU,SU087,Bilateral Orchidectomy for hormone ablation,SU087A
+Urology,SU,SU088,Orchiopexy,SU088A
+Urology,SU,SU088,Orchiopexy,SU088B
+Urology,SU,SU088,Orchiopexy,SU088C
+Urology,SU,SU089,Surgical Correction of Varicocele,SU089A
+Urology,SU,SU089,Surgical Correction of Varicocele,SU089B
+Urology,SU,SU090,Radical Retroperitoneal lymph node dissection,SU090A
+Urology,SU,SU090,Radical Retroperitoneal lymph node dissection,SU090B
+Urology,SU,SU091,Ilio-Inguinal lymphadenectomy,SU091A
+Urology,SU,SU094,Emergency management of Ureteric stone - Package for evaluation / investigation (ultrasound + culture) for 3 weeks (medicines).,SU094A
+Urology,SU,SU095,Retrograde Intrarenal Surgery with Laser Lithotripsy,SU095A
+Urology,SU,SU096,Repair for VVF,SU096B
+Urology,SU,SU097,Permanent tunnelled catheter placement as substitute for AV fistula in long term dialysis,SU097A
+Urology,SU,SU098,"Pelvic lymphadenectomy, after prior cancer surgery",SU098A
+Urology,SU,SU098,"Pelvic lymphadenectomy, after prior cancer surgery",SU098B
+Urology,SU,SU099,Botulinum toxin injection for Neuropathic bladder,SU099A
+Urology,SU,SC023,Distal ureterectomy with reimplantation,SC023A
+Urology,SU,SC024,Radical cystectomy,SC024A
+Urology,SU,SC024,Radical cystectomy,SC024B
+Urology,SU,SC024,Radical cystectomy,SC024C
+Urology,SU,SC024,Radical cystectomy,SC024D
+Urology,SU,SC024,Radical cystectomy,SC024E
+Urology,SU,SC024,Radical cystectomy,SC024F
+Urology,SU,SC024,Radical cystectomy,SC024G
+Urology,SU,SC024,Radical cystectomy,SC024H
+Urology,SU,SC024,Radical cystectomy,SC024I
+Urology,SU,SC026,Radical Urethrectomy,SC026A
+Urology,SU,SC027,"Penile preserving surgery (WLE, Glansectomy, Laser)",SC027A
+Cardio-thoracic & Vascular surgery,SV,SV001,Surgical Correction of Category - I Congenital Heart Disease,SV001A
+Cardio-thoracic & Vascular surgery,SV,SV001,Surgical Correction of Category - I Congenital Heart Disease,SV001B
+Cardio-thoracic & Vascular surgery,SV,SV001,Surgical Correction of Category - I Congenital Heart Disease,SV001C
+Cardio-thoracic & Vascular surgery,SV,SV001,Surgical Correction of Category - I Congenital Heart Disease,SV001D
+Cardio-thoracic & Vascular surgery,SV,SV001,Surgical Correction of Category - I Congenital Heart Disease,SV001E
+Cardio-thoracic & Vascular surgery,SV,SV001,Surgical Correction of Category - I Congenital Heart Disease,SV001F
+Cardio-thoracic & Vascular surgery,SV,SV001,Surgical Correction of Category - I Congenital Heart Disease,SV001G
+Cardio-thoracic & Vascular surgery,SV,SV002,Surgical Correction of Category - II Congenital Heart Disease,SV002A
+Cardio-thoracic & Vascular surgery,SV,SV002,Surgical Correction of Category - II Congenital Heart Disease,SV002B
+Cardio-thoracic & Vascular surgery,SV,SV002,Surgical Correction of Category - II Congenital Heart Disease,SV002C
+Cardio-thoracic & Vascular surgery,SV,SV002,Surgical Correction of Category - II Congenital Heart Disease,SV002D
+Cardio-thoracic & Vascular surgery,SV,SV002,Surgical Correction of Category - II Congenital Heart Disease,SV002E
+Cardio-thoracic & Vascular surgery,SV,SV002,Surgical Correction of Category - II Congenital Heart Disease,SV002F
+Cardio-thoracic & Vascular surgery,SV,SV002,Surgical Correction of Category - II Congenital Heart Disease,SV002G
+Cardio-thoracic & Vascular surgery,SV,SV002,Surgical Correction of Category - II Congenital Heart Disease,SV002H
+Cardio-thoracic & Vascular surgery,SV,SV002,Surgical Correction of Category - II Congenital Heart Disease,SV002I
+Cardio-thoracic & Vascular surgery,SV,SV002,Surgical Correction of Category - II Congenital Heart Disease,SV002J
+Cardio-thoracic & Vascular surgery,SV,SV002,Surgical Correction of Category - II Congenital Heart Disease,SV002K
+Cardio-thoracic & Vascular surgery,SV,SV002,Surgical Correction of Category - II Congenital Heart Disease,SV002L
+Cardio-thoracic & Vascular surgery,SV,SV002,Surgical Correction of Category - II Congenital Heart Disease,SV002M
+Cardio-thoracic & Vascular surgery,SV,SV002,Surgical Correction of Category - II Congenital Heart Disease,SV002N
+Cardio-thoracic & Vascular surgery,SV,SV002,Surgical Correction of Category - II Congenital Heart Disease,SV002O
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003A
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003B
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003C
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003D
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003E
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003F
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003G
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003H
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003I
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003J
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003K
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003L
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003M
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003N
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003O
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003P
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003Q
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003R
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003S
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003T
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003U
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003V
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003W
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003X
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003Y
+Cardio-thoracic & Vascular surgery,SV,SV003,Surgical Correction of Category - III Congenital Heart Disease,SV003Z
+Cardio-thoracic & Vascular surgery,SV,SV004,"Coronary artery bypass grafting (CABG), including intra operative balloon pump (if required)",SV004A
+Cardio-thoracic & Vascular surgery,SV,SV005,Single Valve Procedure,SV005A
+Cardio-thoracic & Vascular surgery,SV,SV005,Single Valve Procedure,SV005B
+Cardio-thoracic & Vascular surgery,SV,SV005,Single Valve Procedure,SV005C
+Cardio-thoracic & Vascular surgery,SV,SV006,Double Valve Procedure,SV006A
+Cardio-thoracic & Vascular surgery,SV,SV007,Triple valve procedure,SV007A
+Cardio-thoracic & Vascular surgery,SV,SV008,Closed Mitral Valvotomy including thoracotomy,SV008A
+Cardio-thoracic & Vascular surgery,SV,SV009,Ross Procedure,SV009A
+Cardio-thoracic & Vascular surgery,SV,SV010,Surgery for Hypertrophic Obstructive Cardiomyopathy (HOCM),SV010A
+Cardio-thoracic & Vascular surgery,SV,SV011,Pericardial window (via thoracotomy),SV011A
+Cardio-thoracic & Vascular surgery,SV,SV012,Pericardiectomy,SV012A
+Cardio-thoracic & Vascular surgery,SV,SV013,Patent Ductus Arteriosus (PDA) Closure via thoracotomy,SV013A
+Cardio-thoracic & Vascular surgery,SV,SV014,Aortic Root Replacement Surgery,SV014A
+Cardio-thoracic & Vascular surgery,SV,SV014,Aortic Root Replacement Surgery,SV014B
+Cardio-thoracic & Vascular surgery,SV,SV014,Aortic Root Replacement Surgery,SV014C
+Cardio-thoracic & Vascular surgery,SV,SV014,Aortic Root Replacement Surgery,SV014D
+Cardio-thoracic & Vascular surgery,SV,SV014,Aortic Root Replacement Surgery,SV014E
+Cardio-thoracic & Vascular surgery,SV,SV015,Aortic Arch Replacement / Thoracoabdominal aneurysm Repair using bypass,SV015A
+Cardio-thoracic & Vascular surgery,SV,SV015,Aortic Arch Replacement / Thoracoabdominal aneurysm Repair using bypass,SV015B
+Cardio-thoracic & Vascular surgery,SV,SV016,Aortic Aneurysm Repair,SV016A
+Cardio-thoracic & Vascular surgery,SV,SV016,Aortic Aneurysm Repair,SV016B
+Cardio-thoracic & Vascular surgery,SV,SV016,Aortic Aneurysm Repair,SV016C
+Cardio-thoracic & Vascular surgery,SV,SV016,Aortic Aneurysm Repair,SV016D
+Cardio-thoracic & Vascular surgery,SV,SV017,Aorto Iliac / Aorto femoral bypass (Uni and Bi),SV017A
+Cardio-thoracic & Vascular surgery,SV,SV017,Aorto Iliac / Aorto femoral bypass (Uni and Bi),SV017B
+Cardio-thoracic & Vascular surgery,SV,SV017,Aorto Iliac / Aorto femoral bypass (Uni and Bi),SV017C
+Cardio-thoracic & Vascular surgery,SV,SV017,Aorto Iliac / Aorto femoral bypass (Uni and Bi),SV017D
+Cardio-thoracic & Vascular surgery,SV,SV018,Pulmonary Embolectomy / Thromboendarterecto my,SV018A
+Cardio-thoracic & Vascular surgery,SV,SV018,Pulmonary Embolectomy / Thromboendarterecto my,SV018B
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019A
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019B
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019C
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019D
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019E
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019F
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019G
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019H
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019I
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019J
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019K
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019L
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019M
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019N
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019O
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019P
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019Q
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019R
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019S
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019T
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019U
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019V
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019W
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019X
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019Y
+Cardio-thoracic & Vascular surgery,SV,SV019,Peripheral Arterial Surgeries,SV019Z
+Cardio-thoracic & Vascular surgery,SV,SV020,Thromboembolectomy,SV020A
+Cardio-thoracic & Vascular surgery,SV,SV021,Peripheral arterial injury repair (without bypass),SV021A
+Cardio-thoracic & Vascular surgery,SV,SV022,"Thoracotomy, Thoraco Abdominal Approach",SV022A
+Cardio-thoracic & Vascular surgery,SV,SV023,Lung surgery including Thoracotomy,SV023A
+Cardio-thoracic & Vascular surgery,SV,SV023,Lung surgery including Thoracotomy,SV023B
+Cardio-thoracic & Vascular surgery,SV,SV023,Lung surgery including Thoracotomy,SV023C
+Cardio-thoracic & Vascular surgery,SV,SV023,Lung surgery including Thoracotomy,SV023D
+Cardio-thoracic & Vascular surgery,SV,SV023,Lung surgery including Thoracotomy,SV023E
+Cardio-thoracic & Vascular surgery,SV,SV024,Pulmonary Resection,SV024A
+Cardio-thoracic & Vascular surgery,SV,SV025,Foreign Body Removal with scope,SV025A
+Cardio-thoracic & Vascular surgery,SV,SV026,Surgical Correction of Bronchopleural Fistula,SV026A
+Cardio-thoracic & Vascular surgery,SV,SV027,Space - Occupying Lesion (SOL) mediastinum,SV027A
+Cardio-thoracic & Vascular surgery,SV,SV028,"Isolated Intercostal Drainage and Management of ICD, Intercostal Block, Antibiotics & Physiotherapy",SV028A
+Cardio-thoracic & Vascular surgery,SV,SV029,Diaphragmatic Repair,SV029A
+Cardio-thoracic & Vascular surgery,SV,SV030,Surgery for Cardiac Tumour,SV030A
+Cardio-thoracic & Vascular surgery,SV,SV031,Immediate reoperation (within 5 days),SV031A
+Cardio-thoracic & Vascular surgery,SV,SV031,Immediate reoperation (within 5 days),SV031B
+Cardio-thoracic & Vascular surgery,SV,SV031,Immediate reoperation (within 5 days),SV031C
+Cardio-thoracic & Vascular surgery,SV,SV031,Immediate reoperation (within 5 days),SV031D
+Cardio-thoracic & Vascular surgery,SV,SV031,Immediate reoperation (within 5 days),SV031E
+Cardio-thoracic & Vascular surgery,SV,SV031,Immediate reoperation (within 5 days),SV031F
+Cardio-thoracic & Vascular surgery,SV,SV032,Low Cardiac Output syndrome requiring IABP insertion post - operatively,SV032A
+Cardio-thoracic & Vascular surgery,SV,SV033,Re-do sternotomy,SV033A
+Cardio-thoracic & Vascular surgery,SV,SV034,Excessive bleeding requiring re- exploration,SV034A
+Cardio-thoracic & Vascular surgery,SV,SV035,Mediastinotomy,SV035A
+Cardio-thoracic & Vascular surgery,SV,SV036,Pectus excavation,SV036A
+Cardio-thoracic & Vascular surgery,SV,SV037,Left ventricular aneurysm repair,SV037A
+Cardio-thoracic & Vascular surgery,SV,SV038,CABG + Left ventricular aneurysm repair,SV038A
+Cardio-thoracic & Vascular surgery,SV,SV039,Tracheal repair,SV039A
+Cardio-thoracic & Vascular surgery,SV,SV040,Aortic stenting,SV040A
+Cardio-thoracic & Vascular surgery,SV,SV041,follow up -CTVS,SV041A
+Cardio-thoracic & Vascular surgery,SV,SV041,follow up -CTVS,SV041B
+Cardio-thoracic & Vascular surgery,SV,SV041,follow up -CTVS,SV041C
+Cardio-thoracic & Vascular surgery,SV,SV041,follow up -CTVS,SV041D
+Cardio-thoracic & Vascular surgery,SV,SV041,follow up -CTVS,SV041E
+Cardio-thoracic & Vascular surgery,SV,MC014,Temporary Pacemaker implantation,MC014A
+Cardio-thoracic & Vascular surgery,SV,MC015,Single Chamber Permanent Pacemaker Implantation,MC015A
+Cardio-thoracic & Vascular surgery,SV,MC016,Double Chamber Permanent Pacemaker Implantation,MC016A
+Cardio-thoracic & Vascular surgery,SV,SC074,Vascular reconstruction,SC074A
+Cardio-thoracic & Vascular surgery,SV,SG077,Intercostal drainage Only,SG077A
+Cardio-thoracic & Vascular surgery,SV,SG069,Carotid Body tumour - Excision,SG069A
+Unspecified Surgical,US,US001,Unspecified Surgical Package,US001A
+Unspecified Surgical,US,US001,Unspecified Surgical Package,US001B
+Interventional Neuroradiology,IN,IN001,Dural AVMs / AVFs,IN001A
+Interventional Neuroradiology,IN,IN001,Dural AVMs / AVFs,IN001B
+Interventional Neuroradiology,IN,IN001,Dural AVMs / AVFs,IN001C
+Interventional Neuroradiology,IN,IN001,Dural AVMs / AVFs,IN001D
+Interventional Neuroradiology,IN,IN002,Cerebral & Spinal AVM embolization - Using Histoacryl (per sitting),IN002A
+Interventional Neuroradiology,IN,IN002,Cerebral & Spinal AVM embolization - Using Histoacryl (per sitting),IN002B
+Interventional Neuroradiology,IN,IN003,Coil embolization for aneurysms (includes cost of first 3 coils + balloon and / or stent if used),IN003A
+Interventional Neuroradiology,IN,IN004,Carotico-cavernous Fistula (CCF) embolization,IN004A
+Interventional Neuroradiology,IN,IN004,Carotico-cavernous Fistula (CCF) embolization,IN004B
+Interventional Neuroradiology,IN,IN005,Pre-operative tumour embolization (per session),IN005A
+Interventional Neuroradiology,IN,IN006,Intracranial balloon angioplasty with stenting,IN006A
+Interventional Neuroradiology,IN,IN007,Intracranial thrombolysis / clot retrieval,IN007A
+Interventional Neuroradiology,IN,IN008,Balloon test occlusion,IN008A
+Interventional Neuroradiology,IN,IN009,Parent vessel occlusion - Basic,IN009A
+Interventional Neuroradiology,IN,IN010,Vertebroplasty,IN010A

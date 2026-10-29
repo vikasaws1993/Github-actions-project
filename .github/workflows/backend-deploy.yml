@@ -1,0 +1,96 @@
+name: GitHub AWS OIDC
+
+on:
+  push:
+    branches:
+      -aws-oidc-test
+    paths:
+      - 'Backend/**'
+      - '.github/workflows/backend-deploy.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  oidc-test:
+  backend-deploy:
+    name: Deploy Backend to EC2
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: Backend/package-lock.json
+
+      - name: Install backend dependencies
+        working-directory: Backend
+        run: npm ci
+
+      - name: Backend syntax check
+        working-directory: Backend
+        run: |
+          node --check src/server.js
+
+      - name: Deploy to EC2 AWS Credentials using OIDC
+        env:
+          EC2_HOST: ${{ secrets.EC2_HOST }}
+          EC2_USERNAME: ${{ secrets.EC2_USERNAME }}
+          EC2_SSH_PRIVATE_KEY: ${{ secrets.EC2_SSH_PRIVATE_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          chmod 700 ~/.ssh
+
+          printf '%s\n' "$EC2_SSH_PRIVATE_KEY" > ~/.ssh/ec2_key
+          chmod 600 ~/.ssh/ec2_key
+
+          ssh-keyscan -H "$EC2_HOST" >> ~/.ssh/known_hosts
+
+          ssh -i ~/.ssh/ec2_key "$EC2_USERNAME@$EC2_HOST" << 'EOF'
+            set -e
+
+            echo "Loading NVM..."
+
+            export NVM_DIR="$HOME/.nvm"
+
+            if [ -s "$NVM_DIR/nvm.sh" ]; then
+              source "$NVM_DIR/nvm.sh"
+            else
+              echo "ERROR: NVM not found at $NVM_DIR"
+              exit 1
+            fi
+
+            nvm use 24
+
+            echo "Node version:"
+            node --version
+
+            echo "NPM version:"
+            npm --version
+
+            echo "NPM path:"
+            which npm
+
+            cd ~/apps/ArogyaMitra
+
+            echo "Pulling latest code..."
+            git pull origin main
+
+            cd Backend
+
+            echo "Installing dependencies..."
+            npm ci
+
+            echo "Restarting backend..."
+            pm2 restart arogya-backend
+
+            echo "Checking PM2 status..."
+            pm2 status
+
+            echo "Backend deployment completed successfully."
+          EOF

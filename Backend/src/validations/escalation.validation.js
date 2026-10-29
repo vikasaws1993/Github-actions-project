@@ -1,0 +1,41 @@
+import { z } from 'zod';
+
+export const createEscalationSchema = z.object({
+  applicationId: z.string().optional(),
+  caseId: z.string().optional(),
+  reasonType: z.enum(['bill_exceeded', 'specialty_unavailable', 'scheme_denial', 'other']).default('bill_exceeded'),
+  escalationReason: z.string().optional(),
+  requiredSpecialty: z.string().optional().nullable(),
+  estimatedBill: z.union([z.string(), z.number()]).optional().nullable(),
+  remarks: z.string().optional().nullable(),
+  description: z.string().optional().nullable(),
+  attachmentName: z.string().optional().nullable(),
+  attachmentUrl: z.string().optional().nullable(),
+  attachment: z.string().optional().nullable(),
+  putOnHold: z.boolean().default(true),
+});
+
+export const resolveEscalationSchema = z.object({
+  resolutionNotes: z.string().optional().nullable(),
+  resolution: z.string().optional().nullable(),
+  prevSevakNote: z.string().optional().nullable(),
+  newSevakNote: z.string().optional().nullable(),
+  notesForPrevSevak: z.string().optional().nullable(),
+  notesForNewSevak: z.string().optional().nullable(),
+  resolutionType: z.enum(['scheme_topup', 'copay', 'hospital_transfer', 'admin_grant', 'rejected', 'other']).optional().nullable(),
+  sanctionedScheme: z.string().optional().nullable(),
+  assignedHospitalId: z.string().optional().nullable(),
+  assignedHospitalName: z.string().optional().nullable(),
+  assignedHospital: z.string().optional().nullable(),
+  newSevakName: z.string().optional().nullable(),
+  newSevakId: z.string().optional().nullable(),
+  newSevakPhone: z.string().optional().nullable(),
+  assignedSevakName: z.string().optional().nullable(),
+  assignedSevakId: z.string().optional().nullable(),
+  assignedSevakPhone: z.string().optional().nullable(),
+  prevHospitalName: z.string().optional().nullable(),
+  prevSevakName: z.string().optional().nullable(),
+  prevSevakPhone: z.string().optional().nullable(),
+  copayAmount: z.union([z.string(), z.number()]).optional().nullable(),
+  status: z.string().default('RESOLVED'),
+});

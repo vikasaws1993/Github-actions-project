@@ -1,0 +1,134 @@
+.sli-container {
+  position: relative;
+  width: 100%;
+}
+
+.sli-input-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.sli-input {
+  width: 100%;
+  padding-right: 48px !important;
+}
+
+.sli-input-error {
+  border-color: #ef4444 !important;
+  background-color: #fef2f2;
+}
+
+.sli-disabled .sli-input {
+  background-color: #f8fafc !important;
+  border-color: #e2e8f0 !important;
+  color: #94a3b8 !important;
+  cursor: not-allowed;
+}
+
+.sli-icons-box {
+  position: absolute;
+  right: 10px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  pointer-events: auto;
+}
+
+.sli-clear-btn,
+.sli-chevron-btn {
+  background: transparent;
+  border: none;
+  padding: 3px;
+  cursor: pointer;
+  color: #94a3b8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  transition: color 0.15s ease, background 0.15s ease;
+}
+
+.sli-clear-btn:hover {
+  color: #ef4444;
+  background: #fee2e2;
+}
+
+.sli-chevron-btn:hover {
+  color: #475569;
+}
+
+.sli-chevron-btn:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.sli-chevron-btn svg {
+  transition: transform 0.2s ease;
+}
+
+.sli-chevron-open {
+  transform: rotate(180deg);
+}
+
+/* Floating Dropdown */
+.sli-dropdown-menu {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  max-height: 220px;
+  overflow-y: auto;
+  background: #ffffff;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.12), 0 8px 10px -6px rgba(0, 0, 0, 0.08);
+  z-index: 1050;
+  padding: 4px 0;
+  margin: 0;
+  list-style: none;
+}
+
+.sli-dropdown-item {
+  padding: 8px 14px;
+  font-size: 0.875rem;
+  color: #1e293b;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: background-color 0.12s ease;
+}
+
+.sli-dropdown-item:hover,
+.sli-item-highlighted {
+  background-color: #f1f5f9;
+}
+
+.sli-item-selected {
+  background-color: #ecfdf5 !important;
+  color: #047857 !important;
+  font-weight: 600;
+}
+
+.sli-item-text {
+  flex: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.sli-checkmark {
+  color: #10b981;
+  font-weight: 800;
+  margin-left: 8px;
+}
+
+.sli-no-results {
+  padding: 12px 14px;
+  font-size: 0.8rem;
+  color: #94a3b8;
+  text-align: center;
+  font-style: italic;
+}

@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064e3b"/>
+      <stop offset="50%" stop-color="#166534"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef08a"/>
+      <stop offset="50%" stop-color="#eab308"/>
+      <stop offset="100%" stop-color="#ca8a04"/>
+    </linearGradient>
+
+    <linearGradient id="jacketGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+
+    <linearGradient id="skinGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f7d0b3"/>
+      <stop offset="100%" stop-color="#e3ab86"/>
+    </linearGradient>
+
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <!-- Background Canvas -->
+  <rect width="600" height="700" fill="url(#bgGrad)" rx="16"/>
+
+  <!-- Decorative Tricolor Accent Lines at Top -->
+  <rect x="0" y="0" width="600" height="8" fill="#ff9933"/>
+  <rect x="0" y="8" width="600" height="8" fill="#ffffff"/>
+  <rect x="0" y="16" width="600" height="8" fill="#128807"/>
+
+  <!-- Golden Border Frame -->
+  <rect x="20" y="32" width="560" height="648" fill="none" stroke="url(#goldGrad)" stroke-width="3" rx="12"/>
+
+  <!-- Maharashtra Emblem Decorative Silhouette Background -->
+  <circle cx="300" cy="220" r="180" fill="rgba(255,255,255,0.03)" stroke="rgba(234, 179, 8, 0.15)" stroke-width="2"/>
+  <circle cx="300" cy="220" r="140" fill="none" stroke="rgba(255,255,255,0.05)" stroke-dasharray="8 6"/>
+
+  <!-- Dignitary Portrait Figure -->
+  <g filter="url(#shadow)">
+    <!-- Shoulders & Kurta / Jacket -->
+    <path d="M 120 680 L 120 540 Q 120 440 220 420 L 300 450 L 380 420 Q 480 440 480 540 L 480 680 Z" fill="#ffffff"/>
+    
+    <!-- Nehru Jacket / Sadri -->
+    <path d="M 160 680 L 160 520 Q 160 450 240 435 L 300 460 L 360 435 Q 440 450 440 520 L 440 680 Z" fill="url(#jacketGrad)"/>
+
+    <!-- Jacket Collar & Gold Trim -->
+    <path d="M 230 435 L 300 460 L 370 435 L 360 420 L 300 440 L 240 420 Z" fill="url(#goldGrad)"/>
+    <path d="M 298 460 L 298 680" stroke="#334155" stroke-width="3"/>
+    
+    <!-- Jacket Buttons -->
+    <circle cx="300" cy="490" r="5" fill="url(#goldGrad)"/>
+    <circle cx="300" cy="530" r="5" fill="url(#goldGrad)"/>
+    <circle cx="300" cy="570" r="5" fill="url(#goldGrad)"/>
+    <circle cx="300" cy="610" r="5" fill="url(#goldGrad)"/>
+
+    <!-- Neck -->
+    <rect x="260" y="340" width="80" height="90" fill="url(#skinGrad)" rx="10"/>
+
+    <!-- Head & Face Structure -->
+    <ellipse cx="300" cy="270" rx="90" ry="110" fill="url(#skinGrad)"/>
+
+    <!-- Ears -->
+    <ellipse cx="205" cy="275" rx="14" ry="24" fill="url(#skinGrad)"/>
+    <ellipse cx="395" cy="275" rx="14" ry="24" fill="url(#skinGrad)"/>
+
+    <!-- Hair -->
+    <path d="M 205 250 Q 210 165 300 160 Q 390 165 395 250 Q 370 175 300 175 Q 230 175 205 250 Z" fill="#1e293b"/>
+
+    <!-- Eyebrows -->
+    <path d="M 235 235 Q 260 225 280 235" fill="none" stroke="#0f172a" stroke-width="4" stroke-linecap="round"/>
+    <path d="M 320 235 Q 340 225 365 235" fill="none" stroke="#0f172a" stroke-width="4" stroke-linecap="round"/>
+
+    <!-- Eyes -->
+    <ellipse cx="258" cy="252" rx="10" ry="7" fill="#0f172a"/>
+    <ellipse cx="342" cy="252" rx="10" ry="7" fill="#0f172a"/>
+    <circle cx="260" cy="250" r="3" fill="#ffffff"/>
+    <circle cx="344" cy="250" r="3" fill="#ffffff"/>
+
+    <!-- Glasses Frame -->
+    <rect x="235" y="238" width="48" height="30" fill="none" stroke="url(#goldGrad)" stroke-width="3.5" rx="6"/>
+    <rect x="317" y="238" width="48" height="30" fill="none" stroke="url(#goldGrad)" stroke-width="3.5" rx="6"/>
+    <line x1="283" y1="250" x2="317" y2="250" stroke="url(#goldGrad)" stroke-width="3"/>
+    <line x1="235" y1="248" x2="215" y2="245" stroke="url(#goldGrad)" stroke-width="2.5"/>
+    <line x1="365" y1="248" x2="385" y2="245" stroke="url(#goldGrad)" stroke-width="2.5"/>
+
+    <!-- Nose -->
+    <path d="M 300 250 L 295 295 L 310 295" fill="none" stroke="#d97706" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- Pleasant Smile -->
+    <path d="M 265 325 Q 300 350 335 325" fill="none" stroke="#9a3412" stroke-width="4" stroke-linecap="round"/>
+    <path d="M 270 326 Q 300 340 330 326" fill="#ffffff"/>
+
+    <!-- Tilak / Mark -->
+    <ellipse cx="300" cy="205" rx="4" ry="10" fill="#dc2626"/>
+  </g>
+
+  <!-- Name & Designation Banner Overlay -->
+  <rect x="40" y="580" width="520" height="85" rx="10" fill="#ffffff" stroke="url(#goldGrad)" stroke-width="2"/>
+  <text x="300" y="616" font-family="Inter, sans-serif" font-weight="900" font-size="22" fill="#0f172a" text-anchor="middle">
+    HON. RAVINDRA CHAVAN
+  </text>
+  <text x="300" y="642" font-family="Inter, sans-serif" font-weight="700" font-size="13" fill="#166534" text-anchor="middle" letter-spacing="0.5">
+    MLA, MAHARASHTRA LEGISLATIVE ASSEMBLY
+  </text>
+  <text x="300" y="658" font-family="Inter, sans-serif" font-weight="600" font-size="11" fill="#64748b" text-anchor="middle">
+    Cabinet Minister | Dombivli Constituency
+  </text>
+</svg>

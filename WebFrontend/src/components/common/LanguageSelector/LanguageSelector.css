@@ -1,0 +1,222 @@
+.lang-selector-container {
+  position: relative;
+  display: inline-block;
+  user-select: none;
+  z-index: 30;
+}
+
+.lang-selector-container.is-open {
+  z-index: 1000;
+}
+
+.lang-selector-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 9999px;
+  padding: 6px 14px;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: #334155;
+  cursor: pointer;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  white-space: nowrap;
+}
+
+.lang-selector-btn:hover {
+  background: #f8fafc;
+  border-color: #cbd5e1;
+  color: #0f172a;
+}
+
+.lang-selector-btn:disabled,
+.lang-selector-btn.lang-btn-disabled {
+  cursor: not-allowed;
+  opacity: 0.8;
+  background: #f8fafc;
+  border-color: #e2e8f0;
+  color: #64748b;
+  box-shadow: none;
+}
+
+.lang-selector-btn:disabled:hover,
+.lang-selector-btn.lang-btn-disabled:hover {
+  background: #f8fafc;
+  border-color: #e2e8f0;
+  color: #64748b;
+}
+
+.lang-selector-btn.active {
+  background: #f1f5f9;
+  border-color: #94a3b8;
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.12);
+}
+
+.lang-globe-icon {
+  color: #2563eb;
+  flex-shrink: 0;
+}
+
+.lang-flag {
+  font-size: 0.95rem;
+  line-height: 1;
+}
+
+.lang-label-text {
+  letter-spacing: -0.01em;
+  font-family: inherit;
+}
+
+.lang-chevron {
+  color: #94a3b8;
+  transition: transform 0.2s ease;
+  margin-left: 2px;
+}
+
+.lang-chevron.rotate {
+  transform: rotate(180deg);
+  color: #2563eb;
+}
+
+/* ═══════════ BANNER VARIANT (FOR HERO GREEN BANNER) ═══════════ */
+.lang-selector-container.banner .lang-selector-btn {
+  background: #ffffff;
+  border: 1px solid rgba(255, 255, 255, 0.9);
+  color: #065f46;
+  font-weight: 700;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+
+.lang-selector-container.banner .lang-selector-btn:hover {
+  background: #f0fdf4;
+  border-color: #ffffff;
+  color: #047857;
+  transform: translateY(-1px);
+}
+
+.lang-selector-container.banner .lang-selector-btn.active {
+  background: #e6f4ea;
+  border-color: #a7f3d0;
+  box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.25);
+}
+
+.lang-selector-container.banner .lang-globe-icon {
+  color: #059669;
+}
+
+.lang-selector-container.banner .lang-chevron.rotate {
+  color: #059669;
+}
+
+/* ═══════════ COMPACT / HEADER VARIANT ═══════════ */
+.lang-selector-container.compact .lang-selector-btn {
+  padding: 5px 10px;
+  font-size: 0.775rem;
+}
+
+/* ═══════════ DROPDOWN MENU POPOVER ═══════════ */
+.lang-dropdown-menu {
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  width: 200px;
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  box-shadow: 0 12px 28px -4px rgba(15, 23, 42, 0.18), 0 6px 12px -3px rgba(15, 23, 42, 0.08);
+  padding: 6px;
+  z-index: 99999;
+  animation: langDropdownIn 0.18s cubic-bezier(0.16, 1, 0.3, 1);
+  transform-origin: top right;
+  box-sizing: border-box;
+}
+
+@keyframes langDropdownIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.95) translateY(-4px);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+.lang-dropdown-header {
+  padding: 6px 10px 4px 10px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #94a3b8;
+  border-bottom: 1px solid #f1f5f9;
+  margin-bottom: 4px;
+}
+
+.lang-options-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.lang-option-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 8px 10px;
+  border: none;
+  background: transparent;
+  border-radius: 8px;
+  text-align: left;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
+  color: #334155;
+  box-sizing: border-box;
+}
+
+.lang-option-item:hover {
+  background: #f1f5f9;
+  color: #0f172a;
+}
+
+.lang-option-item.selected {
+  background: #eff6ff;
+  color: #1d4ed8;
+  font-weight: 700;
+}
+
+.lang-option-flag {
+  font-size: 1.1rem;
+  line-height: 1;
+}
+
+.lang-option-labels {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex: 1;
+}
+
+.lang-option-name {
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.lang-option-code {
+  font-size: 0.72rem;
+  color: #94a3b8;
+  font-weight: 500;
+}
+
+.lang-option-item.selected .lang-option-code {
+  color: #3b82f6;
+}
+
+.lang-check-icon {
+  color: #2563eb;
+  stroke-width: 2.5;
+}

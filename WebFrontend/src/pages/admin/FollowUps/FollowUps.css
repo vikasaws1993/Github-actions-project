@@ -1,0 +1,640 @@
+/* Case-Wise Follow-Ups & Call Logs Screen Styles */
+
+.followups-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 24px;
+  background-color: #f8fafc;
+  min-height: 100vh;
+}
+
+/* Top Banner Header */
+.followups-top-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  background: #ffffff;
+  padding: 20px 24px;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+.followups-title-block h2 {
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: #0f172a;
+  margin: 0 0 4px 0;
+}
+
+.followups-title-block p {
+  font-size: 0.875rem;
+  color: #64748b;
+  margin: 0;
+}
+
+.btn-add-followup {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 18px;
+  background: #166534;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 6px rgba(22, 101, 52, 0.25);
+  white-space: nowrap;
+}
+
+.btn-add-followup:hover {
+  background: #14532d;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(22, 101, 52, 0.35);
+}
+
+/* Controls Card: Search & Filters */
+.followups-controls-card {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  background: #ffffff;
+  padding: 16px 20px;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03);
+}
+
+.followups-search-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+}
+
+.search-input-wrap {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex: 1;
+}
+
+.search-icon {
+  position: absolute;
+  left: 14px;
+  color: #94a3b8;
+  pointer-events: none;
+}
+
+.search-input {
+  width: 100%;
+  padding: 10px 38px 10px 42px;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  font-size: 0.875rem;
+  color: #0f172a;
+  background: #f8fafc;
+  transition: all 0.15s ease;
+}
+
+.search-input:focus {
+  outline: none;
+  background: #ffffff;
+  border-color: #166534;
+  box-shadow: 0 0 0 3px rgba(22, 101, 52, 0.12);
+}
+
+.clear-search-btn {
+  position: absolute;
+  right: 12px;
+  background: transparent;
+  border: none;
+  font-size: 1.2rem;
+  color: #94a3b8;
+  cursor: pointer;
+}
+
+/* Category Counter Chips */
+.priority-counters-bar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.counter-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 15px;
+  border-radius: 9999px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.counter-chip.chip-all {
+  background: #ffffff;
+  color: #334155;
+  border-color: #cbd5e1;
+}
+
+.counter-chip.chip-applicant {
+  background: #e6f9ed;
+  color: #15803d;
+  border-color: #bbf7d0;
+}
+
+.counter-chip.chip-relative {
+  background: #ccfbf1;
+  color: #0f766e;
+  border-color: #99f6e4;
+}
+
+.counter-chip.chip-admin {
+  background: #e0e7ff;
+  color: #4338ca;
+  border-color: #c7d2fe;
+}
+
+.counter-chip.chip-urgent {
+  background: #fef2f2;
+  color: #dc2626;
+  border-color: #fca5a5;
+}
+
+.counter-chip.active {
+  box-shadow: 0 0 0 2px #0f172a;
+  font-weight: 800;
+}
+
+.counter-chip:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
+}
+
+/* Case Cards List */
+.case-cards-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.empty-followups-card {
+  text-align: center;
+  padding: 48px 24px;
+  background: #ffffff;
+  border-radius: 12px;
+  border: 1px dashed #cbd5e1;
+  color: #64748b;
+}
+
+.empty-followups-card h3 {
+  font-size: 1.1rem;
+  color: #1e293b;
+  margin: 0 0 4px 0;
+}
+
+.empty-followups-card p {
+  margin: 0;
+  font-size: 0.875rem;
+}
+
+/* Individual Case Follow-Up Card */
+.case-followup-card {
+  background: #ffffff;
+  border-radius: 14px;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  overflow: hidden;
+  transition: all 0.2s ease;
+}
+
+.case-followup-card:hover {
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.07);
+  border-color: #cbd5e1;
+}
+
+.case-followup-card.card-urgent {
+  border-left: 5px solid #ef4444;
+}
+
+/* Case Card Header */
+.case-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 16px;
+  padding: 18px 22px;
+  background: #f8fafc;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.case-card-title-group {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.patient-avatar-circle {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: #166534;
+  color: #ffffff;
+  font-weight: 800;
+  font-size: 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 6px rgba(22, 101, 52, 0.2);
+}
+
+.case-card-patient-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.case-card-top-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.case-patient-name {
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: #0f172a;
+  margin: 0;
+}
+
+.case-id-badge {
+  font-family: monospace;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #475569;
+  background: #e2e8f0;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
+
+.case-status-badge {
+  font-size: 0.775rem;
+  font-weight: 700;
+  padding: 3px 10px;
+  border-radius: 9999px;
+  background: #e2e8f0;
+  color: #334155;
+}
+
+.case-status-badge.status-docs-required {
+  background: #fee2e2;
+  color: #dc2626;
+}
+
+.case-status-badge.status-treatment-started,
+.case-status-badge.status-treatment {
+  background: #dcfce7;
+  color: #15803d;
+}
+
+.case-status-badge.status-pending-review,
+.case-status-badge.status-under-review {
+  background: #fef3c7;
+  color: #b45309;
+}
+
+.case-scheme-tag {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: #15803d;
+  background: #e6f9ed;
+  padding: 2px 8px;
+  border-radius: 4px;
+  border: 1px solid #bbf7d0;
+}
+
+.case-subtitle-text {
+  font-size: 0.825rem;
+  color: #64748b;
+  margin: 0;
+}
+
+/* Header Actions & Contact Badges */
+.case-card-header-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 10px;
+}
+
+.contact-badges-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.contact-chip {
+  font-size: 0.775rem;
+  padding: 4px 10px;
+  border-radius: 6px;
+  font-weight: 500;
+}
+
+.contact-chip.chip-applicant-num {
+  background: #ffffff;
+  border: 1px solid #cbd5e1;
+  color: #334155;
+}
+
+.contact-chip.chip-relative-num {
+  background: #ccfbf1;
+  border: 1px solid #99f6e4;
+  color: #0f766e;
+}
+
+.case-header-btn-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.btn-case-add-fu {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 6px 13px;
+  background: #166534;
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  font-size: 0.775rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.btn-case-add-fu:hover {
+  background: #14532d;
+  transform: translateY(-1px);
+}
+
+.btn-case-view-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 6px 12px;
+  background: #ffffff;
+  color: #334155;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+  font-size: 0.775rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.15s ease;
+}
+
+.btn-case-view-link:hover {
+  background: #e2e8f0;
+  color: #0f172a;
+}
+
+/* Case Card Body Logs List */
+.case-card-logs-body {
+  padding: 16px 22px;
+}
+
+.logs-body-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.logs-body-title {
+  font-size: 0.85rem;
+  font-weight: 800;
+  color: #334155;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.no-logs-text {
+  font-size: 0.825rem;
+  color: #94a3b8;
+  font-style: italic;
+}
+
+/* Table inside Case Card */
+.case-logs-table-wrapper {
+  overflow-x: auto;
+  width: 100%;
+}
+
+.case-logs-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.835rem;
+  text-align: left;
+}
+
+.case-logs-table th {
+  padding: 10px 14px;
+  background: #f1f5f9;
+  color: #475569;
+  font-size: 0.725rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.case-logs-table td {
+  padding: 12px 14px;
+  border-bottom: 1px solid #f1f5f9;
+  vertical-align: middle;
+}
+
+.case-logs-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.log-row-completed {
+  opacity: 0.6;
+  background: #fafafa;
+}
+
+/* Type Badges */
+.type-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 10px;
+  border-radius: 6px;
+  font-size: 0.775rem;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.type-badge.badge-applicant-call {
+  background: #e6f9ed;
+  color: #15803d;
+  border: 1px solid #bbf7d0;
+}
+
+.type-badge.badge-relative-call {
+  background: #ccfbf1;
+  color: #0f766e;
+  border: 1px solid #99f6e4;
+}
+
+.type-badge.badge-admin-followup {
+  background: #e0e7ff;
+  color: #4338ca;
+  border: 1px solid #c7d2fe;
+}
+
+.type-badge.badge-urgent {
+  background: #fee2e2;
+  color: #dc2626;
+  border: 1px solid #fca5a5;
+}
+
+.target-contact-name {
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.phone-num {
+  font-family: monospace;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #475569;
+}
+
+.note-text-cell {
+  font-size: 0.835rem;
+  color: #1e293b;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.timestamp-text {
+  font-size: 0.775rem;
+  color: #64748b;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.status-pill {
+  display: inline-block;
+  padding: 3px 8px;
+  border-radius: 9999px;
+  font-size: 0.725rem;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+
+.status-pill.status-logged {
+  background: #dbeafe;
+  color: #1d4ed8;
+}
+
+.status-pill.status-pending {
+  background: #fef3c7;
+  color: #b45309;
+}
+
+.status-pill.status-urgent {
+  background: #fee2e2;
+  color: #dc2626;
+}
+
+.status-pill.status-completed {
+  background: #f1f5f9;
+  color: #64748b;
+}
+
+.fu-actions-cell {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 6px;
+}
+
+.btn-fu-action {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 9px;
+  border-radius: 5px;
+  font-size: 0.725rem;
+  font-weight: 700;
+  cursor: pointer;
+  border: 1px solid transparent;
+  transition: all 0.15s ease;
+}
+
+.btn-fu-note {
+  background: #f0f9ff;
+  color: #0369a1;
+  border-color: #bae6fd;
+}
+
+.btn-fu-note:hover {
+  background: #0369a1;
+  color: #ffffff;
+}
+
+.btn-fu-resolve {
+  background: #f0fdf4;
+  color: #166534;
+  border-color: #86efac;
+}
+
+.btn-fu-resolve:hover {
+  background: #166534;
+  color: #ffffff;
+}
+
+.done-badge {
+  color: #16a34a;
+  font-size: 0.75rem;
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+@media (max-width: 768px) {
+  .followups-container {
+    padding: 12px;
+  }
+
+  .case-card-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .case-card-header-actions {
+    align-items: flex-start;
+    width: 100%;
+  }
+
+  .contact-badges-row {
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}

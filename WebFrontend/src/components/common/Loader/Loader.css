@@ -1,0 +1,156 @@
+/* ==========================================================================
+   ArogyaMitra Global Standard Loader Component Styles
+   ========================================================================== */
+
+.am-global-loader-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 8px;
+  padding: 32px 20px;
+  width: 100%;
+}
+
+.am-global-loader-container.am-loader-card {
+  background: #ffffff;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  padding: 48px 24px;
+}
+
+.am-global-loader-container.size-sm {
+  padding: 16px 12px;
+  gap: 6px;
+}
+
+.am-global-loader-container.size-lg {
+  padding: 56px 24px;
+  gap: 12px;
+}
+
+/* Spinner Core */
+.am-global-spinner {
+  width: 40px;
+  height: 40px;
+  border: 3.5px solid #e0f2fe;
+  border-top-color: #0284c7;
+  border-radius: 50%;
+  animation: amGlobalSpin 0.8s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+  flex-shrink: 0;
+}
+
+.am-global-spinner.spinner-sm {
+  width: 24px;
+  height: 24px;
+  border-width: 2.5px;
+}
+
+.am-global-spinner.spinner-lg {
+  width: 52px;
+  height: 52px;
+  border-width: 4px;
+}
+
+/* Loader Text Typography */
+.am-global-loader-text {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 600;
+  color: #0f172a;
+  letter-spacing: -0.01em;
+}
+
+.size-sm .am-global-loader-text {
+  font-size: 13px;
+}
+
+.size-lg .am-global-loader-text {
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.am-global-loader-subtext {
+  font-size: 12px;
+  color: #64748b;
+  font-weight: 400;
+  max-width: 420px;
+  line-height: 1.4;
+}
+
+.size-sm .am-global-loader-subtext {
+  font-size: 11px;
+}
+
+.size-lg .am-global-loader-subtext {
+  font-size: 13px;
+}
+
+/* Full Page Glassmorphism Loader Overlay */
+.am-global-loader-fullpage {
+  position: fixed;
+  inset: 0;
+  background: rgba(248, 250, 252, 0.88);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+/* Table Row / Cell Reset for Loader */
+.am-loader-table-row {
+  background: transparent !important;
+}
+
+.am-loader-table-cell {
+  padding: 36px 16px !important;
+  text-align: center !important;
+  border: none !important;
+  vertical-align: middle !important;
+}
+
+/* Spin Keyframe Animation */
+@keyframes amGlobalSpin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes amSpin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.am-spin {
+  display: inline-block;
+  animation: amSpin 0.75s linear infinite;
+  transform-origin: center center;
+}
+
+/* Backward compatibility aliases */
+.wa-loader-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 32px;
+}
+
+.wa-loader-text {
+  font-size: 14px;
+  color: #64748b;
+  font-weight: 500;
+}
+

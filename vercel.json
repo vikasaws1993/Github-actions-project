@@ -1,0 +1,11 @@
+{
+  "buildCommand": "cd WebFrontend && npm install && npm run build",
+  "outputDirectory": "WebFrontend/dist",
+  "framework": "vite",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}

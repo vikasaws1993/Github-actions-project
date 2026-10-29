@@ -1,0 +1,404 @@
+/* ==========================================================================
+   UploadDocumentModal Styles
+   Exact match to the provided design reference
+   ========================================================================== */
+
+.udm-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(15, 23, 42, 0.5);
+  backdrop-filter: blur(3px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10000;
+  padding: 16px;
+}
+
+.udm-modal {
+  background: #ffffff;
+  border-radius: 18px;
+  width: 100%;
+  max-width: 480px;
+  box-shadow: 0 20px 45px -10px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  animation: udm-fade-in 0.18s ease-out;
+}
+
+@keyframes udm-fade-in {
+  from {
+    opacity: 0;
+    transform: scale(0.97) translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+/* Header */
+.udm-header {
+  padding: 18px 22px 14px 22px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  border-bottom: 1px solid #f1f5f9;
+}
+
+.udm-title-group {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.udm-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #0f172a;
+  margin: 0;
+  line-height: 1.25;
+}
+
+.udm-subtitle {
+  font-size: 12.5px;
+  font-weight: 400;
+  color: #64748b;
+  margin: 0;
+}
+
+.udm-close-btn {
+  background: transparent;
+  border: none;
+  color: #64748b;
+  cursor: pointer;
+  padding: 4px;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.15s ease;
+}
+
+.udm-close-btn:hover {
+  background: #f1f5f9;
+  color: #0f172a;
+}
+
+/* Form Body */
+.udm-form {
+  padding: 18px 22px 22px 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.udm-form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.udm-label {
+  font-size: 13px;
+  font-weight: 700;
+  color: #1e293b;
+}
+
+.udm-input-text {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px 14px;
+  border: 1.5px solid #cbd5e1;
+  border-radius: 10px;
+  font-size: 13.5px;
+  color: #0f172a;
+  background: #ffffff;
+  outline: none;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.udm-input-text::placeholder {
+  color: #94a3b8;
+  font-size: 13px;
+}
+
+.udm-input-text:focus {
+  border-color: #38bdf8;
+  box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.15);
+}
+
+/* Chips Row */
+.udm-chips-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-top: 2px;
+}
+
+.udm-chip {
+  background: #f1f5f9;
+  border: 1px solid #e2e8f0;
+  color: #334155;
+  font-size: 11.5px;
+  font-weight: 600;
+  padding: 5px 11px;
+  border-radius: 7px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.udm-chip:hover {
+  background: #e2e8f0;
+  color: #0f172a;
+}
+
+.udm-chip.is-active {
+  background: #eff6ff;
+  border-color: #93c5fd;
+  color: #1d4ed8;
+}
+
+/* Document File Button (Single full-width button) */
+.udm-file-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 13px 16px;
+  border-radius: 12px;
+  border: 1.5px solid #cbd5e1;
+  background: #ffffff;
+  font-size: 13px;
+  font-weight: 600;
+  color: #1e293b;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  text-align: center;
+}
+
+.udm-file-btn:hover {
+  border-color: #0284c7;
+  background: #f8fafc;
+  color: #0284c7;
+}
+
+.udm-file-btn-active {
+  border-color: #0284c7;
+  background: #f0f9ff;
+  color: #0369a1;
+}
+
+.udm-gallery-icon {
+  color: #0284c7;
+  flex-shrink: 0;
+}
+
+/* File Attached Banner */
+.udm-file-attached {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 12px;
+  background: #f0fdf4;
+  border: 1px solid #bbf7d0;
+  border-radius: 8px;
+  font-size: 12px;
+  color: #166534;
+}
+
+.udm-file-attached-left {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.udm-file-remove {
+  background: transparent;
+  border: none;
+  color: #64748b;
+  cursor: pointer;
+  padding: 2px;
+  border-radius: 4px;
+  display: flex;
+}
+
+.udm-file-remove:hover {
+  color: #dc2626;
+}
+
+/* Cloudinary Live Preview Box & Loading */
+.udm-cloudinary-loading {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  background: #f0fdfa;
+  border: 1px dashed #5eead4;
+  border-radius: 8px;
+  font-size: 12px;
+  color: #0f766e;
+  font-weight: 500;
+}
+
+.udm-spinner {
+  animation: udm-spin 1s linear infinite;
+}
+
+@keyframes udm-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.udm-cloudinary-box {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 9px 12px;
+  background: #f0fdf4;
+  border: 1px solid #86efac;
+  border-radius: 10px;
+}
+
+.udm-cloudinary-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.udm-cloudinary-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 11px;
+  font-weight: 700;
+  color: #15803d;
+  background: #dcfce7;
+  padding: 2px 7px;
+  border-radius: 5px;
+}
+
+.udm-cloudinary-open-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 11.5px;
+  font-weight: 600;
+  color: #0369a1;
+  text-decoration: none;
+  background: #e0f2fe;
+  padding: 3px 8px;
+  border-radius: 5px;
+  transition: all 0.15s ease;
+}
+
+.udm-cloudinary-open-btn:hover {
+  background: #bae6fd;
+  color: #0284c7;
+}
+
+.udm-cloudinary-url {
+  font-size: 10.5px;
+  font-family: monospace;
+  color: #166534;
+  word-break: break-all;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  background: rgba(255, 255, 255, 0.6);
+  padding: 3px 6px;
+  border-radius: 4px;
+}
+
+/* Textarea */
+.udm-textarea {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px 14px;
+  border: 1.5px solid #cbd5e1;
+  border-radius: 10px;
+  font-size: 13px;
+  color: #0f172a;
+  background: #ffffff;
+  outline: none;
+  font-family: inherit;
+  resize: vertical;
+  min-height: 72px;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.udm-textarea::placeholder {
+  color: #94a3b8;
+}
+
+.udm-textarea:focus {
+  border-color: #38bdf8;
+  box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.15);
+}
+
+/* Submit Button */
+.udm-submit-btn {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 13px;
+  border-radius: 12px;
+  border: none;
+  background: #0284c7;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  margin-top: 4px;
+  box-shadow: 0 4px 12px rgba(2, 132, 199, 0.25);
+}
+
+.udm-submit-btn:hover:not(:disabled) {
+  background: #0369a1;
+  box-shadow: 0 6px 16px rgba(2, 132, 199, 0.35);
+  transform: translateY(-1px);
+}
+
+.udm-submit-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  box-shadow: none;
+}
+
+/* Success Notice State */
+.udm-success-state {
+  padding: 36px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 10px;
+}
+
+.udm-success-icon {
+  color: #16a34a;
+}
+
+.udm-success-title {
+  font-size: 17px;
+  font-weight: 700;
+  color: #0f172a;
+  margin: 0;
+}
+
+.udm-success-sub {
+  font-size: 13px;
+  color: #64748b;
+  margin: 0;
+}

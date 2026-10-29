@@ -1,0 +1,729 @@
+/* AdminProfile.css — ArogyaMitra System Admin & Operator Profile Module */
+
+.admin-profile-page {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding-bottom: 40px;
+  animation: fadeIn 0.25s ease-in-out;
+}
+
+/* 1. Hero Header Banner Card */
+.profile-banner-card {
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 60%, #090d16 100%);
+  border-radius: 20px;
+  padding: 26px 32px;
+  color: #ffffff;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.12);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.profile-identity-wrap {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+}
+
+.profile-avatar-large {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%);
+  color: #ffffff;
+  font-size: 1.85rem;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 3.5px solid rgba(255, 255, 255, 0.25);
+  box-shadow: 0 6px 20px rgba(37, 99, 235, 0.35);
+  flex-shrink: 0;
+}
+
+.profile-meta-info {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.profile-full-name {
+  font-size: 1.65rem;
+  font-weight: 800;
+  letter-spacing: -0.4px;
+  margin: 0;
+  color: #ffffff !important;
+}
+
+.profile-subtitle-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.profile-role-title {
+  font-size: 0.9rem;
+  color: #94a3b8;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.profile-id-badge {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 3px 10px;
+  border-radius: 6px;
+  font-size: 0.775rem;
+  font-family: monospace;
+  font-weight: 700;
+  color: #60a5fa;
+}
+
+.btn-remove-hero-avatar {
+  background: transparent;
+  border: none;
+  color: #ef4444;
+  font-size: 0.775rem;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 0;
+  text-decoration: underline;
+  margin-left: 6px;
+  transition: color 0.15s ease;
+}
+
+.btn-remove-hero-avatar:hover {
+  color: #f87171;
+}
+
+.profile-banner-right-actions {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.btn-edit-profile-action {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(255, 255, 255, 0.12);
+  color: #ffffff;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  padding: 9px 18px;
+  border-radius: 10px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.btn-edit-profile-action:hover {
+  background: #2563eb;
+  border-color: #2563eb;
+  box-shadow: 0 4px 14px rgba(37, 99, 235, 0.4);
+  transform: translateY(-1px);
+}
+
+.profile-status-pill {
+  background: rgba(34, 197, 94, 0.15);
+  color: #4ade80;
+  border: 1px solid rgba(34, 197, 94, 0.3);
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.pulse-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #22c55e;
+  box-shadow: 0 0 8px #22c55e;
+}
+
+/* 2. Top 4-Card KPI Grid */
+.profile-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+}
+
+@media (max-width: 1024px) {
+  .profile-stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 580px) {
+  .profile-stats-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.profile-stat-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.03);
+  transition: all 0.2s ease;
+}
+
+.profile-stat-card:hover {
+  border-color: #cbd5e1;
+  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.06);
+  transform: translateY(-1px);
+}
+
+.stat-card-icon {
+  width: 44px;
+  height: 44px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.stat-card-icon.green { background: #f0fdf4; color: #166534; }
+.stat-card-icon.blue { background: #eff6ff; color: #2563eb; }
+.stat-card-icon.purple { background: #faf5ff; color: #7c3aed; }
+.stat-card-icon.amber { background: #fffbeb; color: #d97706; }
+
+.stat-card-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.stat-card-value {
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: #0f172a;
+  line-height: 1.2;
+}
+
+.stat-card-label {
+  font-size: 0.775rem;
+  font-weight: 600;
+  color: #64748b;
+}
+
+/* 3. Main 2-Column Content Grid */
+.profile-content-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+@media (max-width: 900px) {
+  .profile-content-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.profile-card-section {
+  background: #ffffff;
+  border-radius: 16px;
+  border: 1px solid #e2e8f0;
+  padding: 24px;
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.03);
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.profile-section-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #0f172a;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #f1f5f9;
+}
+
+/* Details List */
+.profile-detail-list {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.detail-item-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 12px;
+  border-bottom: 1px dashed #e2e8f0;
+}
+
+.detail-item-row:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.detail-label-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #64748b;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.detail-value-text {
+  font-size: 0.875rem;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.detail-access-pill {
+  background: #f0fdf4;
+  color: #166534;
+  border: 1px solid #bbf7d0;
+  padding: 3px 10px;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+/* Activity Audit Stream */
+.profile-activity-stream {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.activity-log-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #f1f5f9;
+}
+
+.activity-log-item:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.activity-icon-pill {
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.activity-icon-pill.blue { background: #eff6ff; color: #2563eb; }
+.activity-icon-pill.green { background: #f0fdf4; color: #166534; }
+.activity-icon-pill.amber { background: #fffbeb; color: #d97706; }
+
+.activity-text-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.activity-title {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #0f172a;
+}
+
+.activity-time {
+  font-size: 0.75rem;
+  color: #94a3b8;
+}
+
+/* 4. Profile Edit Modal Custom Styling */
+.profile-edit-modal {
+  width: 100%;
+  max-width: 600px;
+  max-height: 90vh;
+  border-radius: 18px;
+  overflow: hidden;
+  box-shadow: 0 25px 50px -12px rgba(15, 23, 42, 0.25);
+  border: 1px solid #e2e8f0;
+  display: flex;
+  flex-direction: column;
+}
+
+.profile-edit-modal form {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  flex: 1;
+  min-height: 0;
+}
+
+.modal-header-styled {
+  background: linear-gradient(135deg, #f8fafc 0%, #eff6ff 100%);
+  padding: 16px 22px;
+  border-bottom: 1px solid #e2e8f0;
+  flex-shrink: 0;
+}
+
+.modal-title-icon-box {
+  width: 36px;
+  height: 36px;
+  border-radius: 10px;
+  background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+  flex-shrink: 0;
+}
+
+.profile-edit-form-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  padding: 18px 22px;
+  background: #ffffff;
+  overflow-y: auto;
+  flex: 1;
+  min-height: 0;
+}
+
+.form-field-stylish {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.form-label-stylish {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #334155;
+}
+
+.input-with-icon-wrap {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.input-icon-left {
+  position: absolute;
+  left: 12px;
+  color: #94a3b8;
+  pointer-events: none;
+  transition: color 0.15s ease;
+}
+
+.form-input-stylish {
+  width: 100%;
+  padding: 8px 12px 8px 36px;
+  border-radius: 8px;
+  border: 1.5px solid #cbd5e1;
+  background: #f8fafc;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #0f172a;
+  outline: none;
+  box-sizing: border-box;
+  transition: all 0.2s ease;
+}
+
+.form-input-stylish:focus {
+  background: #ffffff;
+  border-color: #2563eb;
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.12);
+}
+
+.input-with-icon-wrap:focus-within .input-icon-left {
+  color: #2563eb;
+}
+
+/* Avatar Container & Badge */
+.profile-avatar-container {
+  position: relative;
+  display: inline-block;
+}
+
+.profile-avatar-img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.profile-avatar-badge {
+  position: absolute;
+  bottom: -2px;
+  right: -2px;
+  background: #2563eb;
+  color: #ffffff;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border: 2px solid #0f172a;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  transition: all 0.2s ease;
+}
+
+.profile-avatar-badge:hover {
+  background: #1d4ed8;
+  transform: scale(1.1);
+}
+
+/* Photo Upload Section inside Edit Modal */
+.admin-photo-upload-section {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.admin-photo-upload-card {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  background: #f8fafc;
+  border: 1.5px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 10px 16px;
+  transition: border-color 0.15s ease;
+}
+
+.admin-photo-upload-card:hover {
+  border-color: #cbd5e1;
+}
+
+.admin-photo-preview-circle {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  border: 3px solid #ffffff;
+  box-shadow: 0 4px 14px rgba(37, 99, 235, 0.25);
+  flex-shrink: 0;
+}
+
+.admin-photo-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.admin-photo-initials {
+  font-size: 1.35rem;
+  font-weight: 800;
+}
+
+.admin-photo-upload-controls {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.admin-photo-btn-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.btn-upload-admin-photo {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #ffffff;
+  border: 1.5px solid #2563eb;
+  color: #2563eb;
+  padding: 7px 16px;
+  border-radius: 8px;
+  font-size: 0.825rem;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 1px 3px rgba(37, 99, 235, 0.08);
+  transition: all 0.15s ease;
+}
+
+.btn-upload-admin-photo:hover {
+  background: #eff6ff;
+  border-color: #1d4ed8;
+  color: #1d4ed8;
+  transform: translateY(-1px);
+}
+
+.btn-remove-admin-photo {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #ffffff;
+  border: 1.5px solid #fecaca;
+  color: #dc2626;
+  padding: 7px 14px;
+  border-radius: 8px;
+  font-size: 0.825rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.btn-remove-admin-photo:hover {
+  background: #fef2f2;
+  border-color: #f87171;
+}
+
+.admin-photo-hint {
+  font-size: 0.75rem;
+  color: #64748b;
+  font-weight: 500;
+}
+
+.profile-edit-modal-footer {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 12px;
+  padding: 14px 22px;
+  background: #f8fafc;
+  border-top: 1px solid #e2e8f0;
+  flex-shrink: 0;
+}
+
+.btn-profile-modal-cancel {
+  padding: 10px 22px;
+  background: #ffffff;
+  border: 1.5px solid #cbd5e1;
+  color: #475569;
+  border-radius: 10px;
+  font-size: 0.875rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.btn-profile-modal-cancel:hover {
+  background: #f1f5f9;
+  color: #0f172a;
+  border-color: #94a3b8;
+}
+
+.btn-profile-modal-save {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 24px;
+  background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+  border: none;
+  color: #ffffff;
+  border-radius: 10px;
+  font-size: 0.875rem;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 4px 14px rgba(37, 99, 235, 0.3);
+  transition: all 0.2s ease;
+}
+
+.btn-profile-modal-save:hover {
+  background: linear-gradient(135deg, #1d4ed8 0%, #1e40af 100%);
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px rgba(37, 99, 235, 0.4);
+}
+
+/* Change Password Action Button in Header Banner */
+.btn-change-password-action {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(245, 158, 11, 0.15);
+  color: #fbbf24;
+  border: 1px solid rgba(245, 158, 11, 0.35);
+  padding: 9px 18px;
+  border-radius: 10px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.btn-change-password-action:hover {
+  background: #d97706;
+  color: #ffffff;
+  border-color: #d97706;
+  box-shadow: 0 4px 14px rgba(217, 119, 6, 0.4);
+  transform: translateY(-1px);
+}
+
+/* Password Modal Custom Icon & Elements */
+.password-icon-box {
+  background: linear-gradient(135deg, #d97706 0%, #b45309 100%) !important;
+  box-shadow: 0 4px 12px rgba(217, 119, 6, 0.3) !important;
+}
+
+.btn-toggle-eye {
+  position: absolute;
+  right: 12px;
+  background: transparent;
+  border: none;
+  color: #94a3b8;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px;
+  border-radius: 6px;
+  transition: color 0.15s ease, background 0.15s ease;
+}
+
+.btn-toggle-eye:hover {
+  color: #0f172a;
+  background: #f1f5f9;
+}
+
+.password-error-alert {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: #fef2f2;
+  border: 1px solid #fecaca;
+  color: #dc2626;
+  padding: 10px 14px;
+  border-radius: 10px;
+  font-size: 0.825rem;
+  font-weight: 600;
+  animation: fadeIn 0.2s ease-in-out;
+}
+
+.btn-pwd-submit {
+  background: linear-gradient(135deg, #d97706 0%, #b45309 100%) !important;
+  box-shadow: 0 4px 14px rgba(217, 119, 6, 0.35) !important;
+}
+
+.btn-pwd-submit:hover {
+  background: linear-gradient(135deg, #b45309 0%, #92400e 100%) !important;
+  box-shadow: 0 6px 18px rgba(217, 119, 6, 0.45) !important;
+}
+

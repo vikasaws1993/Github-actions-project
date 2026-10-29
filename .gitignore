@@ -1,0 +1,50 @@
+# Root Git Ignore for ArogyaMitra
+
+# Environment files in any directory
+.env
+.env.*
+.env.local
+.env.development
+.env.development.local
+.env.test
+.env.test.local
+.env.production
+.env.production.local
+**/.env
+**/.env.*
+**/.env.local
+**/.env.development
+**/.env.production
+!.env.example
+!**/.env.example
+
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+dist/
+**/dist/
+build/
+**/build/
+.gradle/
+**/android/.gradle/
+**/ios/Pods/
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+scratch/
+**/scratch/
+.kotlin/
+**/.kotlin/

@@ -1,0 +1,422 @@
+/* ==========================================================================
+   ArogyaSevak Sidebar - Matching Admin Panel Sidebar Layout & Styling Exactly
+   ========================================================================== */
+
+.am-sidebar {
+  width: 236px;
+  min-width: 236px;
+  height: 100vh;
+  background-color: #13172b;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  position: sticky;
+  top: 0;
+  border-right: 1px solid #1f2542;
+  box-shadow: 2px 0 12px rgba(10, 14, 29, 0.15);
+  flex-shrink: 0;
+  user-select: none;
+  z-index: 100;
+}
+
+/* Brand Header */
+.am-sidebar-brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 22px 18px 18px 18px;
+}
+
+.am-brand-logo {
+  width: 38px;
+  height: 38px;
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  flex-shrink: 0;
+}
+
+.am-brand-icon {
+  color: #10b981;
+}
+
+.am-brand-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.am-brand-title {
+  font-family: var(--font-family-heading, system-ui);
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0;
+  line-height: 1.15;
+  letter-spacing: -0.2px;
+}
+
+.am-brand-subtitle {
+  font-size: 0.725rem;
+  color: #34d399;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  line-height: 1.2;
+}
+
+/* Profile Card in Sidebar */
+.am-sidebar-user {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 18px;
+  margin: 0 10px 14px 10px;
+  background: rgba(255, 255, 255, 0.04);
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.am-user-avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: #272e49;
+  color: #ffffff;
+  font-size: 0.85rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  letter-spacing: 0.5px;
+  flex-shrink: 0;
+}
+
+.am-user-info {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.am-user-name {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #ffffff;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.am-user-hosp {
+  font-size: 0.725rem;
+  color: #8b9bb4;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+/* Navigation Menu */
+.am-sidebar-nav {
+  flex: 1;
+  padding: 6px 12px;
+  overflow-y: auto;
+}
+
+.am-nav-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.am-nav-link {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 9px 12px;
+  border-radius: 7px;
+  color: #94a3b8;
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 500;
+  transition: all 0.15s ease;
+}
+
+.am-nav-icon {
+  color: #94a3b8;
+  flex-shrink: 0;
+  opacity: 0.85;
+  transition: color 0.15s ease;
+}
+
+.am-nav-text {
+  flex: 1;
+}
+
+.am-nav-link:hover {
+  color: #ffffff;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.am-nav-link:hover .am-nav-icon {
+  color: #34d399;
+  opacity: 1;
+}
+
+.am-nav-link.is-active {
+  color: #ffffff;
+  background: #222944;
+  font-weight: 600;
+  box-shadow: inset 3px 0 0 #10b981;
+}
+
+.am-nav-link.is-active .am-nav-icon {
+  opacity: 1;
+  color: #34d399;
+}
+
+/* Badges */
+.am-nav-badge {
+  background: #ea580c;
+  color: #ffffff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 1px 7px;
+  border-radius: 12px;
+  line-height: 1.4;
+}
+
+.am-badge-orange {
+  background-color: #ea580c;
+}
+
+.am-badge-red {
+  background-color: #ef4444;
+}
+
+/* Sidebar Footer */
+.am-sidebar-footer {
+  padding: 12px 14px;
+  border-top: 1px solid #1a2038;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.am-profile-footer-btn {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 9px 12px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 6px;
+  color: #94a3b8;
+  font-size: 0.825rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.15s ease;
+  box-sizing: border-box;
+}
+
+.am-profile-footer-btn:hover {
+  background: rgba(255, 255, 255, 0.08);
+  color: #ffffff;
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+.am-profile-footer-btn.active {
+  background: #222944;
+  color: #34d399;
+  border-color: #10b981;
+}
+
+.am-logout-btn {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 8px 12px;
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 6px;
+  color: #828fa6;
+  font-size: 0.8rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  box-sizing: border-box;
+}
+
+.am-logout-btn:hover {
+  background: rgba(255, 255, 255, 0.08);
+  color: #ffffff;
+}
+
+/* Mobile Sidebar Drawer & Overlay */
+.am-sidebar-backdrop {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(15, 23, 42, 0.6);
+  backdrop-filter: blur(2px);
+  z-index: 999;
+  opacity: 0;
+  transition: opacity 0.25s ease;
+  pointer-events: none;
+}
+
+.am-sidebar-backdrop.active {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+@media (max-width: 900px) {
+  .am-sidebar-backdrop {
+    display: block;
+  }
+
+  .am-sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    transform: translateX(-100%);
+    transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+    z-index: 1000;
+    box-shadow: 4px 0 20px rgba(0, 0, 0, 0.3);
+  }
+
+  .am-sidebar.mobile-open {
+    transform: translateX(0);
+  }
+}
+
+.am-sidebar-avatar-img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+/* Logout Modal Confirmation Styles */
+.am-logout-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(15, 23, 42, 0.65);
+  backdrop-filter: blur(4px);
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  animation: fadeIn 0.15s ease-out;
+}
+
+.am-logout-modal-card {
+  background: #ffffff;
+  border-radius: 16px;
+  width: 100%;
+  max-width: 420px;
+  padding: 24px;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+  border: 1px solid #e2e8f0;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.am-logout-modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.am-logout-icon-wrap {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  background-color: #fef2f2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.am-logout-close-btn {
+  background: transparent;
+  border: none;
+  color: #94a3b8;
+  cursor: pointer;
+  padding: 4px;
+  border-radius: 6px;
+}
+
+.am-logout-close-btn:hover {
+  background-color: #f1f5f9;
+  color: #334155;
+}
+
+.am-logout-modal-body h3 {
+  font-size: 18px;
+  font-weight: 800;
+  color: #0f172a;
+  margin: 0 0 6px 0;
+}
+
+.am-logout-modal-body p {
+  font-size: 14px;
+  color: #64748b;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.am-logout-modal-actions {
+  display: flex;
+  gap: 12px;
+  margin-top: 8px;
+}
+
+.am-btn-logout-cancel {
+  flex: 1;
+  padding: 10px 16px;
+  background: #ffffff;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #475569;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.am-btn-logout-cancel:hover {
+  background: #f8fafc;
+  border-color: #94a3b8;
+}
+
+.am-btn-logout-confirm {
+  flex: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 16px;
+  background: #dc2626;
+  border: none;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 700;
+  color: #ffffff;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(220, 38, 38, 0.25);
+  transition: all 0.15s ease;
+}
+
+.am-btn-logout-confirm:hover {
+  background: #b91c1c;
+  box-shadow: 0 6px 16px rgba(220, 38, 38, 0.35);
+}
